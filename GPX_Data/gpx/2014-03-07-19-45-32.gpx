@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2016-05-04T03:24:31.680Z</time>
+  <bounds minlat="44.022597523" minlon="-123.124589046" maxlat="44.022597523" maxlon="-123.124589046"/>
+  <trk>
+    <trkseg>
+      <trkpt lat="44.022597523" lon="-123.124589046">
+        <ele>289.800000</ele>
+        <time>2014-03-08T03:45:32Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

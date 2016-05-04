@@ -1,0 +1,3749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2016-05-04T03:25:57.888Z</time>
+  <bounds minlat="44.020177752" minlon="-123.152287883" maxlat="44.047256663" maxlon="-123.070794746"/>
+  <trk>
+    <trkseg>
+      <trkpt lat="44.045670053" lon="-123.070794746">
+        <ele>125.800000</ele>
+        <time>2016-04-06T02:25:35Z</time>
+        <speed>2.378000</speed>
+      </trkpt>
+      <trkpt lat="44.045578858" lon="-123.070914607">
+        <ele>125.000000</ele>
+        <time>2016-04-06T02:25:40Z</time>
+        <speed>2.546000</speed>
+      </trkpt>
+      <trkpt lat="44.045526471" lon="-123.071025248">
+        <ele>125.000000</ele>
+        <time>2016-04-06T02:25:43Z</time>
+        <speed>3.458000</speed>
+      </trkpt>
+      <trkpt lat="44.045517586" lon="-123.071076545">
+        <ele>124.800000</ele>
+        <time>2016-04-06T02:25:44Z</time>
+        <speed>3.827000</speed>
+      </trkpt>
+      <trkpt lat="44.045505684" lon="-123.071316938">
+        <ele>125.200000</ele>
+        <time>2016-04-06T02:25:48Z</time>
+        <speed>4.484000</speed>
+      </trkpt>
+      <trkpt lat="44.045507863" lon="-123.071382233">
+        <ele>125.200000</ele>
+        <time>2016-04-06T02:25:49Z</time>
+        <speed>4.693000</speed>
+      </trkpt>
+      <trkpt lat="44.045508366" lon="-123.071447361">
+        <ele>125.200000</ele>
+        <time>2016-04-06T02:25:50Z</time>
+        <speed>4.862000</speed>
+      </trkpt>
+      <trkpt lat="44.045522112" lon="-123.071813482">
+        <ele>125.400000</ele>
+        <time>2016-04-06T02:25:55Z</time>
+        <speed>5.269000</speed>
+      </trkpt>
+      <trkpt lat="44.045525884" lon="-123.072364760">
+        <ele>126.000000</ele>
+        <time>2016-04-06T02:26:03Z</time>
+        <speed>4.866000</speed>
+      </trkpt>
+      <trkpt lat="44.045526220" lon="-123.072810761">
+        <ele>126.800000</ele>
+        <time>2016-04-06T02:26:10Z</time>
+        <speed>4.593000</speed>
+      </trkpt>
+      <trkpt lat="44.045547342" lon="-123.073231868">
+        <ele>127.800000</ele>
+        <time>2016-04-06T02:26:17Z</time>
+        <speed>4.995000</speed>
+      </trkpt>
+      <trkpt lat="44.045548935" lon="-123.073296995">
+        <ele>127.800000</ele>
+        <time>2016-04-06T02:26:18Z</time>
+        <speed>5.010000</speed>
+      </trkpt>
+      <trkpt lat="44.045530494" lon="-123.073743164">
+        <ele>128.600000</ele>
+        <time>2016-04-06T02:26:25Z</time>
+        <speed>4.147000</speed>
+      </trkpt>
+      <trkpt lat="44.045500236" lon="-123.074029574">
+        <ele>129.000000</ele>
+        <time>2016-04-06T02:26:31Z</time>
+        <speed>3.572000</speed>
+      </trkpt>
+      <trkpt lat="44.045494368" lon="-123.074352109">
+        <ele>129.000000</ele>
+        <time>2016-04-06T02:26:37Z</time>
+        <speed>4.844000</speed>
+      </trkpt>
+      <trkpt lat="44.045502080" lon="-123.074604153">
+        <ele>128.600000</ele>
+        <time>2016-04-06T02:26:41Z</time>
+        <speed>4.863000</speed>
+      </trkpt>
+      <trkpt lat="44.045500906" lon="-123.074790651">
+        <ele>128.600000</ele>
+        <time>2016-04-06T02:26:44Z</time>
+        <speed>4.743000</speed>
+      </trkpt>
+      <trkpt lat="44.045493949" lon="-123.075166830">
+        <ele>128.800000</ele>
+        <time>2016-04-06T02:26:50Z</time>
+        <speed>5.452000</speed>
+      </trkpt>
+      <trkpt lat="44.045493698" lon="-123.075590452">
+        <ele>128.600000</ele>
+        <time>2016-04-06T02:26:56Z</time>
+        <speed>5.662000</speed>
+      </trkpt>
+      <trkpt lat="44.045499397" lon="-123.075662368">
+        <ele>128.600000</ele>
+        <time>2016-04-06T02:26:57Z</time>
+        <speed>5.622000</speed>
+      </trkpt>
+      <trkpt lat="44.045502583" lon="-123.075952550">
+        <ele>128.400000</ele>
+        <time>2016-04-06T02:27:01Z</time>
+        <speed>5.643000</speed>
+      </trkpt>
+      <trkpt lat="44.045483304" lon="-123.076161427">
+        <ele>128.200000</ele>
+        <time>2016-04-06T02:27:04Z</time>
+        <speed>5.524000</speed>
+      </trkpt>
+      <trkpt lat="44.045513898" lon="-123.076536852">
+        <ele>127.800000</ele>
+        <time>2016-04-06T02:27:09Z</time>
+        <speed>6.024000</speed>
+      </trkpt>
+      <trkpt lat="44.045523118" lon="-123.077236071">
+        <ele>127.200000</ele>
+        <time>2016-04-06T02:27:18Z</time>
+        <speed>6.355000</speed>
+      </trkpt>
+      <trkpt lat="44.045532422" lon="-123.077541172">
+        <ele>126.800000</ele>
+        <time>2016-04-06T02:27:22Z</time>
+        <speed>6.009000</speed>
+      </trkpt>
+      <trkpt lat="44.045543319" lon="-123.077689113">
+        <ele>126.600000</ele>
+        <time>2016-04-06T02:27:24Z</time>
+        <speed>5.897000</speed>
+      </trkpt>
+      <trkpt lat="44.045522196" lon="-123.078028915">
+        <ele>126.000000</ele>
+        <time>2016-04-06T02:27:29Z</time>
+        <speed>5.098000</speed>
+      </trkpt>
+      <trkpt lat="44.045526136" lon="-123.078160176">
+        <ele>126.200000</ele>
+        <time>2016-04-06T02:27:31Z</time>
+        <speed>5.264000</speed>
+      </trkpt>
+      <trkpt lat="44.045532338" lon="-123.078357653">
+        <ele>125.600000</ele>
+        <time>2016-04-06T02:27:34Z</time>
+        <speed>5.159000</speed>
+      </trkpt>
+      <trkpt lat="44.045539714" lon="-123.078476090">
+        <ele>125.400000</ele>
+        <time>2016-04-06T02:27:36Z</time>
+        <speed>4.307000</speed>
+      </trkpt>
+      <trkpt lat="44.045512138" lon="-123.078626461">
+        <ele>125.400000</ele>
+        <time>2016-04-06T02:27:40Z</time>
+        <speed>2.498000</speed>
+      </trkpt>
+      <trkpt lat="44.045488166" lon="-123.078672226">
+        <ele>125.400000</ele>
+        <time>2016-04-06T02:27:42Z</time>
+        <speed>2.346000</speed>
+      </trkpt>
+      <trkpt lat="44.045424631" lon="-123.078692426">
+        <ele>125.400000</ele>
+        <time>2016-04-06T02:27:44Z</time>
+        <speed>4.160000</speed>
+      </trkpt>
+      <trkpt lat="44.045295885" lon="-123.078695528">
+        <ele>125.400000</ele>
+        <time>2016-04-06T02:27:47Z</time>
+        <speed>4.386000</speed>
+      </trkpt>
+      <trkpt lat="44.045169653" lon="-123.078689409">
+        <ele>125.200000</ele>
+        <time>2016-04-06T02:27:50Z</time>
+        <speed>4.396000</speed>
+      </trkpt>
+      <trkpt lat="44.045127828" lon="-123.078695109">
+        <ele>125.400000</ele>
+        <time>2016-04-06T02:27:51Z</time>
+        <speed>4.545000</speed>
+      </trkpt>
+      <trkpt lat="44.044914676" lon="-123.078702569">
+        <ele>125.600000</ele>
+        <time>2016-04-06T02:27:56Z</time>
+        <speed>4.214000</speed>
+      </trkpt>
+      <trkpt lat="44.044781152" lon="-123.078706676">
+        <ele>125.600000</ele>
+        <time>2016-04-06T02:27:59Z</time>
+        <speed>4.724000</speed>
+      </trkpt>
+      <trkpt lat="44.044663135" lon="-123.078707011">
+        <ele>125.600000</ele>
+        <time>2016-04-06T02:28:02Z</time>
+        <speed>4.094000</speed>
+      </trkpt>
+      <trkpt lat="44.044575712" lon="-123.078710531">
+        <ele>125.800000</ele>
+        <time>2016-04-06T02:28:06Z</time>
+        <speed>1.113000</speed>
+      </trkpt>
+      <trkpt lat="44.044463227" lon="-123.078703826">
+        <ele>126.000000</ele>
+        <time>2016-04-06T02:28:10Z</time>
+        <speed>4.004000</speed>
+      </trkpt>
+      <trkpt lat="44.044216799" lon="-123.078673483">
+        <ele>126.400000</ele>
+        <time>2016-04-06T02:28:16Z</time>
+        <speed>4.399000</speed>
+      </trkpt>
+      <trkpt lat="44.044172542" lon="-123.078673064">
+        <ele>126.800000</ele>
+        <time>2016-04-06T02:28:17Z</time>
+        <speed>4.783000</speed>
+      </trkpt>
+      <trkpt lat="44.043946566" lon="-123.078676501">
+        <ele>127.800000</ele>
+        <time>2016-04-06T02:28:22Z</time>
+        <speed>4.510000</speed>
+      </trkpt>
+      <trkpt lat="44.043899544" lon="-123.078683206">
+        <ele>128.200000</ele>
+        <time>2016-04-06T02:28:23Z</time>
+        <speed>4.783000</speed>
+      </trkpt>
+      <trkpt lat="44.043731403" lon="-123.078682955">
+        <ele>129.000000</ele>
+        <time>2016-04-06T02:28:27Z</time>
+        <speed>4.025000</speed>
+      </trkpt>
+      <trkpt lat="44.043656468" lon="-123.078686140">
+        <ele>129.600000</ele>
+        <time>2016-04-06T02:28:29Z</time>
+        <speed>4.137000</speed>
+      </trkpt>
+      <trkpt lat="44.043504253" lon="-123.078710196">
+        <ele>130.200000</ele>
+        <time>2016-04-06T02:28:33Z</time>
+        <speed>3.981000</speed>
+      </trkpt>
+      <trkpt lat="44.043430576" lon="-123.078719081">
+        <ele>130.200000</ele>
+        <time>2016-04-06T02:28:35Z</time>
+        <speed>3.940000</speed>
+      </trkpt>
+      <trkpt lat="44.043332256" lon="-123.078841205">
+        <ele>130.800000</ele>
+        <time>2016-04-06T02:28:39Z</time>
+        <speed>3.733000</speed>
+      </trkpt>
+      <trkpt lat="44.043321444" lon="-123.079083861">
+        <ele>130.600000</ele>
+        <time>2016-04-06T02:28:44Z</time>
+        <speed>4.134000</speed>
+      </trkpt>
+      <trkpt lat="44.043317840" lon="-123.079387454">
+        <ele>130.200000</ele>
+        <time>2016-04-06T02:28:50Z</time>
+        <speed>4.232000</speed>
+      </trkpt>
+      <trkpt lat="44.043327395" lon="-123.079745445">
+        <ele>129.800000</ele>
+        <time>2016-04-06T02:28:56Z</time>
+        <speed>5.146000</speed>
+      </trkpt>
+      <trkpt lat="44.043327143" lon="-123.079813757">
+        <ele>129.800000</ele>
+        <time>2016-04-06T02:28:57Z</time>
+        <speed>5.408000</speed>
+      </trkpt>
+      <trkpt lat="44.043336866" lon="-123.080123469">
+        <ele>128.800000</ele>
+        <time>2016-04-06T02:29:02Z</time>
+        <speed>3.923000</speed>
+      </trkpt>
+      <trkpt lat="44.043335190" lon="-123.080163702">
+        <ele>128.400000</ele>
+        <time>2016-04-06T02:29:05Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.043341309" lon="-123.080265123">
+        <ele>128.400000</ele>
+        <time>2016-04-06T02:29:10Z</time>
+        <speed>1.801000</speed>
+      </trkpt>
+      <trkpt lat="44.043355390" lon="-123.080419518">
+        <ele>128.200000</ele>
+        <time>2016-04-06T02:29:14Z</time>
+        <speed>3.723000</speed>
+      </trkpt>
+      <trkpt lat="44.043354385" lon="-123.080601656">
+        <ele>127.600000</ele>
+        <time>2016-04-06T02:29:17Z</time>
+        <speed>5.127000</speed>
+      </trkpt>
+      <trkpt lat="44.043346087" lon="-123.080744568">
+        <ele>127.200000</ele>
+        <time>2016-04-06T02:29:19Z</time>
+        <speed>5.884000</speed>
+      </trkpt>
+      <trkpt lat="44.043334100" lon="-123.080896951">
+        <ele>126.600000</ele>
+        <time>2016-04-06T02:29:21Z</time>
+        <speed>6.079000</speed>
+      </trkpt>
+      <trkpt lat="44.043326557" lon="-123.081156371">
+        <ele>125.800000</ele>
+        <time>2016-04-06T02:29:24Z</time>
+        <speed>6.874000</speed>
+      </trkpt>
+      <trkpt lat="44.043327982" lon="-123.081248488">
+        <ele>125.600000</ele>
+        <time>2016-04-06T02:29:25Z</time>
+        <speed>7.171000</speed>
+      </trkpt>
+      <trkpt lat="44.043333011" lon="-123.081709157">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:29:30Z</time>
+        <speed>7.181000</speed>
+      </trkpt>
+      <trkpt lat="44.043332843" lon="-123.081800771">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:29:31Z</time>
+        <speed>7.265000</speed>
+      </trkpt>
+      <trkpt lat="44.043332256" lon="-123.082052648">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:29:35Z</time>
+        <speed>3.017000</speed>
+      </trkpt>
+      <trkpt lat="44.043326054" lon="-123.082077290">
+        <ele>123.800000</ele>
+        <time>2016-04-06T02:29:38Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.043329909" lon="-123.082089109">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:29:45Z</time>
+        <speed>1.201000</speed>
+      </trkpt>
+      <trkpt lat="44.043332173" lon="-123.082109058">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:29:46Z</time>
+        <speed>1.498000</speed>
+      </trkpt>
+      <trkpt lat="44.043343907" lon="-123.082269152">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:29:50Z</time>
+        <speed>3.240000</speed>
+      </trkpt>
+      <trkpt lat="44.043352541" lon="-123.082556987">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:29:55Z</time>
+        <speed>4.928000</speed>
+      </trkpt>
+      <trkpt lat="44.043333765" lon="-123.083092926">
+        <ele>123.800000</ele>
+        <time>2016-04-06T02:30:03Z</time>
+        <speed>5.514000</speed>
+      </trkpt>
+      <trkpt lat="44.043330412" lon="-123.083354525">
+        <ele>123.400000</ele>
+        <time>2016-04-06T02:30:07Z</time>
+        <speed>4.992000</speed>
+      </trkpt>
+      <trkpt lat="44.043335190" lon="-123.083480756">
+        <ele>123.600000</ele>
+        <time>2016-04-06T02:30:09Z</time>
+        <speed>4.891000</speed>
+      </trkpt>
+      <trkpt lat="44.043344913" lon="-123.083669181">
+        <ele>123.400000</ele>
+        <time>2016-04-06T02:30:12Z</time>
+        <speed>5.149000</speed>
+      </trkpt>
+      <trkpt lat="44.043349104" lon="-123.083800274">
+        <ele>123.200000</ele>
+        <time>2016-04-06T02:30:14Z</time>
+        <speed>5.271000</speed>
+      </trkpt>
+      <trkpt lat="44.043345667" lon="-123.083864564">
+        <ele>123.200000</ele>
+        <time>2016-04-06T02:30:15Z</time>
+        <speed>5.181000</speed>
+      </trkpt>
+      <trkpt lat="44.043335358" lon="-123.084389858">
+        <ele>123.200000</ele>
+        <time>2016-04-06T02:30:23Z</time>
+        <speed>5.353000</speed>
+      </trkpt>
+      <trkpt lat="44.043341979" lon="-123.084453141">
+        <ele>123.200000</ele>
+        <time>2016-04-06T02:30:24Z</time>
+        <speed>5.154000</speed>
+      </trkpt>
+      <trkpt lat="44.043346003" lon="-123.084650619">
+        <ele>123.400000</ele>
+        <time>2016-04-06T02:30:27Z</time>
+        <speed>5.461000</speed>
+      </trkpt>
+      <trkpt lat="44.043344159" lon="-123.084714489">
+        <ele>123.400000</ele>
+        <time>2016-04-06T02:30:28Z</time>
+        <speed>5.083000</speed>
+      </trkpt>
+      <trkpt lat="44.043341225" lon="-123.085035935">
+        <ele>123.400000</ele>
+        <time>2016-04-06T02:30:33Z</time>
+        <speed>4.968000</speed>
+      </trkpt>
+      <trkpt lat="44.043347428" lon="-123.085165267">
+        <ele>123.400000</ele>
+        <time>2016-04-06T02:30:35Z</time>
+        <speed>4.981000</speed>
+      </trkpt>
+      <trkpt lat="44.043355055" lon="-123.085226707">
+        <ele>123.400000</ele>
+        <time>2016-04-06T02:30:36Z</time>
+        <speed>4.927000</speed>
+      </trkpt>
+      <trkpt lat="44.043343572" lon="-123.085459807">
+        <ele>123.400000</ele>
+        <time>2016-04-06T02:30:40Z</time>
+        <speed>4.481000</speed>
+      </trkpt>
+      <trkpt lat="44.043337705" lon="-123.085637336">
+        <ele>123.200000</ele>
+        <time>2016-04-06T02:30:43Z</time>
+        <speed>4.788000</speed>
+      </trkpt>
+      <trkpt lat="44.043343823" lon="-123.085885273">
+        <ele>123.200000</ele>
+        <time>2016-04-06T02:30:47Z</time>
+        <speed>4.689000</speed>
+      </trkpt>
+      <trkpt lat="44.043342818" lon="-123.086353737">
+        <ele>123.200000</ele>
+        <time>2016-04-06T02:30:54Z</time>
+        <speed>5.331000</speed>
+      </trkpt>
+      <trkpt lat="44.043350194" lon="-123.086485585">
+        <ele>123.000000</ele>
+        <time>2016-04-06T02:30:56Z</time>
+        <speed>5.148000</speed>
+      </trkpt>
+      <trkpt lat="44.043347428" lon="-123.086830584">
+        <ele>123.000000</ele>
+        <time>2016-04-06T02:31:01Z</time>
+        <speed>5.397000</speed>
+      </trkpt>
+      <trkpt lat="44.043348350" lon="-123.087311370">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:31:08Z</time>
+        <speed>5.604000</speed>
+      </trkpt>
+      <trkpt lat="44.043343488" lon="-123.087693920">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:31:14Z</time>
+        <speed>4.718000</speed>
+      </trkpt>
+      <trkpt lat="44.043355558" lon="-123.087928697">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:31:18Z</time>
+        <speed>4.503000</speed>
+      </trkpt>
+      <trkpt lat="44.043356732" lon="-123.088040679">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:31:20Z</time>
+        <speed>4.237000</speed>
+      </trkpt>
+      <trkpt lat="44.043359498" lon="-123.088112931">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:31:23Z</time>
+        <speed>1.127000</speed>
+      </trkpt>
+      <trkpt lat="44.043359917" lon="-123.088310241">
+        <ele>123.000000</ele>
+        <time>2016-04-06T02:31:28Z</time>
+        <speed>4.296000</speed>
+      </trkpt>
+      <trkpt lat="44.043356229" lon="-123.088691786">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:31:34Z</time>
+        <speed>4.890000</speed>
+      </trkpt>
+      <trkpt lat="44.043360420" lon="-123.089145330">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:31:41Z</time>
+        <speed>4.968000</speed>
+      </trkpt>
+      <trkpt lat="44.043353546" lon="-123.089527294">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:31:48Z</time>
+        <speed>3.834000</speed>
+      </trkpt>
+      <trkpt lat="44.043357570" lon="-123.089611196">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:31:52Z</time>
+        <speed>0.563000</speed>
+      </trkpt>
+      <trkpt lat="44.043356480" lon="-123.089616896">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:31:54Z</time>
+        <speed>1.323000</speed>
+      </trkpt>
+      <trkpt lat="44.043338291" lon="-123.089737260">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:31:57Z</time>
+        <speed>3.446000</speed>
+      </trkpt>
+      <trkpt lat="44.043343656" lon="-123.089978156">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:32:01Z</time>
+        <speed>5.094000</speed>
+      </trkpt>
+      <trkpt lat="44.043342231" lon="-123.090047894">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:32:02Z</time>
+        <speed>5.453000</speed>
+      </trkpt>
+      <trkpt lat="44.043351199" lon="-123.090385601">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:32:07Z</time>
+        <speed>5.245000</speed>
+      </trkpt>
+      <trkpt lat="44.043343488" lon="-123.090454081">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:32:08Z</time>
+        <speed>5.423000</speed>
+      </trkpt>
+      <trkpt lat="44.043339465" lon="-123.090655749">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:32:11Z</time>
+        <speed>5.159000</speed>
+      </trkpt>
+      <trkpt lat="44.043343069" lon="-123.090722804">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:32:12Z</time>
+        <speed>5.239000</speed>
+      </trkpt>
+      <trkpt lat="44.043344829" lon="-123.090973004">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:32:16Z</time>
+        <speed>4.696000</speed>
+      </trkpt>
+      <trkpt lat="44.043343404" lon="-123.091080963">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:32:18Z</time>
+        <speed>4.233000</speed>
+      </trkpt>
+      <trkpt lat="44.043341057" lon="-123.091266203">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:32:22Z</time>
+        <speed>4.041000</speed>
+      </trkpt>
+      <trkpt lat="44.043347595" lon="-123.091580525">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:32:27Z</time>
+        <speed>5.154000</speed>
+      </trkpt>
+      <trkpt lat="44.043349691" lon="-123.091988975">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:32:34Z</time>
+        <speed>4.342000</speed>
+      </trkpt>
+      <trkpt lat="44.043346506" lon="-123.092212855">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:32:38Z</time>
+        <speed>4.510000</speed>
+      </trkpt>
+      <trkpt lat="44.043344243" lon="-123.092389881">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:32:41Z</time>
+        <speed>4.609000</speed>
+      </trkpt>
+      <trkpt lat="44.043367460" lon="-123.092704622">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:32:48Z</time>
+        <speed>2.277000</speed>
+      </trkpt>
+      <trkpt lat="44.043362767" lon="-123.092931184">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:32:53Z</time>
+        <speed>4.442000</speed>
+      </trkpt>
+      <trkpt lat="44.043356480" lon="-123.093297055">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:32:59Z</time>
+        <speed>4.837000</speed>
+      </trkpt>
+      <trkpt lat="44.043346506" lon="-123.093738362">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:33:06Z</time>
+        <speed>4.962000</speed>
+      </trkpt>
+      <trkpt lat="44.043340890" lon="-123.093857469">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:33:08Z</time>
+        <speed>4.736000</speed>
+      </trkpt>
+      <trkpt lat="44.043351032" lon="-123.094275558">
+        <ele>122.400000</ele>
+        <time>2016-04-06T02:33:15Z</time>
+        <speed>4.805000</speed>
+      </trkpt>
+      <trkpt lat="44.043349607" lon="-123.094338422">
+        <ele>122.400000</ele>
+        <time>2016-04-06T02:33:16Z</time>
+        <speed>4.961000</speed>
+      </trkpt>
+      <trkpt lat="44.043343488" lon="-123.094402292">
+        <ele>122.200000</ele>
+        <time>2016-04-06T02:33:17Z</time>
+        <speed>5.059000</speed>
+      </trkpt>
+      <trkpt lat="44.043338375" lon="-123.094606643">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:33:20Z</time>
+        <speed>5.432000</speed>
+      </trkpt>
+      <trkpt lat="44.043331586" lon="-123.095197483">
+        <ele>123.200000</ele>
+        <time>2016-04-06T02:33:29Z</time>
+        <speed>5.087000</speed>
+      </trkpt>
+      <trkpt lat="44.043357989" lon="-123.095605095">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:33:35Z</time>
+        <speed>5.578000</speed>
+      </trkpt>
+      <trkpt lat="44.043360084" lon="-123.095740296">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:33:37Z</time>
+        <speed>5.411000</speed>
+      </trkpt>
+      <trkpt lat="44.043344494" lon="-123.096002314">
+        <ele>122.800000</ele>
+        <time>2016-04-06T02:33:41Z</time>
+        <speed>5.173000</speed>
+      </trkpt>
+      <trkpt lat="44.043330245" lon="-123.096477735">
+        <ele>123.000000</ele>
+        <time>2016-04-06T02:33:49Z</time>
+        <speed>4.395000</speed>
+      </trkpt>
+      <trkpt lat="44.043336447" lon="-123.096780993">
+        <ele>123.000000</ele>
+        <time>2016-04-06T02:33:56Z</time>
+        <speed>2.321000</speed>
+      </trkpt>
+      <trkpt lat="44.043349439" lon="-123.096848970">
+        <ele>123.400000</ele>
+        <time>2016-04-06T02:33:59Z</time>
+        <speed>1.887000</speed>
+      </trkpt>
+      <trkpt lat="44.043351954" lon="-123.096938153">
+        <ele>123.800000</ele>
+        <time>2016-04-06T02:34:03Z</time>
+        <speed>1.675000</speed>
+      </trkpt>
+      <trkpt lat="44.043388499" lon="-123.097124818">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:34:08Z</time>
+        <speed>4.428000</speed>
+      </trkpt>
+      <trkpt lat="44.043389589" lon="-123.097186928">
+        <ele>124.600000</ele>
+        <time>2016-04-06T02:34:09Z</time>
+        <speed>4.917000</speed>
+      </trkpt>
+      <trkpt lat="44.043391097" lon="-123.097458837">
+        <ele>125.000000</ele>
+        <time>2016-04-06T02:34:13Z</time>
+        <speed>5.785000</speed>
+      </trkpt>
+      <trkpt lat="44.043359833" lon="-123.097795454">
+        <ele>124.800000</ele>
+        <time>2016-04-06T02:34:18Z</time>
+        <speed>5.117000</speed>
+      </trkpt>
+      <trkpt lat="44.043341979" lon="-123.097858486">
+        <ele>124.800000</ele>
+        <time>2016-04-06T02:34:19Z</time>
+        <speed>5.265000</speed>
+      </trkpt>
+      <trkpt lat="44.043334855" lon="-123.098133497">
+        <ele>124.600000</ele>
+        <time>2016-04-06T02:34:23Z</time>
+        <speed>5.775000</speed>
+      </trkpt>
+      <trkpt lat="44.043340219" lon="-123.098710088">
+        <ele>124.600000</ele>
+        <time>2016-04-06T02:34:31Z</time>
+        <speed>5.683000</speed>
+      </trkpt>
+      <trkpt lat="44.043342566" lon="-123.099220965">
+        <ele>124.200000</ele>
+        <time>2016-04-06T02:34:38Z</time>
+        <speed>5.743000</speed>
+      </trkpt>
+      <trkpt lat="44.043354888" lon="-123.099729243">
+        <ele>124.200000</ele>
+        <time>2016-04-06T02:34:45Z</time>
+        <speed>5.692000</speed>
+      </trkpt>
+      <trkpt lat="44.043352960" lon="-123.100223692">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:34:52Z</time>
+        <speed>5.768000</speed>
+      </trkpt>
+      <trkpt lat="44.043346170" lon="-123.100641027">
+        <ele>124.200000</ele>
+        <time>2016-04-06T02:34:58Z</time>
+        <speed>5.274000</speed>
+      </trkpt>
+      <trkpt lat="44.043351954" lon="-123.100762397">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:35:00Z</time>
+        <speed>4.789000</speed>
+      </trkpt>
+      <trkpt lat="44.043354468" lon="-123.100946044">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:35:03Z</time>
+        <speed>4.863000</speed>
+      </trkpt>
+      <trkpt lat="44.043346003" lon="-123.101261707">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:35:09Z</time>
+        <speed>3.928000</speed>
+      </trkpt>
+      <trkpt lat="44.043348350" lon="-123.101427584">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:35:12Z</time>
+        <speed>4.642000</speed>
+      </trkpt>
+      <trkpt lat="44.043338794" lon="-123.101552810">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:35:14Z</time>
+        <speed>4.897000</speed>
+      </trkpt>
+      <trkpt lat="44.043338878" lon="-123.101671665">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:35:16Z</time>
+        <speed>4.756000</speed>
+      </trkpt>
+      <trkpt lat="44.043336783" lon="-123.101797478">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:35:18Z</time>
+        <speed>5.001000</speed>
+      </trkpt>
+      <trkpt lat="44.043321025" lon="-123.101920859">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:35:20Z</time>
+        <speed>5.089000</speed>
+      </trkpt>
+      <trkpt lat="44.043285653" lon="-123.102095706">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:35:23Z</time>
+        <speed>4.806000</speed>
+      </trkpt>
+      <trkpt lat="44.043201834" lon="-123.102233085">
+        <ele>124.200000</ele>
+        <time>2016-04-06T02:35:26Z</time>
+        <speed>4.741000</speed>
+      </trkpt>
+      <trkpt lat="44.043131929" lon="-123.102304415">
+        <ele>124.200000</ele>
+        <time>2016-04-06T02:35:28Z</time>
+        <speed>4.832000</speed>
+      </trkpt>
+      <trkpt lat="44.043063533" lon="-123.102383876">
+        <ele>124.200000</ele>
+        <time>2016-04-06T02:35:30Z</time>
+        <speed>4.809000</speed>
+      </trkpt>
+      <trkpt lat="44.043048948" lon="-123.102437436">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:35:31Z</time>
+        <speed>4.548000</speed>
+      </trkpt>
+      <trkpt lat="44.043000249" lon="-123.102615719">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:35:34Z</time>
+        <speed>5.366000</speed>
+      </trkpt>
+      <trkpt lat="44.042961525" lon="-123.102668944">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:35:35Z</time>
+        <speed>5.948000</speed>
+      </trkpt>
+      <trkpt lat="44.042822888" lon="-123.102784866">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:35:38Z</time>
+        <speed>5.870000</speed>
+      </trkpt>
+      <trkpt lat="44.042776369" lon="-123.102820321">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:35:39Z</time>
+        <speed>5.857000</speed>
+      </trkpt>
+      <trkpt lat="44.042465232" lon="-123.103049399">
+        <ele>124.800000</ele>
+        <time>2016-04-06T02:35:46Z</time>
+        <speed>5.485000</speed>
+      </trkpt>
+      <trkpt lat="44.042316286" lon="-123.103106647">
+        <ele>125.000000</ele>
+        <time>2016-04-06T02:35:49Z</time>
+        <speed>5.947000</speed>
+      </trkpt>
+      <trkpt lat="44.042208327" lon="-123.103122824">
+        <ele>125.200000</ele>
+        <time>2016-04-06T02:35:51Z</time>
+        <speed>6.096000</speed>
+      </trkpt>
+      <trkpt lat="44.042044796" lon="-123.103143444">
+        <ele>125.000000</ele>
+        <time>2016-04-06T02:35:54Z</time>
+        <speed>6.033000</speed>
+      </trkpt>
+      <trkpt lat="44.041911272" lon="-123.103263808">
+        <ele>125.400000</ele>
+        <time>2016-04-06T02:35:57Z</time>
+        <speed>6.025000</speed>
+      </trkpt>
+      <trkpt lat="44.041873302" lon="-123.103409485">
+        <ele>125.600000</ele>
+        <time>2016-04-06T02:35:59Z</time>
+        <speed>6.183000</speed>
+      </trkpt>
+      <trkpt lat="44.041871039" lon="-123.103486012">
+        <ele>125.400000</ele>
+        <time>2016-04-06T02:36:00Z</time>
+        <speed>6.088000</speed>
+      </trkpt>
+      <trkpt lat="44.041870452" lon="-123.103561282">
+        <ele>125.400000</ele>
+        <time>2016-04-06T02:36:01Z</time>
+        <speed>5.975000</speed>
+      </trkpt>
+      <trkpt lat="44.041872464" lon="-123.104043325">
+        <ele>125.200000</ele>
+        <time>2016-04-06T02:36:07Z</time>
+        <speed>6.620000</speed>
+      </trkpt>
+      <trkpt lat="44.041876236" lon="-123.104693928">
+        <ele>124.600000</ele>
+        <time>2016-04-06T02:36:15Z</time>
+        <speed>6.056000</speed>
+      </trkpt>
+      <trkpt lat="44.041892245" lon="-123.105083687">
+        <ele>124.600000</ele>
+        <time>2016-04-06T02:36:20Z</time>
+        <speed>6.169000</speed>
+      </trkpt>
+      <trkpt lat="44.041896353" lon="-123.105158621">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:36:21Z</time>
+        <speed>6.069000</speed>
+      </trkpt>
+      <trkpt lat="44.041914877" lon="-123.105518037">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:36:26Z</time>
+        <speed>5.360000</speed>
+      </trkpt>
+      <trkpt lat="44.041908842" lon="-123.105653992">
+        <ele>124.400000</ele>
+        <time>2016-04-06T02:36:28Z</time>
+        <speed>5.321000</speed>
+      </trkpt>
+      <trkpt lat="44.041927869" lon="-123.106266290">
+        <ele>123.800000</ele>
+        <time>2016-04-06T02:36:37Z</time>
+        <speed>5.799000</speed>
+      </trkpt>
+      <trkpt lat="44.041929629" lon="-123.106652109">
+        <ele>123.400000</ele>
+        <time>2016-04-06T02:36:42Z</time>
+        <speed>6.258000</speed>
+      </trkpt>
+      <trkpt lat="44.041923258" lon="-123.106965592">
+        <ele>123.400000</ele>
+        <time>2016-04-06T02:36:46Z</time>
+        <speed>6.339000</speed>
+      </trkpt>
+      <trkpt lat="44.041911775" lon="-123.107354428">
+        <ele>123.200000</ele>
+        <time>2016-04-06T02:36:51Z</time>
+        <speed>6.053000</speed>
+      </trkpt>
+      <trkpt lat="44.041911440" lon="-123.107507230">
+        <ele>123.000000</ele>
+        <time>2016-04-06T02:36:53Z</time>
+        <speed>6.022000</speed>
+      </trkpt>
+      <trkpt lat="44.041921331" lon="-123.108095053">
+        <ele>123.000000</ele>
+        <time>2016-04-06T02:37:01Z</time>
+        <speed>6.087000</speed>
+      </trkpt>
+      <trkpt lat="44.041944381" lon="-123.108713889">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:37:09Z</time>
+        <speed>6.469000</speed>
+      </trkpt>
+      <trkpt lat="44.041943710" lon="-123.108792679">
+        <ele>122.400000</ele>
+        <time>2016-04-06T02:37:10Z</time>
+        <speed>6.341000</speed>
+      </trkpt>
+      <trkpt lat="44.041939016" lon="-123.109173636">
+        <ele>122.200000</ele>
+        <time>2016-04-06T02:37:15Z</time>
+        <speed>5.957000</speed>
+      </trkpt>
+      <trkpt lat="44.041937843" lon="-123.109396344">
+        <ele>122.200000</ele>
+        <time>2016-04-06T02:37:18Z</time>
+        <speed>5.921000</speed>
+      </trkpt>
+      <trkpt lat="44.041949745" lon="-123.109610837">
+        <ele>122.000000</ele>
+        <time>2016-04-06T02:37:21Z</time>
+        <speed>5.581000</speed>
+      </trkpt>
+      <trkpt lat="44.041967096" lon="-123.110108135">
+        <ele>122.200000</ele>
+        <time>2016-04-06T02:37:28Z</time>
+        <speed>5.730000</speed>
+      </trkpt>
+      <trkpt lat="44.041989895" lon="-123.110685732">
+        <ele>122.400000</ele>
+        <time>2016-04-06T02:37:36Z</time>
+        <speed>6.071000</speed>
+      </trkpt>
+      <trkpt lat="44.041988973" lon="-123.111348908">
+        <ele>122.200000</ele>
+        <time>2016-04-06T02:37:45Z</time>
+        <speed>5.966000</speed>
+      </trkpt>
+      <trkpt lat="44.041993666" lon="-123.111840004">
+        <ele>121.800000</ele>
+        <time>2016-04-06T02:37:52Z</time>
+        <speed>5.242000</speed>
+      </trkpt>
+      <trkpt lat="44.042004228" lon="-123.112175867">
+        <ele>121.800000</ele>
+        <time>2016-04-06T02:37:57Z</time>
+        <speed>5.285000</speed>
+      </trkpt>
+      <trkpt lat="44.042020153" lon="-123.112318443">
+        <ele>121.600000</ele>
+        <time>2016-04-06T02:37:59Z</time>
+        <speed>5.733000</speed>
+      </trkpt>
+      <trkpt lat="44.042025769" lon="-123.112388013">
+        <ele>121.400000</ele>
+        <time>2016-04-06T02:38:00Z</time>
+        <speed>5.545000</speed>
+      </trkpt>
+      <trkpt lat="44.042038258" lon="-123.112507622">
+        <ele>121.000000</ele>
+        <time>2016-04-06T02:38:02Z</time>
+        <speed>4.520000</speed>
+      </trkpt>
+      <trkpt lat="44.042109085" lon="-123.112541401">
+        <ele>120.800000</ele>
+        <time>2016-04-06T02:38:04Z</time>
+        <speed>4.192000</speed>
+      </trkpt>
+      <trkpt lat="44.042223666" lon="-123.112469401">
+        <ele>120.800000</ele>
+        <time>2016-04-06T02:38:08Z</time>
+        <speed>2.752000</speed>
+      </trkpt>
+      <trkpt lat="44.042278148" lon="-123.112512819">
+        <ele>121.000000</ele>
+        <time>2016-04-06T02:38:11Z</time>
+        <speed>2.683000</speed>
+      </trkpt>
+      <trkpt lat="44.042276304" lon="-123.112656569">
+        <ele>121.000000</ele>
+        <time>2016-04-06T02:38:14Z</time>
+        <speed>4.587000</speed>
+      </trkpt>
+      <trkpt lat="44.042264570" lon="-123.112838707">
+        <ele>121.000000</ele>
+        <time>2016-04-06T02:38:17Z</time>
+        <speed>5.044000</speed>
+      </trkpt>
+      <trkpt lat="44.042268006" lon="-123.112900147">
+        <ele>121.000000</ele>
+        <time>2016-04-06T02:38:18Z</time>
+        <speed>4.863000</speed>
+      </trkpt>
+      <trkpt lat="44.042270772" lon="-123.112964101">
+        <ele>121.000000</ele>
+        <time>2016-04-06T02:38:19Z</time>
+        <speed>4.975000</speed>
+      </trkpt>
+      <trkpt lat="44.042285524" lon="-123.113472882">
+        <ele>120.600000</ele>
+        <time>2016-04-06T02:38:26Z</time>
+        <speed>6.119000</speed>
+      </trkpt>
+      <trkpt lat="44.042297008" lon="-123.113962050">
+        <ele>120.600000</ele>
+        <time>2016-04-06T02:38:33Z</time>
+        <speed>5.167000</speed>
+      </trkpt>
+      <trkpt lat="44.042305809" lon="-123.114455577">
+        <ele>120.800000</ele>
+        <time>2016-04-06T02:38:40Z</time>
+        <speed>6.042000</speed>
+      </trkpt>
+      <trkpt lat="44.042331876" lon="-123.115088243">
+        <ele>120.800000</ele>
+        <time>2016-04-06T02:38:48Z</time>
+        <speed>6.059000</speed>
+      </trkpt>
+      <trkpt lat="44.042386526" lon="-123.115544051">
+        <ele>120.600000</ele>
+        <time>2016-04-06T02:38:54Z</time>
+        <speed>6.072000</speed>
+      </trkpt>
+      <trkpt lat="44.042385688" lon="-123.115678832">
+        <ele>120.800000</ele>
+        <time>2016-04-06T02:38:56Z</time>
+        <speed>5.271000</speed>
+      </trkpt>
+      <trkpt lat="44.042368086" lon="-123.115891648">
+        <ele>121.000000</ele>
+        <time>2016-04-06T02:38:59Z</time>
+        <speed>5.976000</speed>
+      </trkpt>
+      <trkpt lat="44.042353669" lon="-123.116283586">
+        <ele>120.200000</ele>
+        <time>2016-04-06T02:39:04Z</time>
+        <speed>6.297000</speed>
+      </trkpt>
+      <trkpt lat="44.042354759" lon="-123.116363130">
+        <ele>120.000000</ele>
+        <time>2016-04-06T02:39:05Z</time>
+        <speed>6.339000</speed>
+      </trkpt>
+      <trkpt lat="44.042371439" lon="-123.117051871">
+        <ele>120.000000</ele>
+        <time>2016-04-06T02:39:14Z</time>
+        <speed>5.879000</speed>
+      </trkpt>
+      <trkpt lat="44.042342940" lon="-123.117479348">
+        <ele>118.800000</ele>
+        <time>2016-04-06T02:39:19Z</time>
+        <speed>7.649000</speed>
+      </trkpt>
+      <trkpt lat="44.042332882" lon="-123.117581356">
+        <ele>118.200000</ele>
+        <time>2016-04-06T02:39:20Z</time>
+        <speed>8.088000</speed>
+      </trkpt>
+      <trkpt lat="44.042313688" lon="-123.117783527">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:39:22Z</time>
+        <speed>8.139000</speed>
+      </trkpt>
+      <trkpt lat="44.042293571" lon="-123.118192564">
+        <ele>116.800000</ele>
+        <time>2016-04-06T02:39:26Z</time>
+        <speed>8.160000</speed>
+      </trkpt>
+      <trkpt lat="44.042286614" lon="-123.118381073">
+        <ele>116.800000</ele>
+        <time>2016-04-06T02:39:28Z</time>
+        <speed>7.274000</speed>
+      </trkpt>
+      <trkpt lat="44.042311592" lon="-123.118618449">
+        <ele>117.200000</ele>
+        <time>2016-04-06T02:39:31Z</time>
+        <speed>6.036000</speed>
+      </trkpt>
+      <trkpt lat="44.042320309" lon="-123.118686510">
+        <ele>117.200000</ele>
+        <time>2016-04-06T02:39:32Z</time>
+        <speed>5.689000</speed>
+      </trkpt>
+      <trkpt lat="44.042357273" lon="-123.118950624">
+        <ele>118.600000</ele>
+        <time>2016-04-06T02:39:36Z</time>
+        <speed>5.628000</speed>
+      </trkpt>
+      <trkpt lat="44.042374792" lon="-123.119015080">
+        <ele>118.800000</ele>
+        <time>2016-04-06T02:39:37Z</time>
+        <speed>5.633000</speed>
+      </trkpt>
+      <trkpt lat="44.042525414" lon="-123.119595611">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:39:45Z</time>
+        <speed>6.383000</speed>
+      </trkpt>
+      <trkpt lat="44.042543016" lon="-123.119745899">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:39:47Z</time>
+        <speed>6.249000</speed>
+      </trkpt>
+      <trkpt lat="44.042540753" lon="-123.119972042">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:39:50Z</time>
+        <speed>5.912000</speed>
+      </trkpt>
+      <trkpt lat="44.042538490" lon="-123.120043624">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:39:51Z</time>
+        <speed>5.745000</speed>
+      </trkpt>
+      <trkpt lat="44.042573359" lon="-123.120419385">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:39:56Z</time>
+        <speed>6.177000</speed>
+      </trkpt>
+      <trkpt lat="44.042576963" lon="-123.120644690">
+        <ele>119.000000</ele>
+        <time>2016-04-06T02:39:59Z</time>
+        <speed>5.991000</speed>
+      </trkpt>
+      <trkpt lat="44.042562127" lon="-123.120882736">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:40:02Z</time>
+        <speed>6.421000</speed>
+      </trkpt>
+      <trkpt lat="44.042596661" lon="-123.121281715">
+        <ele>119.000000</ele>
+        <time>2016-04-06T02:40:07Z</time>
+        <speed>6.623000</speed>
+      </trkpt>
+      <trkpt lat="44.042609401" lon="-123.121528394">
+        <ele>118.800000</ele>
+        <time>2016-04-06T02:40:10Z</time>
+        <speed>6.581000</speed>
+      </trkpt>
+      <trkpt lat="44.042584674" lon="-123.121772978">
+        <ele>118.800000</ele>
+        <time>2016-04-06T02:40:13Z</time>
+        <speed>6.468000</speed>
+      </trkpt>
+      <trkpt lat="44.042570760" lon="-123.122011611">
+        <ele>119.000000</ele>
+        <time>2016-04-06T02:40:16Z</time>
+        <speed>6.440000</speed>
+      </trkpt>
+      <trkpt lat="44.042610994" lon="-123.122241778">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:40:19Z</time>
+        <speed>6.241000</speed>
+      </trkpt>
+      <trkpt lat="44.042764718" lon="-123.122543778">
+        <ele>119.600000</ele>
+        <time>2016-04-06T02:40:24Z</time>
+        <speed>5.936000</speed>
+      </trkpt>
+      <trkpt lat="44.042845855" lon="-123.122637571">
+        <ele>119.600000</ele>
+        <time>2016-04-06T02:40:26Z</time>
+        <speed>5.849000</speed>
+      </trkpt>
+      <trkpt lat="44.043021372" lon="-123.122793559">
+        <ele>119.400000</ele>
+        <time>2016-04-06T02:40:30Z</time>
+        <speed>5.753000</speed>
+      </trkpt>
+      <trkpt lat="44.043359078" lon="-123.123141072">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:40:38Z</time>
+        <speed>5.890000</speed>
+      </trkpt>
+      <trkpt lat="44.043678597" lon="-123.123422704">
+        <ele>117.400000</ele>
+        <time>2016-04-06T02:40:44Z</time>
+        <speed>7.461000</speed>
+      </trkpt>
+      <trkpt lat="44.044019070" lon="-123.123670641">
+        <ele>116.600000</ele>
+        <time>2016-04-06T02:40:50Z</time>
+        <speed>6.455000</speed>
+      </trkpt>
+      <trkpt lat="44.044253511" lon="-123.123888151">
+        <ele>117.800000</ele>
+        <time>2016-04-06T02:40:56Z</time>
+        <speed>4.523000</speed>
+      </trkpt>
+      <trkpt lat="44.044307575" lon="-123.123976413">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:40:58Z</time>
+        <speed>4.678000</speed>
+      </trkpt>
+      <trkpt lat="44.044330038" lon="-123.124026201">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:40:59Z</time>
+        <speed>4.655000</speed>
+      </trkpt>
+      <trkpt lat="44.044372199" lon="-123.124139022">
+        <ele>118.600000</ele>
+        <time>2016-04-06T02:41:01Z</time>
+        <speed>4.979000</speed>
+      </trkpt>
+      <trkpt lat="44.044391561" lon="-123.124196605">
+        <ele>118.600000</ele>
+        <time>2016-04-06T02:41:02Z</time>
+        <speed>5.027000</speed>
+      </trkpt>
+      <trkpt lat="44.044484098" lon="-123.124583682">
+        <ele>118.600000</ele>
+        <time>2016-04-06T02:41:08Z</time>
+        <speed>5.629000</speed>
+      </trkpt>
+      <trkpt lat="44.044636145" lon="-123.124947792">
+        <ele>118.600000</ele>
+        <time>2016-04-06T02:41:14Z</time>
+        <speed>5.526000</speed>
+      </trkpt>
+      <trkpt lat="44.044865558" lon="-123.125232022">
+        <ele>118.600000</ele>
+        <time>2016-04-06T02:41:20Z</time>
+        <speed>5.981000</speed>
+      </trkpt>
+      <trkpt lat="44.045005368" lon="-123.125341406">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:41:23Z</time>
+        <speed>5.811000</speed>
+      </trkpt>
+      <trkpt lat="44.045108549" lon="-123.125390775">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:41:25Z</time>
+        <speed>5.992000</speed>
+      </trkpt>
+      <trkpt lat="44.045410968" lon="-123.125481216">
+        <ele>118.200000</ele>
+        <time>2016-04-06T02:41:31Z</time>
+        <speed>5.981000</speed>
+      </trkpt>
+      <trkpt lat="44.045614062" lon="-123.125575512">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:41:35Z</time>
+        <speed>5.830000</speed>
+      </trkpt>
+      <trkpt lat="44.045706598" lon="-123.125661594">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:41:37Z</time>
+        <speed>6.020000</speed>
+      </trkpt>
+      <trkpt lat="44.045778431" lon="-123.125762177">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:41:39Z</time>
+        <speed>5.703000</speed>
+      </trkpt>
+      <trkpt lat="44.045872392" lon="-123.125931240">
+        <ele>118.200000</ele>
+        <time>2016-04-06T02:41:42Z</time>
+        <speed>5.592000</speed>
+      </trkpt>
+      <trkpt lat="44.046082024" lon="-123.126346815">
+        <ele>118.200000</ele>
+        <time>2016-04-06T02:41:49Z</time>
+        <speed>5.848000</speed>
+      </trkpt>
+      <trkpt lat="44.046344545" lon="-123.126863895">
+        <ele>118.000000</ele>
+        <time>2016-04-06T02:41:58Z</time>
+        <speed>5.217000</speed>
+      </trkpt>
+      <trkpt lat="44.046493659" lon="-123.127274440">
+        <ele>118.200000</ele>
+        <time>2016-04-06T02:42:05Z</time>
+        <speed>4.940000</speed>
+      </trkpt>
+      <trkpt lat="44.046503298" lon="-123.127335963">
+        <ele>118.200000</ele>
+        <time>2016-04-06T02:42:06Z</time>
+        <speed>4.940000</speed>
+      </trkpt>
+      <trkpt lat="44.046519894" lon="-123.127552552">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:42:10Z</time>
+        <speed>4.052000</speed>
+      </trkpt>
+      <trkpt lat="44.046521822" lon="-123.127727817">
+        <ele>118.800000</ele>
+        <time>2016-04-06T02:42:15Z</time>
+        <speed>2.028000</speed>
+      </trkpt>
+      <trkpt lat="44.046518637" lon="-123.127793448">
+        <ele>119.400000</ele>
+        <time>2016-04-06T02:42:19Z</time>
+        <speed>0.719000</speed>
+      </trkpt>
+      <trkpt lat="44.046507740" lon="-123.127831585">
+        <ele>119.400000</ele>
+        <time>2016-04-06T02:42:21Z</time>
+        <speed>2.397000</speed>
+      </trkpt>
+      <trkpt lat="44.046377234" lon="-123.127945328">
+        <ele>119.600000</ele>
+        <time>2016-04-06T02:42:25Z</time>
+        <speed>4.896000</speed>
+      </trkpt>
+      <trkpt lat="44.046182355" lon="-123.127953123">
+        <ele>119.400000</ele>
+        <time>2016-04-06T02:42:29Z</time>
+        <speed>5.325000</speed>
+      </trkpt>
+      <trkpt lat="44.046109181" lon="-123.128095112">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:42:32Z</time>
+        <speed>4.670000</speed>
+      </trkpt>
+      <trkpt lat="44.046100212" lon="-123.128156300">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:42:33Z</time>
+        <speed>4.806000</speed>
+      </trkpt>
+      <trkpt lat="44.046019746" lon="-123.128498617">
+        <ele>118.600000</ele>
+        <time>2016-04-06T02:42:38Z</time>
+        <speed>6.182000</speed>
+      </trkpt>
+      <trkpt lat="44.046006922" lon="-123.128576066">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:42:39Z</time>
+        <speed>6.161000</speed>
+      </trkpt>
+      <trkpt lat="44.045936178" lon="-123.129023240">
+        <ele>118.000000</ele>
+        <time>2016-04-06T02:42:45Z</time>
+        <speed>5.964000</speed>
+      </trkpt>
+      <trkpt lat="44.045937939" lon="-123.129094738">
+        <ele>118.000000</ele>
+        <time>2016-04-06T02:42:46Z</time>
+        <speed>5.696000</speed>
+      </trkpt>
+      <trkpt lat="44.045961157" lon="-123.129393721">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:42:50Z</time>
+        <speed>5.630000</speed>
+      </trkpt>
+      <trkpt lat="44.045991080" lon="-123.129536632">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:42:52Z</time>
+        <speed>5.861000</speed>
+      </trkpt>
+      <trkpt lat="44.046061320" lon="-123.129740480">
+        <ele>118.000000</ele>
+        <time>2016-04-06T02:42:55Z</time>
+        <speed>5.873000</speed>
+      </trkpt>
+      <trkpt lat="44.046256535" lon="-123.130281364">
+        <ele>118.000000</ele>
+        <time>2016-04-06T02:43:03Z</time>
+        <speed>6.029000</speed>
+      </trkpt>
+      <trkpt lat="44.046345551" lon="-123.130782350">
+        <ele>118.000000</ele>
+        <time>2016-04-06T02:43:10Z</time>
+        <speed>6.045000</speed>
+      </trkpt>
+      <trkpt lat="44.046362985" lon="-123.131458351">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:43:19Z</time>
+        <speed>5.859000</speed>
+      </trkpt>
+      <trkpt lat="44.046381425" lon="-123.131604615">
+        <ele>117.800000</ele>
+        <time>2016-04-06T02:43:21Z</time>
+        <speed>5.963000</speed>
+      </trkpt>
+      <trkpt lat="44.046435740" lon="-123.131819108">
+        <ele>117.800000</ele>
+        <time>2016-04-06T02:43:24Z</time>
+        <speed>6.071000</speed>
+      </trkpt>
+      <trkpt lat="44.046463819" lon="-123.131885493">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:43:25Z</time>
+        <speed>6.099000</speed>
+      </trkpt>
+      <trkpt lat="44.046564486" lon="-123.132063692">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:43:28Z</time>
+        <speed>5.931000</speed>
+      </trkpt>
+      <trkpt lat="44.046637325" lon="-123.132173244">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:43:30Z</time>
+        <speed>6.027000</speed>
+      </trkpt>
+      <trkpt lat="44.046855254" lon="-123.132602984">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:43:37Z</time>
+        <speed>5.981000</speed>
+      </trkpt>
+      <trkpt lat="44.046871264" lon="-123.132674900">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:43:38Z</time>
+        <speed>5.989000</speed>
+      </trkpt>
+      <trkpt lat="44.046873946" lon="-123.132975811">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:43:42Z</time>
+        <speed>6.027000</speed>
+      </trkpt>
+      <trkpt lat="44.046864977" lon="-123.133045800">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:43:43Z</time>
+        <speed>5.796000</speed>
+      </trkpt>
+      <trkpt lat="44.046801945" lon="-123.133395744">
+        <ele>118.000000</ele>
+        <time>2016-04-06T02:43:48Z</time>
+        <speed>5.983000</speed>
+      </trkpt>
+      <trkpt lat="44.046739919" lon="-123.133601185">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:43:51Z</time>
+        <speed>5.851000</speed>
+      </trkpt>
+      <trkpt lat="44.046639923" lon="-123.133849792">
+        <ele>117.800000</ele>
+        <time>2016-04-06T02:43:55Z</time>
+        <speed>5.769000</speed>
+      </trkpt>
+      <trkpt lat="44.046460886" lon="-123.134283304">
+        <ele>117.800000</ele>
+        <time>2016-04-06T02:44:02Z</time>
+        <speed>5.594000</speed>
+      </trkpt>
+      <trkpt lat="44.046214709" lon="-123.134726706">
+        <ele>117.800000</ele>
+        <time>2016-04-06T02:44:10Z</time>
+        <speed>5.565000</speed>
+      </trkpt>
+      <trkpt lat="44.046072384" lon="-123.134985707">
+        <ele>117.800000</ele>
+        <time>2016-04-06T02:44:15Z</time>
+        <speed>5.361000</speed>
+      </trkpt>
+      <trkpt lat="44.046032654" lon="-123.135104479">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:44:17Z</time>
+        <speed>5.243000</speed>
+      </trkpt>
+      <trkpt lat="44.045957468" lon="-123.135302292">
+        <ele>117.400000</ele>
+        <time>2016-04-06T02:44:22Z</time>
+        <speed>1.774000</speed>
+      </trkpt>
+      <trkpt lat="44.045946404" lon="-123.135347470">
+        <ele>117.400000</ele>
+        <time>2016-04-06T02:44:27Z</time>
+        <speed>1.309000</speed>
+      </trkpt>
+      <trkpt lat="44.045937268" lon="-123.135539164">
+        <ele>117.400000</ele>
+        <time>2016-04-06T02:44:31Z</time>
+        <speed>4.496000</speed>
+      </trkpt>
+      <trkpt lat="44.045972304" lon="-123.135722225">
+        <ele>117.400000</ele>
+        <time>2016-04-06T02:44:34Z</time>
+        <speed>5.285000</speed>
+      </trkpt>
+      <trkpt lat="44.046018153" lon="-123.135842841">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:44:36Z</time>
+        <speed>5.407000</speed>
+      </trkpt>
+      <trkpt lat="44.046101386" lon="-123.136032523">
+        <ele>117.200000</ele>
+        <time>2016-04-06T02:44:39Z</time>
+        <speed>5.775000</speed>
+      </trkpt>
+      <trkpt lat="44.046234155" lon="-123.136265037">
+        <ele>117.200000</ele>
+        <time>2016-04-06T02:44:43Z</time>
+        <speed>5.661000</speed>
+      </trkpt>
+      <trkpt lat="44.046531461" lon="-123.136709110">
+        <ele>117.000000</ele>
+        <time>2016-04-06T02:44:51Z</time>
+        <speed>6.423000</speed>
+      </trkpt>
+      <trkpt lat="44.046759365" lon="-123.137162236">
+        <ele>116.600000</ele>
+        <time>2016-04-06T02:44:58Z</time>
+        <speed>6.244000</speed>
+      </trkpt>
+      <trkpt lat="44.046799179" lon="-123.137221245">
+        <ele>116.600000</ele>
+        <time>2016-04-06T02:44:59Z</time>
+        <speed>6.365000</speed>
+      </trkpt>
+      <trkpt lat="44.046931194" lon="-123.137372119">
+        <ele>116.600000</ele>
+        <time>2016-04-06T02:45:02Z</time>
+        <speed>6.365000</speed>
+      </trkpt>
+      <trkpt lat="44.047024485" lon="-123.137447053">
+        <ele>116.600000</ele>
+        <time>2016-04-06T02:45:04Z</time>
+        <speed>5.982000</speed>
+      </trkpt>
+      <trkpt lat="44.047196649" lon="-123.137608908">
+        <ele>116.800000</ele>
+        <time>2016-04-06T02:45:08Z</time>
+        <speed>5.667000</speed>
+      </trkpt>
+      <trkpt lat="44.047246018" lon="-123.137724746">
+        <ele>116.800000</ele>
+        <time>2016-04-06T02:45:10Z</time>
+        <speed>5.387000</speed>
+      </trkpt>
+      <trkpt lat="44.047256663" lon="-123.138031188">
+        <ele>116.400000</ele>
+        <time>2016-04-06T02:45:14Z</time>
+        <speed>6.601000</speed>
+      </trkpt>
+      <trkpt lat="44.047242163" lon="-123.138115007">
+        <ele>116.000000</ele>
+        <time>2016-04-06T02:45:15Z</time>
+        <speed>6.840000</speed>
+      </trkpt>
+      <trkpt lat="44.047230596" lon="-123.138204610">
+        <ele>115.800000</ele>
+        <time>2016-04-06T02:45:16Z</time>
+        <speed>7.207000</speed>
+      </trkpt>
+      <trkpt lat="44.047217017" lon="-123.138474088">
+        <ele>115.000000</ele>
+        <time>2016-04-06T02:45:19Z</time>
+        <speed>7.230000</speed>
+      </trkpt>
+      <trkpt lat="44.047200505" lon="-123.138640971">
+        <ele>115.200000</ele>
+        <time>2016-04-06T02:45:21Z</time>
+        <speed>6.758000</speed>
+      </trkpt>
+      <trkpt lat="44.047159936" lon="-123.138844484">
+        <ele>115.400000</ele>
+        <time>2016-04-06T02:45:24Z</time>
+        <speed>5.387000</speed>
+      </trkpt>
+      <trkpt lat="44.047082823" lon="-123.139083787">
+        <ele>116.200000</ele>
+        <time>2016-04-06T02:45:28Z</time>
+        <speed>5.412000</speed>
+      </trkpt>
+      <trkpt lat="44.047047451" lon="-123.139197697">
+        <ele>116.600000</ele>
+        <time>2016-04-06T02:45:30Z</time>
+        <speed>5.007000</speed>
+      </trkpt>
+      <trkpt lat="44.047003195" lon="-123.139517467">
+        <ele>117.000000</ele>
+        <time>2016-04-06T02:45:35Z</time>
+        <speed>5.794000</speed>
+      </trkpt>
+      <trkpt lat="44.046874197" lon="-123.139936562">
+        <ele>117.000000</ele>
+        <time>2016-04-06T02:45:42Z</time>
+        <speed>5.127000</speed>
+      </trkpt>
+      <trkpt lat="44.046800017" lon="-123.140132280">
+        <ele>117.000000</ele>
+        <time>2016-04-06T02:45:47Z</time>
+        <speed>2.044000</speed>
+      </trkpt>
+      <trkpt lat="44.046711924" lon="-123.140334116">
+        <ele>116.800000</ele>
+        <time>2016-04-06T02:45:53Z</time>
+        <speed>4.323000</speed>
+      </trkpt>
+      <trkpt lat="44.046694741" lon="-123.140394047">
+        <ele>116.800000</ele>
+        <time>2016-04-06T02:45:54Z</time>
+        <speed>4.893000</speed>
+      </trkpt>
+      <trkpt lat="44.046640091" lon="-123.140675595">
+        <ele>117.000000</ele>
+        <time>2016-04-06T02:45:58Z</time>
+        <speed>5.886000</speed>
+      </trkpt>
+      <trkpt lat="44.046620728" lon="-123.140827642">
+        <ele>117.000000</ele>
+        <time>2016-04-06T02:46:00Z</time>
+        <speed>5.971000</speed>
+      </trkpt>
+      <trkpt lat="44.046590386" lon="-123.141142299">
+        <ele>116.800000</ele>
+        <time>2016-04-06T02:46:04Z</time>
+        <speed>6.469000</speed>
+      </trkpt>
+      <trkpt lat="44.046543196" lon="-123.141932377">
+        <ele>116.600000</ele>
+        <time>2016-04-06T02:46:14Z</time>
+        <speed>6.244000</speed>
+      </trkpt>
+      <trkpt lat="44.046504220" lon="-123.142231611">
+        <ele>116.600000</ele>
+        <time>2016-04-06T02:46:18Z</time>
+        <speed>5.987000</speed>
+      </trkpt>
+      <trkpt lat="44.046451079" lon="-123.142357591">
+        <ele>116.600000</ele>
+        <time>2016-04-06T02:46:20Z</time>
+        <speed>5.750000</speed>
+      </trkpt>
+      <trkpt lat="44.046391567" lon="-123.142464460">
+        <ele>116.800000</ele>
+        <time>2016-04-06T02:46:22Z</time>
+        <speed>5.496000</speed>
+      </trkpt>
+      <trkpt lat="44.046315879" lon="-123.142624136">
+        <ele>117.000000</ele>
+        <time>2016-04-06T02:46:25Z</time>
+        <speed>4.960000</speed>
+      </trkpt>
+      <trkpt lat="44.046297858" lon="-123.142678367">
+        <ele>117.000000</ele>
+        <time>2016-04-06T02:46:26Z</time>
+        <speed>4.815000</speed>
+      </trkpt>
+      <trkpt lat="44.046221582" lon="-123.142987743">
+        <ele>116.600000</ele>
+        <time>2016-04-06T02:46:31Z</time>
+        <speed>5.344000</speed>
+      </trkpt>
+      <trkpt lat="44.046186965" lon="-123.143031329">
+        <ele>116.400000</ele>
+        <time>2016-04-06T02:46:32Z</time>
+        <speed>5.161000</speed>
+      </trkpt>
+      <trkpt lat="44.046053609" lon="-123.143030909">
+        <ele>116.400000</ele>
+        <time>2016-04-06T02:46:35Z</time>
+        <speed>4.606000</speed>
+      </trkpt>
+      <trkpt lat="44.045893515" lon="-123.143002327">
+        <ele>116.600000</ele>
+        <time>2016-04-06T02:46:39Z</time>
+        <speed>4.182000</speed>
+      </trkpt>
+      <trkpt lat="44.045808606" lon="-123.142997382">
+        <ele>116.200000</ele>
+        <time>2016-04-06T02:46:41Z</time>
+        <speed>4.765000</speed>
+      </trkpt>
+      <trkpt lat="44.045568129" lon="-123.142981289">
+        <ele>116.200000</ele>
+        <time>2016-04-06T02:46:47Z</time>
+        <speed>5.029000</speed>
+      </trkpt>
+      <trkpt lat="44.045310469" lon="-123.142982462">
+        <ele>116.200000</ele>
+        <time>2016-04-06T02:46:52Z</time>
+        <speed>5.863000</speed>
+      </trkpt>
+      <trkpt lat="44.045259088" lon="-123.142981121">
+        <ele>116.400000</ele>
+        <time>2016-04-06T02:46:53Z</time>
+        <speed>5.743000</speed>
+      </trkpt>
+      <trkpt lat="44.044894308" lon="-123.142980534">
+        <ele>116.400000</ele>
+        <time>2016-04-06T02:47:00Z</time>
+        <speed>5.614000</speed>
+      </trkpt>
+      <trkpt lat="44.044693561" lon="-123.142999561">
+        <ele>116.400000</ele>
+        <time>2016-04-06T02:47:04Z</time>
+        <speed>5.256000</speed>
+      </trkpt>
+      <trkpt lat="44.044593733" lon="-123.143004926">
+        <ele>116.400000</ele>
+        <time>2016-04-06T02:47:06Z</time>
+        <speed>5.532000</speed>
+      </trkpt>
+      <trkpt lat="44.044491809" lon="-123.142997885">
+        <ele>116.800000</ele>
+        <time>2016-04-06T02:47:08Z</time>
+        <speed>5.495000</speed>
+      </trkpt>
+      <trkpt lat="44.044260049" lon="-123.142998555">
+        <ele>116.800000</ele>
+        <time>2016-04-06T02:47:13Z</time>
+        <speed>5.037000</speed>
+      </trkpt>
+      <trkpt lat="44.043994762" lon="-123.142988162">
+        <ele>117.200000</ele>
+        <time>2016-04-06T02:47:19Z</time>
+        <speed>5.249000</speed>
+      </trkpt>
+      <trkpt lat="44.043951008" lon="-123.142986737">
+        <ele>117.200000</ele>
+        <time>2016-04-06T02:47:20Z</time>
+        <speed>4.898000</speed>
+      </trkpt>
+      <trkpt lat="44.043709777" lon="-123.143010038">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:47:26Z</time>
+        <speed>4.303000</speed>
+      </trkpt>
+      <trkpt lat="44.043363186" lon="-123.143052870">
+        <ele>117.800000</ele>
+        <time>2016-04-06T02:47:34Z</time>
+        <speed>4.715000</speed>
+      </trkpt>
+      <trkpt lat="44.042999998" lon="-123.143065527">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:47:42Z</time>
+        <speed>4.963000</speed>
+      </trkpt>
+      <trkpt lat="44.042711576" lon="-123.143067538">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:47:48Z</time>
+        <speed>5.637000</speed>
+      </trkpt>
+      <trkpt lat="44.042318800" lon="-123.143066030">
+        <ele>118.600000</ele>
+        <time>2016-04-06T02:47:56Z</time>
+        <speed>5.248000</speed>
+      </trkpt>
+      <trkpt lat="44.042035492" lon="-123.143055971">
+        <ele>119.400000</ele>
+        <time>2016-04-06T02:48:02Z</time>
+        <speed>5.356000</speed>
+      </trkpt>
+      <trkpt lat="44.041807337" lon="-123.143053038">
+        <ele>119.600000</ele>
+        <time>2016-04-06T02:48:07Z</time>
+        <speed>5.281000</speed>
+      </trkpt>
+      <trkpt lat="44.041476922" lon="-123.143057312">
+        <ele>120.000000</ele>
+        <time>2016-04-06T02:48:14Z</time>
+        <speed>5.039000</speed>
+      </trkpt>
+      <trkpt lat="44.041203421" lon="-123.143064186">
+        <ele>120.400000</ele>
+        <time>2016-04-06T02:48:20Z</time>
+        <speed>4.962000</speed>
+      </trkpt>
+      <trkpt lat="44.040842496" lon="-123.143046500">
+        <ele>121.200000</ele>
+        <time>2016-04-06T02:48:29Z</time>
+        <speed>3.536000</speed>
+      </trkpt>
+      <trkpt lat="44.040770579" lon="-123.143073992">
+        <ele>121.200000</ele>
+        <time>2016-04-06T02:48:32Z</time>
+        <speed>2.776000</speed>
+      </trkpt>
+      <trkpt lat="44.040733866" lon="-123.143147586">
+        <ele>121.400000</ele>
+        <time>2016-04-06T02:48:34Z</time>
+        <speed>3.578000</speed>
+      </trkpt>
+      <trkpt lat="44.040743422" lon="-123.143315475">
+        <ele>121.000000</ele>
+        <time>2016-04-06T02:48:37Z</time>
+        <speed>4.745000</speed>
+      </trkpt>
+      <trkpt lat="44.040748619" lon="-123.143523514">
+        <ele>121.000000</ele>
+        <time>2016-04-06T02:48:40Z</time>
+        <speed>5.419000</speed>
+      </trkpt>
+      <trkpt lat="44.040756330" lon="-123.143744209">
+        <ele>120.800000</ele>
+        <time>2016-04-06T02:48:43Z</time>
+        <speed>5.850000</speed>
+      </trkpt>
+      <trkpt lat="44.040777955" lon="-123.144238574">
+        <ele>120.400000</ele>
+        <time>2016-04-06T02:48:49Z</time>
+        <speed>6.773000</speed>
+      </trkpt>
+      <trkpt lat="44.040780889" lon="-123.144889429">
+        <ele>119.400000</ele>
+        <time>2016-04-06T02:48:56Z</time>
+        <speed>7.458000</speed>
+      </trkpt>
+      <trkpt lat="44.040782984" lon="-123.144982384">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:48:57Z</time>
+        <speed>7.459000</speed>
+      </trkpt>
+      <trkpt lat="44.040786589" lon="-123.145734744">
+        <ele>118.600000</ele>
+        <time>2016-04-06T02:49:05Z</time>
+        <speed>7.508000</speed>
+      </trkpt>
+      <trkpt lat="44.040789438" lon="-123.146013693">
+        <ele>118.200000</ele>
+        <time>2016-04-06T02:49:08Z</time>
+        <speed>7.458000</speed>
+      </trkpt>
+      <trkpt lat="44.040789690" lon="-123.146371852">
+        <ele>118.200000</ele>
+        <time>2016-04-06T02:49:12Z</time>
+        <speed>7.076000</speed>
+      </trkpt>
+      <trkpt lat="44.040771585" lon="-123.146859260">
+        <ele>118.000000</ele>
+        <time>2016-04-06T02:49:18Z</time>
+        <speed>6.310000</speed>
+      </trkpt>
+      <trkpt lat="44.040739985" lon="-123.147274751">
+        <ele>118.200000</ele>
+        <time>2016-04-06T02:49:24Z</time>
+        <speed>5.678000</speed>
+      </trkpt>
+      <trkpt lat="44.040741410" lon="-123.147743299">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:49:30Z</time>
+        <speed>6.602000</speed>
+      </trkpt>
+      <trkpt lat="44.040737135" lon="-123.147908507">
+        <ele>118.200000</ele>
+        <time>2016-04-06T02:49:32Z</time>
+        <speed>6.560000</speed>
+      </trkpt>
+      <trkpt lat="44.040665554" lon="-123.148122329">
+        <ele>117.800000</ele>
+        <time>2016-04-06T02:49:35Z</time>
+        <speed>6.159000</speed>
+      </trkpt>
+      <trkpt lat="44.040525073" lon="-123.148244118">
+        <ele>117.600000</ele>
+        <time>2016-04-06T02:49:38Z</time>
+        <speed>5.864000</speed>
+      </trkpt>
+      <trkpt lat="44.040432788" lon="-123.148306228">
+        <ele>117.800000</ele>
+        <time>2016-04-06T02:49:40Z</time>
+        <speed>5.603000</speed>
+      </trkpt>
+      <trkpt lat="44.040201280" lon="-123.148480823">
+        <ele>117.800000</ele>
+        <time>2016-04-06T02:49:45Z</time>
+        <speed>5.910000</speed>
+      </trkpt>
+      <trkpt lat="44.039855527" lon="-123.148784751">
+        <ele>118.000000</ele>
+        <time>2016-04-06T02:49:53Z</time>
+        <speed>5.377000</speed>
+      </trkpt>
+      <trkpt lat="44.039522011" lon="-123.149087505">
+        <ele>118.400000</ele>
+        <time>2016-04-06T02:50:01Z</time>
+        <speed>5.659000</speed>
+      </trkpt>
+      <trkpt lat="44.039230572" lon="-123.149358743">
+        <ele>118.600000</ele>
+        <time>2016-04-06T02:50:08Z</time>
+        <speed>5.583000</speed>
+      </trkpt>
+      <trkpt lat="44.038873419" lon="-123.149696450">
+        <ele>118.800000</ele>
+        <time>2016-04-06T02:50:17Z</time>
+        <speed>5.359000</speed>
+      </trkpt>
+      <trkpt lat="44.038511070" lon="-123.150034492">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:50:26Z</time>
+        <speed>5.473000</speed>
+      </trkpt>
+      <trkpt lat="44.038190294" lon="-123.150338085">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:50:34Z</time>
+        <speed>5.405000</speed>
+      </trkpt>
+      <trkpt lat="44.037837332" lon="-123.150669422">
+        <ele>119.200000</ele>
+        <time>2016-04-06T02:50:43Z</time>
+        <speed>5.281000</speed>
+      </trkpt>
+      <trkpt lat="44.037477497" lon="-123.151011822">
+        <ele>119.400000</ele>
+        <time>2016-04-06T02:50:52Z</time>
+        <speed>5.527000</speed>
+      </trkpt>
+      <trkpt lat="44.037071478" lon="-123.151386577">
+        <ele>120.000000</ele>
+        <time>2016-04-06T02:51:02Z</time>
+        <speed>5.007000</speed>
+      </trkpt>
+      <trkpt lat="44.037037363" lon="-123.151421195">
+        <ele>120.200000</ele>
+        <time>2016-04-06T02:51:03Z</time>
+        <speed>4.861000</speed>
+      </trkpt>
+      <trkpt lat="44.036843322" lon="-123.151584306">
+        <ele>120.800000</ele>
+        <time>2016-04-06T02:51:09Z</time>
+        <speed>4.427000</speed>
+      </trkpt>
+      <trkpt lat="44.036730837" lon="-123.151668712">
+        <ele>121.400000</ele>
+        <time>2016-04-06T02:51:12Z</time>
+        <speed>4.849000</speed>
+      </trkpt>
+      <trkpt lat="44.036618436" lon="-123.151769463">
+        <ele>122.400000</ele>
+        <time>2016-04-06T02:51:15Z</time>
+        <speed>4.900000</speed>
+      </trkpt>
+      <trkpt lat="44.036536042" lon="-123.151817659">
+        <ele>122.600000</ele>
+        <time>2016-04-06T02:51:17Z</time>
+        <speed>4.937000</speed>
+      </trkpt>
+      <trkpt lat="44.036417857" lon="-123.151920169">
+        <ele>123.200000</ele>
+        <time>2016-04-06T02:51:20Z</time>
+        <speed>5.062000</speed>
+      </trkpt>
+      <trkpt lat="44.036380557" lon="-123.151957888">
+        <ele>123.600000</ele>
+        <time>2016-04-06T02:51:21Z</time>
+        <speed>5.093000</speed>
+      </trkpt>
+      <trkpt lat="44.036302354" lon="-123.152030056">
+        <ele>124.000000</ele>
+        <time>2016-04-06T02:51:23Z</time>
+        <speed>5.142000</speed>
+      </trkpt>
+      <trkpt lat="44.036224989" lon="-123.152098201">
+        <ele>124.800000</ele>
+        <time>2016-04-06T02:51:25Z</time>
+        <speed>5.174000</speed>
+      </trkpt>
+      <trkpt lat="44.036054837" lon="-123.152261480">
+        <ele>125.800000</ele>
+        <time>2016-04-06T02:51:30Z</time>
+        <speed>4.105000</speed>
+      </trkpt>
+      <trkpt lat="44.035865741" lon="-123.152287883">
+        <ele>126.800000</ele>
+        <time>2016-04-06T02:51:35Z</time>
+        <speed>4.768000</speed>
+      </trkpt>
+      <trkpt lat="44.035747724" lon="-123.152162071">
+        <ele>127.200000</ele>
+        <time>2016-04-06T02:51:39Z</time>
+        <speed>4.180000</speed>
+      </trkpt>
+      <trkpt lat="44.035725176" lon="-123.152122508">
+        <ele>127.200000</ele>
+        <time>2016-04-06T02:51:40Z</time>
+        <speed>4.029000</speed>
+      </trkpt>
+      <trkpt lat="44.035548989" lon="-123.151941375">
+        <ele>127.600000</ele>
+        <time>2016-04-06T02:51:46Z</time>
+        <speed>4.330000</speed>
+      </trkpt>
+      <trkpt lat="44.035253024" lon="-123.151860574">
+        <ele>127.000000</ele>
+        <time>2016-04-06T02:51:53Z</time>
+        <speed>5.148000</speed>
+      </trkpt>
+      <trkpt lat="44.035116902" lon="-123.151871135">
+        <ele>127.200000</ele>
+        <time>2016-04-06T02:51:56Z</time>
+        <speed>5.113000</speed>
+      </trkpt>
+      <trkpt lat="44.034927974" lon="-123.151863256">
+        <ele>127.200000</ele>
+        <time>2016-04-06T02:52:00Z</time>
+        <speed>5.183000</speed>
+      </trkpt>
+      <trkpt lat="44.034747511" lon="-123.151857640">
+        <ele>127.800000</ele>
+        <time>2016-04-06T02:52:04Z</time>
+        <speed>4.878000</speed>
+      </trkpt>
+      <trkpt lat="44.034597559" lon="-123.151857137">
+        <ele>128.600000</ele>
+        <time>2016-04-06T02:52:08Z</time>
+        <speed>4.253000</speed>
+      </trkpt>
+      <trkpt lat="44.034396645" lon="-123.151853198">
+        <ele>129.000000</ele>
+        <time>2016-04-06T02:52:13Z</time>
+        <speed>4.513000</speed>
+      </trkpt>
+      <trkpt lat="44.034315340" lon="-123.151856634">
+        <ele>129.400000</ele>
+        <time>2016-04-06T02:52:15Z</time>
+        <speed>4.513000</speed>
+      </trkpt>
+      <trkpt lat="44.034120210" lon="-123.151855126">
+        <ele>130.200000</ele>
+        <time>2016-04-06T02:52:20Z</time>
+        <speed>4.262000</speed>
+      </trkpt>
+      <trkpt lat="44.033972520" lon="-123.151852024">
+        <ele>131.200000</ele>
+        <time>2016-04-06T02:52:24Z</time>
+        <speed>3.849000</speed>
+      </trkpt>
+      <trkpt lat="44.033858443" lon="-123.151875410">
+        <ele>132.400000</ele>
+        <time>2016-04-06T02:52:28Z</time>
+        <speed>3.252000</speed>
+      </trkpt>
+      <trkpt lat="44.033829944" lon="-123.151881110">
+        <ele>132.800000</ele>
+        <time>2016-04-06T02:52:29Z</time>
+        <speed>3.220000</speed>
+      </trkpt>
+      <trkpt lat="44.033743946" lon="-123.151882451">
+        <ele>133.600000</ele>
+        <time>2016-04-06T02:52:32Z</time>
+        <speed>2.714000</speed>
+      </trkpt>
+      <trkpt lat="44.033719974" lon="-123.151892090">
+        <ele>134.200000</ele>
+        <time>2016-04-06T02:52:34Z</time>
+        <speed>1.134000</speed>
+      </trkpt>
+      <trkpt lat="44.033721231" lon="-123.151885803">
+        <ele>134.200000</ele>
+        <time>2016-04-06T02:52:39Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.033721231" lon="-123.151885803">
+        <ele>134.200000</ele>
+        <time>2016-04-06T02:52:48Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.033721231" lon="-123.151885803">
+        <ele>133.800000</ele>
+        <time>2016-04-06T02:53:04Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.033723829" lon="-123.151888569">
+        <ele>134.000000</ele>
+        <time>2016-04-06T02:53:18Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.033723829" lon="-123.151888569">
+        <ele>134.200000</ele>
+        <time>2016-04-06T02:53:35Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.033723829" lon="-123.151888569">
+        <ele>134.000000</ele>
+        <time>2016-04-06T02:53:48Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.033719890" lon="-123.151890078">
+        <ele>134.000000</ele>
+        <time>2016-04-06T02:54:00Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.033719890" lon="-123.151890078">
+        <ele>134.000000</ele>
+        <time>2016-04-06T02:54:11Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.033719890" lon="-123.151890078">
+        <ele>134.000000</ele>
+        <time>2016-04-06T02:54:29Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.033718633" lon="-123.151893599">
+        <ele>134.600000</ele>
+        <time>2016-04-06T02:54:40Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.033718633" lon="-123.151893599">
+        <ele>134.600000</ele>
+        <time>2016-04-06T02:54:42Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.033718633" lon="-123.151893599">
+        <ele>134.800000</ele>
+        <time>2016-04-06T02:54:50Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.033662139" lon="-123.151867112">
+        <ele>135.000000</ele>
+        <time>2016-04-06T02:54:56Z</time>
+        <speed>1.600000</speed>
+      </trkpt>
+      <trkpt lat="44.033551749" lon="-123.151833836">
+        <ele>135.600000</ele>
+        <time>2016-04-06T02:55:01Z</time>
+        <speed>3.159000</speed>
+      </trkpt>
+      <trkpt lat="44.033361899" lon="-123.151848336">
+        <ele>136.400000</ele>
+        <time>2016-04-06T02:55:07Z</time>
+        <speed>3.811000</speed>
+      </trkpt>
+      <trkpt lat="44.033174144" lon="-123.151834171">
+        <ele>136.800000</ele>
+        <time>2016-04-06T02:55:12Z</time>
+        <speed>4.161000</speed>
+      </trkpt>
+      <trkpt lat="44.033133827" lon="-123.151836183">
+        <ele>136.800000</ele>
+        <time>2016-04-06T02:55:13Z</time>
+        <speed>4.230000</speed>
+      </trkpt>
+      <trkpt lat="44.032949006" lon="-123.151851102">
+        <ele>138.000000</ele>
+        <time>2016-04-06T02:55:18Z</time>
+        <speed>3.014000</speed>
+      </trkpt>
+      <trkpt lat="44.032919753" lon="-123.151852108">
+        <ele>138.200000</ele>
+        <time>2016-04-06T02:55:19Z</time>
+        <speed>3.115000</speed>
+      </trkpt>
+      <trkpt lat="44.032795282" lon="-123.151838781">
+        <ele>139.000000</ele>
+        <time>2016-04-06T02:55:23Z</time>
+        <speed>3.403000</speed>
+      </trkpt>
+      <trkpt lat="44.032704674" lon="-123.151830064">
+        <ele>139.600000</ele>
+        <time>2016-04-06T02:55:26Z</time>
+        <speed>3.157000</speed>
+      </trkpt>
+      <trkpt lat="44.032650024" lon="-123.151822604">
+        <ele>140.400000</ele>
+        <time>2016-04-06T02:55:28Z</time>
+        <speed>3.228000</speed>
+      </trkpt>
+      <trkpt lat="44.032566959" lon="-123.151829142">
+        <ele>141.600000</ele>
+        <time>2016-04-06T02:55:31Z</time>
+        <speed>2.539000</speed>
+      </trkpt>
+      <trkpt lat="44.032543071" lon="-123.151834674">
+        <ele>142.000000</ele>
+        <time>2016-04-06T02:55:32Z</time>
+        <speed>2.585000</speed>
+      </trkpt>
+      <trkpt lat="44.032494372" lon="-123.151828806">
+        <ele>142.600000</ele>
+        <time>2016-04-06T02:55:34Z</time>
+        <speed>2.505000</speed>
+      </trkpt>
+      <trkpt lat="44.032410720" lon="-123.151830902">
+        <ele>143.600000</ele>
+        <time>2016-04-06T02:55:37Z</time>
+        <speed>3.033000</speed>
+      </trkpt>
+      <trkpt lat="44.032383563" lon="-123.151832662">
+        <ele>143.800000</ele>
+        <time>2016-04-06T02:55:38Z</time>
+        <speed>3.033000</speed>
+      </trkpt>
+      <trkpt lat="44.032292116" lon="-123.151833081">
+        <ele>145.000000</ele>
+        <time>2016-04-06T02:55:41Z</time>
+        <speed>3.239000</speed>
+      </trkpt>
+      <trkpt lat="44.032207124" lon="-123.151838949">
+        <ele>145.600000</ele>
+        <time>2016-04-06T02:55:44Z</time>
+        <speed>3.014000</speed>
+      </trkpt>
+      <trkpt lat="44.032177201" lon="-123.151845654">
+        <ele>146.000000</ele>
+        <time>2016-04-06T02:55:45Z</time>
+        <speed>3.390000</speed>
+      </trkpt>
+      <trkpt lat="44.032039654" lon="-123.151838194">
+        <ele>147.200000</ele>
+        <time>2016-04-06T02:55:50Z</time>
+        <speed>3.030000</speed>
+      </trkpt>
+      <trkpt lat="44.031930437" lon="-123.151827214">
+        <ele>148.400000</ele>
+        <time>2016-04-06T02:55:54Z</time>
+        <speed>2.471000</speed>
+      </trkpt>
+      <trkpt lat="44.031908477" lon="-123.151822101">
+        <ele>148.800000</ele>
+        <time>2016-04-06T02:55:55Z</time>
+        <speed>2.471000</speed>
+      </trkpt>
+      <trkpt lat="44.031835638" lon="-123.151790585">
+        <ele>149.800000</ele>
+        <time>2016-04-06T02:55:58Z</time>
+        <speed>2.117000</speed>
+      </trkpt>
+      <trkpt lat="44.031764559" lon="-123.151772899">
+        <ele>150.800000</ele>
+        <time>2016-04-06T02:56:01Z</time>
+        <speed>2.507000</speed>
+      </trkpt>
+      <trkpt lat="44.031741509" lon="-123.151766864">
+        <ele>151.000000</ele>
+        <time>2016-04-06T02:56:02Z</time>
+        <speed>2.373000</speed>
+      </trkpt>
+      <trkpt lat="44.031657187" lon="-123.151746748">
+        <ele>152.400000</ele>
+        <time>2016-04-06T02:56:06Z</time>
+        <speed>2.124000</speed>
+      </trkpt>
+      <trkpt lat="44.031555766" lon="-123.151700731">
+        <ele>153.400000</ele>
+        <time>2016-04-06T02:56:11Z</time>
+        <speed>2.369000</speed>
+      </trkpt>
+      <trkpt lat="44.031512935" lon="-123.151690337">
+        <ele>153.800000</ele>
+        <time>2016-04-06T02:56:13Z</time>
+        <speed>2.402000</speed>
+      </trkpt>
+      <trkpt lat="44.031417800" lon="-123.151650188">
+        <ele>154.400000</ele>
+        <time>2016-04-06T02:56:17Z</time>
+        <speed>2.858000</speed>
+      </trkpt>
+      <trkpt lat="44.031311853" lon="-123.151594532">
+        <ele>155.000000</ele>
+        <time>2016-04-06T02:56:21Z</time>
+        <speed>3.513000</speed>
+      </trkpt>
+      <trkpt lat="44.031111609" lon="-123.151493363">
+        <ele>155.400000</ele>
+        <time>2016-04-06T02:56:28Z</time>
+        <speed>3.429000</speed>
+      </trkpt>
+      <trkpt lat="44.030995520" lon="-123.151430498">
+        <ele>155.600000</ele>
+        <time>2016-04-06T02:56:32Z</time>
+        <speed>3.082000</speed>
+      </trkpt>
+      <trkpt lat="44.030891417" lon="-123.151370484">
+        <ele>156.200000</ele>
+        <time>2016-04-06T02:56:36Z</time>
+        <speed>3.349000</speed>
+      </trkpt>
+      <trkpt lat="44.030713888" lon="-123.151253892">
+        <ele>156.800000</ele>
+        <time>2016-04-06T02:56:43Z</time>
+        <speed>2.680000</speed>
+      </trkpt>
+      <trkpt lat="44.030690838" lon="-123.151243331">
+        <ele>156.800000</ele>
+        <time>2016-04-06T02:56:44Z</time>
+        <speed>2.707000</speed>
+      </trkpt>
+      <trkpt lat="44.030562175" lon="-123.151142329">
+        <ele>157.600000</ele>
+        <time>2016-04-06T02:56:50Z</time>
+        <speed>2.837000</speed>
+      </trkpt>
+      <trkpt lat="44.030537281" lon="-123.151126738">
+        <ele>157.800000</ele>
+        <time>2016-04-06T02:56:51Z</time>
+        <speed>3.124000</speed>
+      </trkpt>
+      <trkpt lat="44.030371236" lon="-123.150996651">
+        <ele>158.200000</ele>
+        <time>2016-04-06T02:56:57Z</time>
+        <speed>3.784000</speed>
+      </trkpt>
+      <trkpt lat="44.030163700" lon="-123.150824487">
+        <ele>158.800000</ele>
+        <time>2016-04-06T02:57:04Z</time>
+        <speed>3.852000</speed>
+      </trkpt>
+      <trkpt lat="44.030133441" lon="-123.150801101">
+        <ele>159.000000</ele>
+        <time>2016-04-06T02:57:05Z</time>
+        <speed>3.711000</speed>
+      </trkpt>
+      <trkpt lat="44.029995056" lon="-123.150702279">
+        <ele>159.800000</ele>
+        <time>2016-04-06T02:57:11Z</time>
+        <speed>2.626000</speed>
+      </trkpt>
+      <trkpt lat="44.029928839" lon="-123.150644276">
+        <ele>160.000000</ele>
+        <time>2016-04-06T02:57:14Z</time>
+        <speed>3.144000</speed>
+      </trkpt>
+      <trkpt lat="44.029878631" lon="-123.150594571">
+        <ele>160.200000</ele>
+        <time>2016-04-06T02:57:16Z</time>
+        <speed>3.723000</speed>
+      </trkpt>
+      <trkpt lat="44.029778132" lon="-123.150510752">
+        <ele>161.000000</ele>
+        <time>2016-04-06T02:57:20Z</time>
+        <speed>3.165000</speed>
+      </trkpt>
+      <trkpt lat="44.029710909" lon="-123.150448810">
+        <ele>161.800000</ele>
+        <time>2016-04-06T02:57:23Z</time>
+        <speed>2.666000</speed>
+      </trkpt>
+      <trkpt lat="44.029666821" lon="-123.150414444">
+        <ele>162.200000</ele>
+        <time>2016-04-06T02:57:25Z</time>
+        <speed>2.451000</speed>
+      </trkpt>
+      <trkpt lat="44.029574117" lon="-123.150348730">
+        <ele>163.200000</ele>
+        <time>2016-04-06T02:57:30Z</time>
+        <speed>2.175000</speed>
+      </trkpt>
+      <trkpt lat="44.029559867" lon="-123.150335403">
+        <ele>163.400000</ele>
+        <time>2016-04-06T02:57:31Z</time>
+        <speed>1.858000</speed>
+      </trkpt>
+      <trkpt lat="44.029466745" lon="-123.150249237">
+        <ele>164.400000</ele>
+        <time>2016-04-06T02:57:36Z</time>
+        <speed>2.273000</speed>
+      </trkpt>
+      <trkpt lat="44.029376388" lon="-123.150177739">
+        <ele>165.400000</ele>
+        <time>2016-04-06T02:57:40Z</time>
+        <speed>2.783000</speed>
+      </trkpt>
+      <trkpt lat="44.029331042" lon="-123.150148654">
+        <ele>165.800000</ele>
+        <time>2016-04-06T02:57:42Z</time>
+        <speed>2.714000</speed>
+      </trkpt>
+      <trkpt lat="44.029227441" lon="-123.150060979">
+        <ele>166.400000</ele>
+        <time>2016-04-06T02:57:47Z</time>
+        <speed>2.698000</speed>
+      </trkpt>
+      <trkpt lat="44.029194752" lon="-123.150008928">
+        <ele>166.600000</ele>
+        <time>2016-04-06T02:57:49Z</time>
+        <speed>2.674000</speed>
+      </trkpt>
+      <trkpt lat="44.029073298" lon="-123.149850677">
+        <ele>167.000000</ele>
+        <time>2016-04-06T02:57:55Z</time>
+        <speed>3.122000</speed>
+      </trkpt>
+      <trkpt lat="44.028937930" lon="-123.149617493">
+        <ele>166.600000</ele>
+        <time>2016-04-06T02:58:01Z</time>
+        <speed>4.347000</speed>
+      </trkpt>
+      <trkpt lat="44.028915718" lon="-123.149566112">
+        <ele>166.600000</ele>
+        <time>2016-04-06T02:58:02Z</time>
+        <speed>4.624000</speed>
+      </trkpt>
+      <trkpt lat="44.028794767" lon="-123.149255981">
+        <ele>167.000000</ele>
+        <time>2016-04-06T02:58:08Z</time>
+        <speed>4.048000</speed>
+      </trkpt>
+      <trkpt lat="44.028744224" lon="-123.149067556">
+        <ele>167.600000</ele>
+        <time>2016-04-06T02:58:12Z</time>
+        <speed>3.697000</speed>
+      </trkpt>
+      <trkpt lat="44.028720336" lon="-123.148947863">
+        <ele>168.400000</ele>
+        <time>2016-04-06T02:58:15Z</time>
+        <speed>2.831000</speed>
+      </trkpt>
+      <trkpt lat="44.028698543" lon="-123.148879131">
+        <ele>168.600000</ele>
+        <time>2016-04-06T02:58:17Z</time>
+        <speed>2.982000</speed>
+      </trkpt>
+      <trkpt lat="44.028620927" lon="-123.148746445">
+        <ele>169.600000</ele>
+        <time>2016-04-06T02:58:21Z</time>
+        <speed>3.163000</speed>
+      </trkpt>
+      <trkpt lat="44.028551441" lon="-123.148662543">
+        <ele>170.600000</ele>
+        <time>2016-04-06T02:58:24Z</time>
+        <speed>2.640000</speed>
+      </trkpt>
+      <trkpt lat="44.028478602" lon="-123.148605881">
+        <ele>171.600000</ele>
+        <time>2016-04-06T02:58:27Z</time>
+        <speed>2.842000</speed>
+      </trkpt>
+      <trkpt lat="44.028449265" lon="-123.148583669">
+        <ele>171.800000</ele>
+        <time>2016-04-06T02:58:28Z</time>
+        <speed>3.005000</speed>
+      </trkpt>
+      <trkpt lat="44.028363770" lon="-123.148535389">
+        <ele>172.800000</ele>
+        <time>2016-04-06T02:58:31Z</time>
+        <speed>3.059000</speed>
+      </trkpt>
+      <trkpt lat="44.028311383" lon="-123.148496916">
+        <ele>173.400000</ele>
+        <time>2016-04-06T02:58:33Z</time>
+        <speed>2.986000</speed>
+      </trkpt>
+      <trkpt lat="44.028251536" lon="-123.148455845">
+        <ele>173.800000</ele>
+        <time>2016-04-06T02:58:35Z</time>
+        <speed>3.342000</speed>
+      </trkpt>
+      <trkpt lat="44.028153803" lon="-123.148395076">
+        <ele>174.400000</ele>
+        <time>2016-04-06T02:58:39Z</time>
+        <speed>2.411000</speed>
+      </trkpt>
+      <trkpt lat="44.028054981" lon="-123.148339085">
+        <ele>175.000000</ele>
+        <time>2016-04-06T02:58:43Z</time>
+        <speed>3.210000</speed>
+      </trkpt>
+      <trkpt lat="44.028032433" lon="-123.148317040">
+        <ele>175.000000</ele>
+        <time>2016-04-06T02:58:44Z</time>
+        <speed>2.999000</speed>
+      </trkpt>
+      <trkpt lat="44.027885582" lon="-123.148093663">
+        <ele>176.000000</ele>
+        <time>2016-04-06T02:58:52Z</time>
+        <speed>3.030000</speed>
+      </trkpt>
+      <trkpt lat="44.027814504" lon="-123.147888558">
+        <ele>177.000000</ele>
+        <time>2016-04-06T02:58:58Z</time>
+        <speed>3.011000</speed>
+      </trkpt>
+      <trkpt lat="44.027789945" lon="-123.147827370">
+        <ele>177.600000</ele>
+        <time>2016-04-06T02:59:00Z</time>
+        <speed>2.859000</speed>
+      </trkpt>
+      <trkpt lat="44.027761111" lon="-123.147782191">
+        <ele>178.200000</ele>
+        <time>2016-04-06T02:59:02Z</time>
+        <speed>2.402000</speed>
+      </trkpt>
+      <trkpt lat="44.027709814" lon="-123.147683704">
+        <ele>179.200000</ele>
+        <time>2016-04-06T02:59:06Z</time>
+        <speed>2.217000</speed>
+      </trkpt>
+      <trkpt lat="44.027696570" lon="-123.147663084">
+        <ele>179.400000</ele>
+        <time>2016-04-06T02:59:07Z</time>
+        <speed>2.004000</speed>
+      </trkpt>
+      <trkpt lat="44.027656840" lon="-123.147591754">
+        <ele>180.600000</ele>
+        <time>2016-04-06T02:59:10Z</time>
+        <speed>2.241000</speed>
+      </trkpt>
+      <trkpt lat="44.027613422" lon="-123.147521011">
+        <ele>181.600000</ele>
+        <time>2016-04-06T02:59:13Z</time>
+        <speed>2.504000</speed>
+      </trkpt>
+      <trkpt lat="44.027564555" lon="-123.147456219">
+        <ele>183.000000</ele>
+        <time>2016-04-06T02:59:16Z</time>
+        <speed>2.259000</speed>
+      </trkpt>
+      <trkpt lat="44.027524322" lon="-123.147403078">
+        <ele>184.200000</ele>
+        <time>2016-04-06T02:59:18Z</time>
+        <speed>2.433000</speed>
+      </trkpt>
+      <trkpt lat="44.027486436" lon="-123.147346668">
+        <ele>184.800000</ele>
+        <time>2016-04-06T02:59:20Z</time>
+        <speed>2.204000</speed>
+      </trkpt>
+      <trkpt lat="44.027468415" lon="-123.147323533">
+        <ele>185.400000</ele>
+        <time>2016-04-06T02:59:21Z</time>
+        <speed>1.781000</speed>
+      </trkpt>
+      <trkpt lat="44.027415441" lon="-123.147263519">
+        <ele>186.400000</ele>
+        <time>2016-04-06T02:59:24Z</time>
+        <speed>2.298000</speed>
+      </trkpt>
+      <trkpt lat="44.027396834" lon="-123.147235188">
+        <ele>186.800000</ele>
+        <time>2016-04-06T02:59:25Z</time>
+        <speed>2.326000</speed>
+      </trkpt>
+      <trkpt lat="44.027366659" lon="-123.147184226">
+        <ele>187.600000</ele>
+        <time>2016-04-06T02:59:27Z</time>
+        <speed>2.091000</speed>
+      </trkpt>
+      <trkpt lat="44.027322654" lon="-123.147119434">
+        <ele>188.600000</ele>
+        <time>2016-04-06T02:59:30Z</time>
+        <speed>1.834000</speed>
+      </trkpt>
+      <trkpt lat="44.027306058" lon="-123.147095546">
+        <ele>188.800000</ele>
+        <time>2016-04-06T02:59:31Z</time>
+        <speed>1.548000</speed>
+      </trkpt>
+      <trkpt lat="44.027260628" lon="-123.147038716">
+        <ele>189.800000</ele>
+        <time>2016-04-06T02:59:34Z</time>
+        <speed>1.556000</speed>
+      </trkpt>
+      <trkpt lat="44.027208827" lon="-123.146954059">
+        <ele>190.200000</ele>
+        <time>2016-04-06T02:59:37Z</time>
+        <speed>2.161000</speed>
+      </trkpt>
+      <trkpt lat="44.027165912" lon="-123.146907121">
+        <ele>190.800000</ele>
+        <time>2016-04-06T02:59:39Z</time>
+        <speed>2.084000</speed>
+      </trkpt>
+      <trkpt lat="44.027104473" lon="-123.146813998">
+        <ele>191.600000</ele>
+        <time>2016-04-06T02:59:43Z</time>
+        <speed>2.135000</speed>
+      </trkpt>
+      <trkpt lat="44.027078992" lon="-123.146771166">
+        <ele>192.000000</ele>
+        <time>2016-04-06T02:59:45Z</time>
+        <speed>1.898000</speed>
+      </trkpt>
+      <trkpt lat="44.027008584" lon="-123.146702937">
+        <ele>192.600000</ele>
+        <time>2016-04-06T02:59:49Z</time>
+        <speed>2.243000</speed>
+      </trkpt>
+      <trkpt lat="44.026946977" lon="-123.146617610">
+        <ele>193.000000</ele>
+        <time>2016-04-06T02:59:53Z</time>
+        <speed>1.941000</speed>
+      </trkpt>
+      <trkpt lat="44.026902301" lon="-123.146567821">
+        <ele>193.200000</ele>
+        <time>2016-04-06T02:59:56Z</time>
+        <speed>1.863000</speed>
+      </trkpt>
+      <trkpt lat="44.026801467" lon="-123.146482745">
+        <ele>193.800000</ele>
+        <time>2016-04-06T03:00:03Z</time>
+        <speed>1.371000</speed>
+      </trkpt>
+      <trkpt lat="44.026648916" lon="-123.146368332">
+        <ele>194.000000</ele>
+        <time>2016-04-06T03:00:09Z</time>
+        <speed>2.615000</speed>
+      </trkpt>
+      <trkpt lat="44.026620669" lon="-123.146350227">
+        <ele>194.000000</ele>
+        <time>2016-04-06T03:00:10Z</time>
+        <speed>2.779000</speed>
+      </trkpt>
+      <trkpt lat="44.026452528" lon="-123.146262636">
+        <ele>194.200000</ele>
+        <time>2016-04-06T03:00:16Z</time>
+        <speed>2.885000</speed>
+      </trkpt>
+      <trkpt lat="44.026233342" lon="-123.146137243">
+        <ele>194.400000</ele>
+        <time>2016-04-06T03:00:23Z</time>
+        <speed>3.450000</speed>
+      </trkpt>
+      <trkpt lat="44.026094202" lon="-123.146055854">
+        <ele>194.600000</ele>
+        <time>2016-04-06T03:00:28Z</time>
+        <speed>3.440000</speed>
+      </trkpt>
+      <trkpt lat="44.025918685" lon="-123.145975472">
+        <ele>194.800000</ele>
+        <time>2016-04-06T03:00:33Z</time>
+        <speed>3.754000</speed>
+      </trkpt>
+      <trkpt lat="44.025748868" lon="-123.145874638">
+        <ele>195.000000</ele>
+        <time>2016-04-06T03:00:39Z</time>
+        <speed>2.136000</speed>
+      </trkpt>
+      <trkpt lat="44.025727326" lon="-123.145863238">
+        <ele>195.400000</ele>
+        <time>2016-04-06T03:00:40Z</time>
+        <speed>2.193000</speed>
+      </trkpt>
+      <trkpt lat="44.025665216" lon="-123.145828621">
+        <ele>196.400000</ele>
+        <time>2016-04-06T03:00:43Z</time>
+        <speed>1.757000</speed>
+      </trkpt>
+      <trkpt lat="44.025603274" lon="-123.145793920">
+        <ele>197.600000</ele>
+        <time>2016-04-06T03:00:46Z</time>
+        <speed>1.658000</speed>
+      </trkpt>
+      <trkpt lat="44.025588689" lon="-123.145790316">
+        <ele>198.000000</ele>
+        <time>2016-04-06T03:00:47Z</time>
+        <speed>1.780000</speed>
+      </trkpt>
+      <trkpt lat="44.025550300" lon="-123.145767433">
+        <ele>198.800000</ele>
+        <time>2016-04-06T03:00:49Z</time>
+        <speed>1.865000</speed>
+      </trkpt>
+      <trkpt lat="44.025484838" lon="-123.145718902">
+        <ele>200.200000</ele>
+        <time>2016-04-06T03:00:52Z</time>
+        <speed>1.409000</speed>
+      </trkpt>
+      <trkpt lat="44.025462626" lon="-123.145694343">
+        <ele>201.200000</ele>
+        <time>2016-04-06T03:00:53Z</time>
+        <speed>1.669000</speed>
+      </trkpt>
+      <trkpt lat="44.025437564" lon="-123.145680178">
+        <ele>201.800000</ele>
+        <time>2016-04-06T03:00:54Z</time>
+        <speed>2.028000</speed>
+      </trkpt>
+      <trkpt lat="44.025398839" lon="-123.145651176">
+        <ele>202.600000</ele>
+        <time>2016-04-06T03:00:56Z</time>
+        <speed>1.350000</speed>
+      </trkpt>
+      <trkpt lat="44.025357097" lon="-123.145630641">
+        <ele>203.600000</ele>
+        <time>2016-04-06T03:00:59Z</time>
+        <speed>1.706000</speed>
+      </trkpt>
+      <trkpt lat="44.025339412" lon="-123.145619157">
+        <ele>204.000000</ele>
+        <time>2016-04-06T03:01:00Z</time>
+        <speed>1.791000</speed>
+      </trkpt>
+      <trkpt lat="44.025299346" lon="-123.145589318">
+        <ele>204.600000</ele>
+        <time>2016-04-06T03:01:02Z</time>
+        <speed>2.011000</speed>
+      </trkpt>
+      <trkpt lat="44.025235727" lon="-123.145503571">
+        <ele>205.400000</ele>
+        <time>2016-04-06T03:01:06Z</time>
+        <speed>1.741000</speed>
+      </trkpt>
+      <trkpt lat="44.025205469" lon="-123.145463673">
+        <ele>205.800000</ele>
+        <time>2016-04-06T03:01:08Z</time>
+        <speed>1.962000</speed>
+      </trkpt>
+      <trkpt lat="44.025105221" lon="-123.145367868">
+        <ele>206.800000</ele>
+        <time>2016-04-06T03:01:13Z</time>
+        <speed>1.790000</speed>
+      </trkpt>
+      <trkpt lat="44.024973877" lon="-123.145201068">
+        <ele>207.600000</ele>
+        <time>2016-04-06T03:01:20Z</time>
+        <speed>2.323000</speed>
+      </trkpt>
+      <trkpt lat="44.024923585" lon="-123.145132420">
+        <ele>208.000000</ele>
+        <time>2016-04-06T03:01:23Z</time>
+        <speed>2.538000</speed>
+      </trkpt>
+      <trkpt lat="44.024829540" lon="-123.145033933">
+        <ele>208.200000</ele>
+        <time>2016-04-06T03:01:28Z</time>
+        <speed>2.509000</speed>
+      </trkpt>
+      <trkpt lat="44.024667434" lon="-123.144928656">
+        <ele>209.000000</ele>
+        <time>2016-04-06T03:01:35Z</time>
+        <speed>2.944000</speed>
+      </trkpt>
+      <trkpt lat="44.024395609" lon="-123.144769651">
+        <ele>209.600000</ele>
+        <time>2016-04-06T03:01:43Z</time>
+        <speed>2.991000</speed>
+      </trkpt>
+      <trkpt lat="44.024300978" lon="-123.144677199">
+        <ele>210.000000</ele>
+        <time>2016-04-06T03:01:47Z</time>
+        <speed>2.614000</speed>
+      </trkpt>
+      <trkpt lat="44.024248088" lon="-123.144582903">
+        <ele>210.400000</ele>
+        <time>2016-04-06T03:01:50Z</time>
+        <speed>3.530000</speed>
+      </trkpt>
+      <trkpt lat="44.024174159" lon="-123.144392047">
+        <ele>210.600000</ele>
+        <time>2016-04-06T03:01:56Z</time>
+        <speed>3.182000</speed>
+      </trkpt>
+      <trkpt lat="44.024142224" lon="-123.144175794">
+        <ele>211.200000</ele>
+        <time>2016-04-06T03:02:02Z</time>
+        <speed>3.029000</speed>
+      </trkpt>
+      <trkpt lat="44.024136273" lon="-123.144137321">
+        <ele>211.200000</ele>
+        <time>2016-04-06T03:02:03Z</time>
+        <speed>3.087000</speed>
+      </trkpt>
+      <trkpt lat="44.024096375" lon="-123.143957696">
+        <ele>212.200000</ele>
+        <time>2016-04-06T03:02:08Z</time>
+        <speed>2.894000</speed>
+      </trkpt>
+      <trkpt lat="44.024083300" lon="-123.143921235">
+        <ele>212.400000</ele>
+        <time>2016-04-06T03:02:09Z</time>
+        <speed>2.939000</speed>
+      </trkpt>
+      <trkpt lat="44.024063015" lon="-123.143743455">
+        <ele>213.400000</ele>
+        <time>2016-04-06T03:02:14Z</time>
+        <speed>2.487000</speed>
+      </trkpt>
+      <trkpt lat="44.024058070" lon="-123.143714454">
+        <ele>213.600000</ele>
+        <time>2016-04-06T03:02:15Z</time>
+        <speed>2.251000</speed>
+      </trkpt>
+      <trkpt lat="44.024037367" lon="-123.143628539">
+        <ele>214.400000</ele>
+        <time>2016-04-06T03:02:18Z</time>
+        <speed>2.357000</speed>
+      </trkpt>
+      <trkpt lat="44.024029991" lon="-123.143566010">
+        <ele>215.200000</ele>
+        <time>2016-04-06T03:02:20Z</time>
+        <speed>2.554000</speed>
+      </trkpt>
+      <trkpt lat="44.024019681" lon="-123.143536087">
+        <ele>215.400000</ele>
+        <time>2016-04-06T03:02:21Z</time>
+        <speed>2.482000</speed>
+      </trkpt>
+      <trkpt lat="44.024006438" lon="-123.143509097">
+        <ele>215.600000</ele>
+        <time>2016-04-06T03:02:22Z</time>
+        <speed>2.369000</speed>
+      </trkpt>
+      <trkpt lat="44.023922367" lon="-123.143420919">
+        <ele>216.800000</ele>
+        <time>2016-04-06T03:02:26Z</time>
+        <speed>2.565000</speed>
+      </trkpt>
+      <trkpt lat="44.023902837" lon="-123.143399462">
+        <ele>217.000000</ele>
+        <time>2016-04-06T03:02:27Z</time>
+        <speed>2.423000</speed>
+      </trkpt>
+      <trkpt lat="44.023868555" lon="-123.143348164">
+        <ele>217.800000</ele>
+        <time>2016-04-06T03:02:29Z</time>
+        <speed>1.966000</speed>
+      </trkpt>
+      <trkpt lat="44.023829244" lon="-123.143311619">
+        <ele>219.000000</ele>
+        <time>2016-04-06T03:02:31Z</time>
+        <speed>2.101000</speed>
+      </trkpt>
+      <trkpt lat="44.023781048" lon="-123.143287144">
+        <ele>219.800000</ele>
+        <time>2016-04-06T03:02:33Z</time>
+        <speed>2.097000</speed>
+      </trkpt>
+      <trkpt lat="44.023755232" lon="-123.143278259">
+        <ele>220.200000</ele>
+        <time>2016-04-06T03:02:34Z</time>
+        <speed>2.053000</speed>
+      </trkpt>
+      <trkpt lat="44.023677867" lon="-123.143243307">
+        <ele>221.200000</ele>
+        <time>2016-04-06T03:02:37Z</time>
+        <speed>1.813000</speed>
+      </trkpt>
+      <trkpt lat="44.023629252" lon="-123.143215144">
+        <ele>221.800000</ele>
+        <time>2016-04-06T03:02:39Z</time>
+        <speed>2.037000</speed>
+      </trkpt>
+      <trkpt lat="44.023591952" lon="-123.143182287">
+        <ele>222.200000</ele>
+        <time>2016-04-06T03:02:41Z</time>
+        <speed>2.078000</speed>
+      </trkpt>
+      <trkpt lat="44.023568818" lon="-123.143075417">
+        <ele>223.200000</ele>
+        <time>2016-04-06T03:02:45Z</time>
+        <speed>2.094000</speed>
+      </trkpt>
+      <trkpt lat="44.023563957" lon="-123.143046835">
+        <ele>223.200000</ele>
+        <time>2016-04-06T03:02:46Z</time>
+        <speed>2.290000</speed>
+      </trkpt>
+      <trkpt lat="44.023558760" lon="-123.143018337">
+        <ele>223.200000</ele>
+        <time>2016-04-06T03:02:47Z</time>
+        <speed>2.460000</speed>
+      </trkpt>
+      <trkpt lat="44.023551552" lon="-123.142920184">
+        <ele>223.600000</ele>
+        <time>2016-04-06T03:02:50Z</time>
+        <speed>2.714000</speed>
+      </trkpt>
+      <trkpt lat="44.023557922" lon="-123.142777441">
+        <ele>224.600000</ele>
+        <time>2016-04-06T03:02:54Z</time>
+        <speed>2.494000</speed>
+      </trkpt>
+      <trkpt lat="44.023556497" lon="-123.142677864">
+        <ele>225.800000</ele>
+        <time>2016-04-06T03:02:57Z</time>
+        <speed>2.585000</speed>
+      </trkpt>
+      <trkpt lat="44.023565298" lon="-123.142581807">
+        <ele>227.000000</ele>
+        <time>2016-04-06T03:03:00Z</time>
+        <speed>2.447000</speed>
+      </trkpt>
+      <trkpt lat="44.023561023" lon="-123.142516009">
+        <ele>227.800000</ele>
+        <time>2016-04-06T03:03:02Z</time>
+        <speed>2.558000</speed>
+      </trkpt>
+      <trkpt lat="44.023558928" lon="-123.142482230">
+        <ele>228.400000</ele>
+        <time>2016-04-06T03:03:03Z</time>
+        <speed>2.472000</speed>
+      </trkpt>
+      <trkpt lat="44.023563789" lon="-123.142385838">
+        <ele>229.400000</ele>
+        <time>2016-04-06T03:03:06Z</time>
+        <speed>2.384000</speed>
+      </trkpt>
+      <trkpt lat="44.023563035" lon="-123.142353484">
+        <ele>229.800000</ele>
+        <time>2016-04-06T03:03:07Z</time>
+        <speed>2.516000</speed>
+      </trkpt>
+      <trkpt lat="44.023563202" lon="-123.142253153">
+        <ele>230.800000</ele>
+        <time>2016-04-06T03:03:10Z</time>
+        <speed>2.376000</speed>
+      </trkpt>
+      <trkpt lat="44.023572339" lon="-123.142167909">
+        <ele>231.800000</ele>
+        <time>2016-04-06T03:03:13Z</time>
+        <speed>1.736000</speed>
+      </trkpt>
+      <trkpt lat="44.023575189" lon="-123.142140667">
+        <ele>232.200000</ele>
+        <time>2016-04-06T03:03:14Z</time>
+        <speed>2.085000</speed>
+      </trkpt>
+      <trkpt lat="44.023572423" lon="-123.142050227">
+        <ele>232.800000</ele>
+        <time>2016-04-06T03:03:17Z</time>
+        <speed>2.518000</speed>
+      </trkpt>
+      <trkpt lat="44.023569824" lon="-123.141978645">
+        <ele>233.400000</ele>
+        <time>2016-04-06T03:03:19Z</time>
+        <speed>2.659000</speed>
+      </trkpt>
+      <trkpt lat="44.023567226" lon="-123.141904633">
+        <ele>233.800000</ele>
+        <time>2016-04-06T03:03:21Z</time>
+        <speed>2.782000</speed>
+      </trkpt>
+      <trkpt lat="44.023568567" lon="-123.141730541">
+        <ele>235.000000</ele>
+        <time>2016-04-06T03:03:26Z</time>
+        <speed>2.546000</speed>
+      </trkpt>
+      <trkpt lat="44.023558928" lon="-123.141667006">
+        <ele>235.200000</ele>
+        <time>2016-04-06T03:03:28Z</time>
+        <speed>2.560000</speed>
+      </trkpt>
+      <trkpt lat="44.023539817" lon="-123.141550833">
+        <ele>236.000000</ele>
+        <time>2016-04-06T03:03:32Z</time>
+        <speed>2.307000</speed>
+      </trkpt>
+      <trkpt lat="44.023512911" lon="-123.141428290">
+        <ele>236.600000</ele>
+        <time>2016-04-06T03:03:36Z</time>
+        <speed>2.420000</speed>
+      </trkpt>
+      <trkpt lat="44.023479048" lon="-123.141347404">
+        <ele>237.000000</ele>
+        <time>2016-04-06T03:03:39Z</time>
+        <speed>2.258000</speed>
+      </trkpt>
+      <trkpt lat="44.023439653" lon="-123.141245648">
+        <ele>237.800000</ele>
+        <time>2016-04-06T03:03:43Z</time>
+        <speed>2.327000</speed>
+      </trkpt>
+      <trkpt lat="44.023423225" lon="-123.141191585">
+        <ele>238.200000</ele>
+        <time>2016-04-06T03:03:45Z</time>
+        <speed>2.254000</speed>
+      </trkpt>
+      <trkpt lat="44.023354325" lon="-123.140998382">
+        <ele>239.000000</ele>
+        <time>2016-04-06T03:03:52Z</time>
+        <speed>2.362000</speed>
+      </trkpt>
+      <trkpt lat="44.023349212" lon="-123.140969716">
+        <ele>239.200000</ele>
+        <time>2016-04-06T03:03:53Z</time>
+        <speed>2.414000</speed>
+      </trkpt>
+      <trkpt lat="44.023275033" lon="-123.140761928">
+        <ele>240.200000</ele>
+        <time>2016-04-06T03:04:00Z</time>
+        <speed>2.550000</speed>
+      </trkpt>
+      <trkpt lat="44.023199428" lon="-123.140571324">
+        <ele>241.400000</ele>
+        <time>2016-04-06T03:04:07Z</time>
+        <speed>2.487000</speed>
+      </trkpt>
+      <trkpt lat="44.023179227" lon="-123.140510723">
+        <ele>241.800000</ele>
+        <time>2016-04-06T03:04:09Z</time>
+        <speed>2.573000</speed>
+      </trkpt>
+      <trkpt lat="44.023122901" lon="-123.140376780">
+        <ele>242.400000</ele>
+        <time>2016-04-06T03:04:14Z</time>
+        <speed>2.340000</speed>
+      </trkpt>
+      <trkpt lat="44.023100605" lon="-123.140255661">
+        <ele>243.200000</ele>
+        <time>2016-04-06T03:04:18Z</time>
+        <speed>2.317000</speed>
+      </trkpt>
+      <trkpt lat="44.023077639" lon="-123.140169747">
+        <ele>243.600000</ele>
+        <time>2016-04-06T03:04:21Z</time>
+        <speed>2.314000</speed>
+      </trkpt>
+      <trkpt lat="44.023035645" lon="-123.140068912">
+        <ele>244.200000</ele>
+        <time>2016-04-06T03:04:25Z</time>
+        <speed>2.352000</speed>
+      </trkpt>
+      <trkpt lat="44.022995831" lon="-123.139966569">
+        <ele>244.600000</ele>
+        <time>2016-04-06T03:04:29Z</time>
+        <speed>2.287000</speed>
+      </trkpt>
+      <trkpt lat="44.022972362" lon="-123.139844613">
+        <ele>245.000000</ele>
+        <time>2016-04-06T03:04:33Z</time>
+        <speed>2.550000</speed>
+      </trkpt>
+      <trkpt lat="44.022961214" lon="-123.139621235">
+        <ele>245.200000</ele>
+        <time>2016-04-06T03:04:40Z</time>
+        <speed>2.656000</speed>
+      </trkpt>
+      <trkpt lat="44.022926345" lon="-123.139372712">
+        <ele>245.200000</ele>
+        <time>2016-04-06T03:04:47Z</time>
+        <speed>3.245000</speed>
+      </trkpt>
+      <trkpt lat="44.022939086" lon="-123.139163415">
+        <ele>245.200000</ele>
+        <time>2016-04-06T03:04:52Z</time>
+        <speed>3.442000</speed>
+      </trkpt>
+      <trkpt lat="44.022890471" lon="-123.138953365">
+        <ele>245.400000</ele>
+        <time>2016-04-06T03:04:57Z</time>
+        <speed>3.003000</speed>
+      </trkpt>
+      <trkpt lat="44.022826349" lon="-123.138771310">
+        <ele>245.800000</ele>
+        <time>2016-04-06T03:05:02Z</time>
+        <speed>3.135000</speed>
+      </trkpt>
+      <trkpt lat="44.022808328" lon="-123.138739794">
+        <ele>246.000000</ele>
+        <time>2016-04-06T03:05:03Z</time>
+        <speed>3.180000</speed>
+      </trkpt>
+      <trkpt lat="44.022653012" lon="-123.138581544">
+        <ele>247.000000</ele>
+        <time>2016-04-06T03:05:10Z</time>
+        <speed>2.773000</speed>
+      </trkpt>
+      <trkpt lat="44.022540526" lon="-123.138512142">
+        <ele>248.000000</ele>
+        <time>2016-04-06T03:05:15Z</time>
+        <speed>2.496000</speed>
+      </trkpt>
+      <trkpt lat="44.022515884" lon="-123.138507951">
+        <ele>248.200000</ele>
+        <time>2016-04-06T03:05:16Z</time>
+        <speed>2.578000</speed>
+      </trkpt>
+      <trkpt lat="44.022443296" lon="-123.138489510">
+        <ele>249.000000</ele>
+        <time>2016-04-06T03:05:19Z</time>
+        <speed>2.548000</speed>
+      </trkpt>
+      <trkpt lat="44.022378756" lon="-123.138484733">
+        <ele>249.800000</ele>
+        <time>2016-04-06T03:05:22Z</time>
+        <speed>2.177000</speed>
+      </trkpt>
+      <trkpt lat="44.022361238" lon="-123.138481380">
+        <ele>250.200000</ele>
+        <time>2016-04-06T03:05:23Z</time>
+        <speed>1.886000</speed>
+      </trkpt>
+      <trkpt lat="44.022269540" lon="-123.138483811">
+        <ele>251.200000</ele>
+        <time>2016-04-06T03:05:28Z</time>
+        <speed>2.209000</speed>
+      </trkpt>
+      <trkpt lat="44.022164598" lon="-123.138485906">
+        <ele>252.400000</ele>
+        <time>2016-04-06T03:05:33Z</time>
+        <speed>2.254000</speed>
+      </trkpt>
+      <trkpt lat="44.022125874" lon="-123.138488337">
+        <ele>252.800000</ele>
+        <time>2016-04-06T03:05:35Z</time>
+        <speed>1.956000</speed>
+      </trkpt>
+      <trkpt lat="44.022060746" lon="-123.138479620">
+        <ele>253.600000</ele>
+        <time>2016-04-06T03:05:38Z</time>
+        <speed>2.222000</speed>
+      </trkpt>
+      <trkpt lat="44.021968126" lon="-123.138487331">
+        <ele>254.400000</ele>
+        <time>2016-04-06T03:05:42Z</time>
+        <speed>2.380000</speed>
+      </trkpt>
+      <trkpt lat="44.021939293" lon="-123.138483392">
+        <ele>255.000000</ele>
+        <time>2016-04-06T03:05:43Z</time>
+        <speed>2.439000</speed>
+      </trkpt>
+      <trkpt lat="44.021826472" lon="-123.138472830">
+        <ele>256.200000</ele>
+        <time>2016-04-06T03:05:47Z</time>
+        <speed>2.152000</speed>
+      </trkpt>
+      <trkpt lat="44.021782970" lon="-123.138453133">
+        <ele>256.800000</ele>
+        <time>2016-04-06T03:05:49Z</time>
+        <speed>2.141000</speed>
+      </trkpt>
+      <trkpt lat="44.021737205" lon="-123.138449948">
+        <ele>257.400000</ele>
+        <time>2016-04-06T03:05:51Z</time>
+        <speed>2.036000</speed>
+      </trkpt>
+      <trkpt lat="44.021668809" lon="-123.138458246">
+        <ele>258.400000</ele>
+        <time>2016-04-06T03:05:54Z</time>
+        <speed>2.058000</speed>
+      </trkpt>
+      <trkpt lat="44.021647854" lon="-123.138460593">
+        <ele>258.800000</ele>
+        <time>2016-04-06T03:05:55Z</time>
+        <speed>1.938000</speed>
+      </trkpt>
+      <trkpt lat="44.021602759" lon="-123.138463443">
+        <ele>259.600000</ele>
+        <time>2016-04-06T03:05:57Z</time>
+        <speed>2.237000</speed>
+      </trkpt>
+      <trkpt lat="44.021537632" lon="-123.138463024">
+        <ele>260.800000</ele>
+        <time>2016-04-06T03:06:00Z</time>
+        <speed>1.972000</speed>
+      </trkpt>
+      <trkpt lat="44.021500668" lon="-123.138457492">
+        <ele>261.800000</ele>
+        <time>2016-04-06T03:06:02Z</time>
+        <speed>1.827000</speed>
+      </trkpt>
+      <trkpt lat="44.021477785" lon="-123.138451792">
+        <ele>262.200000</ele>
+        <time>2016-04-06T03:06:03Z</time>
+        <speed>2.121000</speed>
+      </trkpt>
+      <trkpt lat="44.021410311" lon="-123.138446008">
+        <ele>263.400000</ele>
+        <time>2016-04-06T03:06:06Z</time>
+        <speed>2.192000</speed>
+      </trkpt>
+      <trkpt lat="44.021363540" lon="-123.138461012">
+        <ele>264.400000</ele>
+        <time>2016-04-06T03:06:08Z</time>
+        <speed>2.528000</speed>
+      </trkpt>
+      <trkpt lat="44.021345770" lon="-123.138464281">
+        <ele>264.600000</ele>
+        <time>2016-04-06T03:06:09Z</time>
+        <speed>1.779000</speed>
+      </trkpt>
+      <trkpt lat="44.021282235" lon="-123.138441147">
+        <ele>265.400000</ele>
+        <time>2016-04-06T03:06:13Z</time>
+        <speed>2.224000</speed>
+      </trkpt>
+      <trkpt lat="44.021195315" lon="-123.138268144">
+        <ele>265.400000</ele>
+        <time>2016-04-06T03:06:19Z</time>
+        <speed>4.101000</speed>
+      </trkpt>
+      <trkpt lat="44.021191459" lon="-123.138210645">
+        <ele>265.000000</ele>
+        <time>2016-04-06T03:06:20Z</time>
+        <speed>4.740000</speed>
+      </trkpt>
+      <trkpt lat="44.021197578" lon="-123.137982908">
+        <ele>264.000000</ele>
+        <time>2016-04-06T03:06:23Z</time>
+        <speed>6.721000</speed>
+      </trkpt>
+      <trkpt lat="44.021201434" lon="-123.137895569">
+        <ele>263.600000</ele>
+        <time>2016-04-06T03:06:24Z</time>
+        <speed>7.007000</speed>
+      </trkpt>
+      <trkpt lat="44.021203361" lon="-123.137711502">
+        <ele>262.600000</ele>
+        <time>2016-04-06T03:06:26Z</time>
+        <speed>7.514000</speed>
+      </trkpt>
+      <trkpt lat="44.021182742" lon="-123.137621397">
+        <ele>262.200000</ele>
+        <time>2016-04-06T03:06:27Z</time>
+        <speed>7.487000</speed>
+      </trkpt>
+      <trkpt lat="44.021149214" lon="-123.137539422">
+        <ele>261.800000</ele>
+        <time>2016-04-06T03:06:28Z</time>
+        <speed>7.405000</speed>
+      </trkpt>
+      <trkpt lat="44.021016948" lon="-123.137451412">
+        <ele>262.000000</ele>
+        <time>2016-04-06T03:06:31Z</time>
+        <speed>4.481000</speed>
+      </trkpt>
+      <trkpt lat="44.020946708" lon="-123.137467756">
+        <ele>263.400000</ele>
+        <time>2016-04-06T03:06:33Z</time>
+        <speed>3.416000</speed>
+      </trkpt>
+      <trkpt lat="44.020918125" lon="-123.137472702">
+        <ele>263.600000</ele>
+        <time>2016-04-06T03:06:34Z</time>
+        <speed>3.098000</speed>
+      </trkpt>
+      <trkpt lat="44.020890549" lon="-123.137472786">
+        <ele>263.800000</ele>
+        <time>2016-04-06T03:06:35Z</time>
+        <speed>3.073000</speed>
+      </trkpt>
+      <trkpt lat="44.020803964" lon="-123.137474127">
+        <ele>264.600000</ele>
+        <time>2016-04-06T03:06:38Z</time>
+        <speed>3.296000</speed>
+      </trkpt>
+      <trkpt lat="44.020686869" lon="-123.137476055">
+        <ele>265.400000</ele>
+        <time>2016-04-06T03:06:42Z</time>
+        <speed>2.978000</speed>
+      </trkpt>
+      <trkpt lat="44.020633141" lon="-123.137471361">
+        <ele>265.800000</ele>
+        <time>2016-04-06T03:06:44Z</time>
+        <speed>2.879000</speed>
+      </trkpt>
+      <trkpt lat="44.020474471" lon="-123.137484269">
+        <ele>266.600000</ele>
+        <time>2016-04-06T03:06:50Z</time>
+        <speed>3.070000</speed>
+      </trkpt>
+      <trkpt lat="44.020446811" lon="-123.137484436">
+        <ele>266.800000</ele>
+        <time>2016-04-06T03:06:51Z</time>
+        <speed>3.133000</speed>
+      </trkpt>
+      <trkpt lat="44.020322172" lon="-123.137451244">
+        <ele>267.400000</ele>
+        <time>2016-04-06T03:06:56Z</time>
+        <speed>2.451000</speed>
+      </trkpt>
+      <trkpt lat="44.020246819" lon="-123.137380920">
+        <ele>267.800000</ele>
+        <time>2016-04-06T03:07:00Z</time>
+        <speed>2.575000</speed>
+      </trkpt>
+      <trkpt lat="44.020222763" lon="-123.137318978">
+        <ele>268.000000</ele>
+        <time>2016-04-06T03:07:02Z</time>
+        <speed>2.937000</speed>
+      </trkpt>
+      <trkpt lat="44.020202059" lon="-123.137066515">
+        <ele>267.400000</ele>
+        <time>2016-04-06T03:07:08Z</time>
+        <speed>4.210000</speed>
+      </trkpt>
+      <trkpt lat="44.020204825" lon="-123.136736435">
+        <ele>266.800000</ele>
+        <time>2016-04-06T03:07:13Z</time>
+        <speed>6.154000</speed>
+      </trkpt>
+      <trkpt lat="44.020213962" lon="-123.136398309">
+        <ele>265.600000</ele>
+        <time>2016-04-06T03:07:17Z</time>
+        <speed>7.015000</speed>
+      </trkpt>
+      <trkpt lat="44.020214213" lon="-123.136132519">
+        <ele>264.400000</ele>
+        <time>2016-04-06T03:07:20Z</time>
+        <speed>7.183000</speed>
+      </trkpt>
+      <trkpt lat="44.020196024" lon="-123.135539751">
+        <ele>264.400000</ele>
+        <time>2016-04-06T03:07:27Z</time>
+        <speed>6.114000</speed>
+      </trkpt>
+      <trkpt lat="44.020193594" lon="-123.135218221">
+        <ele>264.800000</ele>
+        <time>2016-04-06T03:07:32Z</time>
+        <speed>4.409000</speed>
+      </trkpt>
+      <trkpt lat="44.020191079" lon="-123.135064916">
+        <ele>265.400000</ele>
+        <time>2016-04-06T03:07:35Z</time>
+        <speed>3.911000</speed>
+      </trkpt>
+      <trkpt lat="44.020191079" lon="-123.134941618">
+        <ele>266.000000</ele>
+        <time>2016-04-06T03:07:38Z</time>
+        <speed>3.387000</speed>
+      </trkpt>
+      <trkpt lat="44.020181524" lon="-123.134812118">
+        <ele>266.600000</ele>
+        <time>2016-04-06T03:07:41Z</time>
+        <speed>3.512000</speed>
+      </trkpt>
+      <trkpt lat="44.020177752" lon="-123.134632745">
+        <ele>267.600000</ele>
+        <time>2016-04-06T03:07:45Z</time>
+        <speed>3.654000</speed>
+      </trkpt>
+      <trkpt lat="44.020179596" lon="-123.134583208">
+        <ele>267.800000</ele>
+        <time>2016-04-06T03:07:46Z</time>
+        <speed>3.910000</speed>
+      </trkpt>
+      <trkpt lat="44.020182613" lon="-123.134400148">
+        <ele>268.600000</ele>
+        <time>2016-04-06T03:07:50Z</time>
+        <speed>3.354000</speed>
+      </trkpt>
+      <trkpt lat="44.020183284" lon="-123.134274084">
+        <ele>269.400000</ele>
+        <time>2016-04-06T03:07:53Z</time>
+        <speed>3.240000</speed>
+      </trkpt>
+      <trkpt lat="44.020183703" lon="-123.134189762">
+        <ele>269.800000</ele>
+        <time>2016-04-06T03:07:55Z</time>
+        <speed>3.322000</speed>
+      </trkpt>
+      <trkpt lat="44.020195354" lon="-123.133952973">
+        <ele>271.000000</ele>
+        <time>2016-04-06T03:08:01Z</time>
+        <speed>2.811000</speed>
+      </trkpt>
+      <trkpt lat="44.020200048" lon="-123.133917098">
+        <ele>271.200000</ele>
+        <time>2016-04-06T03:08:02Z</time>
+        <speed>2.876000</speed>
+      </trkpt>
+      <trkpt lat="44.020277077" lon="-123.133766140">
+        <ele>272.200000</ele>
+        <time>2016-04-06T03:08:07Z</time>
+        <speed>3.282000</speed>
+      </trkpt>
+      <trkpt lat="44.020421833" lon="-123.133584505">
+        <ele>273.000000</ele>
+        <time>2016-04-06T03:08:13Z</time>
+        <speed>3.400000</speed>
+      </trkpt>
+      <trkpt lat="44.020495845" lon="-123.133498841">
+        <ele>273.600000</ele>
+        <time>2016-04-06T03:08:16Z</time>
+        <speed>3.529000</speed>
+      </trkpt>
+      <trkpt lat="44.020606318" lon="-123.133397169">
+        <ele>274.200000</ele>
+        <time>2016-04-06T03:08:20Z</time>
+        <speed>3.465000</speed>
+      </trkpt>
+      <trkpt lat="44.020654263" lon="-123.133347381">
+        <ele>274.800000</ele>
+        <time>2016-04-06T03:08:22Z</time>
+        <speed>3.322000</speed>
+      </trkpt>
+      <trkpt lat="44.020760797" lon="-123.133230034">
+        <ele>275.800000</ele>
+        <time>2016-04-06T03:08:27Z</time>
+        <speed>2.849000</speed>
+      </trkpt>
+      <trkpt lat="44.020924998" lon="-123.133085111">
+        <ele>277.000000</ele>
+        <time>2016-04-06T03:08:34Z</time>
+        <speed>3.331000</speed>
+      </trkpt>
+      <trkpt lat="44.020947881" lon="-123.133060719">
+        <ele>277.000000</ele>
+        <time>2016-04-06T03:08:35Z</time>
+        <speed>3.252000</speed>
+      </trkpt>
+      <trkpt lat="44.021127757" lon="-123.132904397">
+        <ele>278.000000</ele>
+        <time>2016-04-06T03:08:43Z</time>
+        <speed>2.669000</speed>
+      </trkpt>
+      <trkpt lat="44.021148460" lon="-123.132882269">
+        <ele>278.000000</ele>
+        <time>2016-04-06T03:08:44Z</time>
+        <speed>2.956000</speed>
+      </trkpt>
+      <trkpt lat="44.021246612" lon="-123.132806915">
+        <ele>278.000000</ele>
+        <time>2016-04-06T03:08:48Z</time>
+        <speed>3.117000</speed>
+      </trkpt>
+      <trkpt lat="44.021473343" lon="-123.132651431">
+        <ele>278.000000</ele>
+        <time>2016-04-06T03:08:56Z</time>
+        <speed>3.758000</speed>
+      </trkpt>
+      <trkpt lat="44.021700492" lon="-123.132440375">
+        <ele>277.600000</ele>
+        <time>2016-04-06T03:09:04Z</time>
+        <speed>4.135000</speed>
+      </trkpt>
+      <trkpt lat="44.021839129" lon="-123.132202748">
+        <ele>277.600000</ele>
+        <time>2016-04-06T03:09:10Z</time>
+        <speed>4.068000</speed>
+      </trkpt>
+      <trkpt lat="44.021947339" lon="-123.131915332">
+        <ele>279.200000</ele>
+        <time>2016-04-06T03:09:17Z</time>
+        <speed>3.469000</speed>
+      </trkpt>
+      <trkpt lat="44.021997798" lon="-123.131765967">
+        <ele>280.400000</ele>
+        <time>2016-04-06T03:09:21Z</time>
+        <speed>3.457000</speed>
+      </trkpt>
+      <trkpt lat="44.022014897" lon="-123.131693631">
+        <ele>280.800000</ele>
+        <time>2016-04-06T03:09:23Z</time>
+        <speed>3.146000</speed>
+      </trkpt>
+      <trkpt lat="44.022045407" lon="-123.131579805">
+        <ele>281.600000</ele>
+        <time>2016-04-06T03:09:26Z</time>
+        <speed>3.331000</speed>
+      </trkpt>
+      <trkpt lat="44.022082539" lon="-123.131414346">
+        <ele>282.800000</ele>
+        <time>2016-04-06T03:09:30Z</time>
+        <speed>3.509000</speed>
+      </trkpt>
+      <trkpt lat="44.022129394" lon="-123.131240002">
+        <ele>284.000000</ele>
+        <time>2016-04-06T03:09:34Z</time>
+        <speed>3.612000</speed>
+      </trkpt>
+      <trkpt lat="44.022165185" lon="-123.131076388">
+        <ele>285.000000</ele>
+        <time>2016-04-06T03:09:38Z</time>
+        <speed>3.501000</speed>
+      </trkpt>
+      <trkpt lat="44.022197874" lon="-123.130945714">
+        <ele>286.200000</ele>
+        <time>2016-04-06T03:09:41Z</time>
+        <speed>3.634000</speed>
+      </trkpt>
+      <trkpt lat="44.022220505" lon="-123.130823757">
+        <ele>287.800000</ele>
+        <time>2016-04-06T03:09:44Z</time>
+        <speed>3.356000</speed>
+      </trkpt>
+      <trkpt lat="44.022247663" lon="-123.130710601">
+        <ele>289.000000</ele>
+        <time>2016-04-06T03:09:47Z</time>
+        <speed>3.215000</speed>
+      </trkpt>
+      <trkpt lat="44.022285214" lon="-123.130617646">
+        <ele>290.400000</ele>
+        <time>2016-04-06T03:09:50Z</time>
+        <speed>2.599000</speed>
+      </trkpt>
+      <trkpt lat="44.022292757" lon="-123.130586801">
+        <ele>290.800000</ele>
+        <time>2016-04-06T03:09:51Z</time>
+        <speed>2.450000</speed>
+      </trkpt>
+      <trkpt lat="44.022306085" lon="-123.130525194">
+        <ele>291.800000</ele>
+        <time>2016-04-06T03:09:53Z</time>
+        <speed>2.256000</speed>
+      </trkpt>
+      <trkpt lat="44.022324190" lon="-123.130437435">
+        <ele>293.000000</ele>
+        <time>2016-04-06T03:09:56Z</time>
+        <speed>2.088000</speed>
+      </trkpt>
+      <trkpt lat="44.022341959" lon="-123.130383204">
+        <ele>293.800000</ele>
+        <time>2016-04-06T03:09:58Z</time>
+        <speed>2.312000</speed>
+      </trkpt>
+      <trkpt lat="44.022349671" lon="-123.130357891">
+        <ele>294.200000</ele>
+        <time>2016-04-06T03:09:59Z</time>
+        <speed>2.167000</speed>
+      </trkpt>
+      <trkpt lat="44.022382528" lon="-123.130241466">
+        <ele>295.400000</ele>
+        <time>2016-04-06T03:10:03Z</time>
+        <speed>2.664000</speed>
+      </trkpt>
+      <trkpt lat="44.022399040" lon="-123.130177177">
+        <ele>296.200000</ele>
+        <time>2016-04-06T03:10:05Z</time>
+        <speed>2.831000</speed>
+      </trkpt>
+      <trkpt lat="44.022408512" lon="-123.130145242">
+        <ele>296.600000</ele>
+        <time>2016-04-06T03:10:06Z</time>
+        <speed>2.636000</speed>
+      </trkpt>
+      <trkpt lat="44.022427203" lon="-123.130041139">
+        <ele>298.000000</ele>
+        <time>2016-04-06T03:10:09Z</time>
+        <speed>2.895000</speed>
+      </trkpt>
+      <trkpt lat="44.022443296" lon="-123.129983136">
+        <ele>298.400000</ele>
+        <time>2016-04-06T03:10:11Z</time>
+        <speed>2.409000</speed>
+      </trkpt>
+      <trkpt lat="44.022466933" lon="-123.129903759">
+        <ele>299.200000</ele>
+        <time>2016-04-06T03:10:14Z</time>
+        <speed>2.338000</speed>
+      </trkpt>
+      <trkpt lat="44.022508005" lon="-123.129730338">
+        <ele>300.000000</ele>
+        <time>2016-04-06T03:10:20Z</time>
+        <speed>2.320000</speed>
+      </trkpt>
+      <trkpt lat="44.022520158" lon="-123.129638807">
+        <ele>300.200000</ele>
+        <time>2016-04-06T03:10:23Z</time>
+        <speed>2.544000</speed>
+      </trkpt>
+      <trkpt lat="44.022533402" lon="-123.129506457">
+        <ele>300.600000</ele>
+        <time>2016-04-06T03:10:27Z</time>
+        <speed>2.623000</speed>
+      </trkpt>
+      <trkpt lat="44.022547819" lon="-123.129416436">
+        <ele>301.200000</ele>
+        <time>2016-04-06T03:10:30Z</time>
+        <speed>2.488000</speed>
+      </trkpt>
+      <trkpt lat="44.022574222" lon="-123.129293389">
+        <ele>301.800000</ele>
+        <time>2016-04-06T03:10:34Z</time>
+        <speed>2.475000</speed>
+      </trkpt>
+      <trkpt lat="44.022574557" lon="-123.129136061">
+        <ele>302.200000</ele>
+        <time>2016-04-06T03:10:39Z</time>
+        <speed>2.484000</speed>
+      </trkpt>
+      <trkpt lat="44.022573048" lon="-123.129044866">
+        <ele>302.800000</ele>
+        <time>2016-04-06T03:10:42Z</time>
+        <speed>2.424000</speed>
+      </trkpt>
+      <trkpt lat="44.022565002" lon="-123.128833642">
+        <ele>303.200000</ele>
+        <time>2016-04-06T03:10:49Z</time>
+        <speed>2.442000</speed>
+      </trkpt>
+      <trkpt lat="44.022565505" lon="-123.128767257">
+        <ele>303.400000</ele>
+        <time>2016-04-06T03:10:51Z</time>
+        <speed>2.594000</speed>
+      </trkpt>
+      <trkpt lat="44.022565924" lon="-123.128483446">
+        <ele>304.400000</ele>
+        <time>2016-04-06T03:10:59Z</time>
+        <speed>2.798000</speed>
+      </trkpt>
+      <trkpt lat="44.022567768" lon="-123.128446063">
+        <ele>304.400000</ele>
+        <time>2016-04-06T03:11:00Z</time>
+        <speed>2.870000</speed>
+      </trkpt>
+      <trkpt lat="44.022558883" lon="-123.128193181">
+        <ele>305.000000</ele>
+        <time>2016-04-06T03:11:07Z</time>
+        <speed>2.518000</speed>
+      </trkpt>
+      <trkpt lat="44.022576820" lon="-123.127927390">
+        <ele>305.000000</ele>
+        <time>2016-04-06T03:11:15Z</time>
+        <speed>2.811000</speed>
+      </trkpt>
+      <trkpt lat="44.022547651" lon="-123.127660175">
+        <ele>304.400000</ele>
+        <time>2016-04-06T03:11:21Z</time>
+        <speed>4.309000</speed>
+      </trkpt>
+      <trkpt lat="44.022455366" lon="-123.127400336">
+        <ele>303.600000</ele>
+        <time>2016-04-06T03:11:25Z</time>
+        <speed>6.591000</speed>
+      </trkpt>
+      <trkpt lat="44.022414630" lon="-123.127331772">
+        <ele>303.000000</ele>
+        <time>2016-04-06T03:11:26Z</time>
+        <speed>7.087000</speed>
+      </trkpt>
+      <trkpt lat="44.022318657" lon="-123.127222640">
+        <ele>301.800000</ele>
+        <time>2016-04-06T03:11:28Z</time>
+        <speed>6.576000</speed>
+      </trkpt>
+      <trkpt lat="44.022266103" lon="-123.127185676">
+        <ele>301.000000</ele>
+        <time>2016-04-06T03:11:29Z</time>
+        <speed>6.284000</speed>
+      </trkpt>
+      <trkpt lat="44.022221260" lon="-123.127162961">
+        <ele>299.800000</ele>
+        <time>2016-04-06T03:11:30Z</time>
+        <speed>5.075000</speed>
+      </trkpt>
+      <trkpt lat="44.022184882" lon="-123.127146784">
+        <ele>299.000000</ele>
+        <time>2016-04-06T03:11:31Z</time>
+        <speed>4.023000</speed>
+      </trkpt>
+      <trkpt lat="44.022152528" lon="-123.127122812">
+        <ele>298.200000</ele>
+        <time>2016-04-06T03:11:32Z</time>
+        <speed>3.880000</speed>
+      </trkpt>
+      <trkpt lat="44.022128724" lon="-123.127081405">
+        <ele>297.800000</ele>
+        <time>2016-04-06T03:11:33Z</time>
+        <speed>4.151000</speed>
+      </trkpt>
+      <trkpt lat="44.022117240" lon="-123.126972608">
+        <ele>297.200000</ele>
+        <time>2016-04-06T03:11:35Z</time>
+        <speed>4.776000</speed>
+      </trkpt>
+      <trkpt lat="44.022157306" lon="-123.126774208">
+        <ele>296.400000</ele>
+        <time>2016-04-06T03:11:38Z</time>
+        <speed>5.916000</speed>
+      </trkpt>
+      <trkpt lat="44.022177087" lon="-123.126695167">
+        <ele>296.000000</ele>
+        <time>2016-04-06T03:11:39Z</time>
+        <speed>6.617000</speed>
+      </trkpt>
+      <trkpt lat="44.022246238" lon="-123.126415127">
+        <ele>294.400000</ele>
+        <time>2016-04-06T03:11:42Z</time>
+        <speed>8.479000</speed>
+      </trkpt>
+      <trkpt lat="44.022275575" lon="-123.126314964">
+        <ele>293.400000</ele>
+        <time>2016-04-06T03:11:43Z</time>
+        <speed>8.622000</speed>
+      </trkpt>
+      <trkpt lat="44.022303151" lon="-123.126222344">
+        <ele>291.200000</ele>
+        <time>2016-04-06T03:11:44Z</time>
+        <speed>7.920000</speed>
+      </trkpt>
+      <trkpt lat="44.022322513" lon="-123.126130394">
+        <ele>290.400000</ele>
+        <time>2016-04-06T03:11:45Z</time>
+        <speed>7.579000</speed>
+      </trkpt>
+      <trkpt lat="44.022342043" lon="-123.126056885">
+        <ele>289.600000</ele>
+        <time>2016-04-06T03:11:46Z</time>
+        <speed>6.087000</speed>
+      </trkpt>
+      <trkpt lat="44.022353442" lon="-123.126010114">
+        <ele>289.000000</ele>
+        <time>2016-04-06T03:11:47Z</time>
+        <speed>3.603000</speed>
+      </trkpt>
+      <trkpt lat="44.022360232" lon="-123.125986477">
+        <ele>288.400000</ele>
+        <time>2016-04-06T03:11:48Z</time>
+        <speed>1.733000</speed>
+      </trkpt>
+      <trkpt lat="44.022373056" lon="-123.125951189">
+        <ele>287.600000</ele>
+        <time>2016-04-06T03:11:50Z</time>
+        <speed>1.483000</speed>
+      </trkpt>
+      <trkpt lat="44.022383198" lon="-123.125858988">
+        <ele>287.200000</ele>
+        <time>2016-04-06T03:11:52Z</time>
+        <speed>3.986000</speed>
+      </trkpt>
+      <trkpt lat="44.022386299" lon="-123.125795453">
+        <ele>287.000000</ele>
+        <time>2016-04-06T03:11:53Z</time>
+        <speed>4.828000</speed>
+      </trkpt>
+      <trkpt lat="44.022397615" lon="-123.125723704">
+        <ele>286.600000</ele>
+        <time>2016-04-06T03:11:54Z</time>
+        <speed>5.502000</speed>
+      </trkpt>
+      <trkpt lat="44.022410356" lon="-123.125645333">
+        <ele>286.200000</ele>
+        <time>2016-04-06T03:11:55Z</time>
+        <speed>6.212000</speed>
+      </trkpt>
+      <trkpt lat="44.022442626" lon="-123.125470403">
+        <ele>285.000000</ele>
+        <time>2016-04-06T03:11:57Z</time>
+        <speed>7.233000</speed>
+      </trkpt>
+      <trkpt lat="44.022492833" lon="-123.125273428">
+        <ele>283.600000</ele>
+        <time>2016-04-06T03:11:59Z</time>
+        <speed>8.548000</speed>
+      </trkpt>
+      <trkpt lat="44.022543963" lon="-123.125087266">
+        <ele>282.200000</ele>
+        <time>2016-04-06T03:12:01Z</time>
+        <speed>6.839000</speed>
+      </trkpt>
+      <trkpt lat="44.022582771" lon="-123.124937482">
+        <ele>281.000000</ele>
+        <time>2016-04-06T03:12:03Z</time>
+        <speed>4.792000</speed>
+      </trkpt>
+      <trkpt lat="44.022612108" lon="-123.124807898">
+        <ele>279.600000</ele>
+        <time>2016-04-06T03:12:05Z</time>
+        <speed>5.042000</speed>
+      </trkpt>
+      <trkpt lat="44.022638595" lon="-123.124724330">
+        <ele>278.600000</ele>
+        <time>2016-04-06T03:12:07Z</time>
+        <speed>2.978000</speed>
+      </trkpt>
+      <trkpt lat="44.022647144" lon="-123.124690970">
+        <ele>278.400000</ele>
+        <time>2016-04-06T03:12:08Z</time>
+        <speed>2.343000</speed>
+      </trkpt>
+      <trkpt lat="44.022647228" lon="-123.124638667">
+        <ele>277.600000</ele>
+        <time>2016-04-06T03:12:10Z</time>
+        <speed>1.470000</speed>
+      </trkpt>
+      <trkpt lat="44.022619819" lon="-123.124604301">
+        <ele>277.200000</ele>
+        <time>2016-04-06T03:12:12Z</time>
+        <speed>2.164000</speed>
+      </trkpt>
+      <trkpt lat="44.022573635" lon="-123.124589884">
+        <ele>276.600000</ele>
+        <time>2016-04-06T03:12:15Z</time>
+        <speed>1.598000</speed>
+      </trkpt>
+      <trkpt lat="44.022579502" lon="-123.124590722">
+        <ele>276.400000</ele>
+        <time>2016-04-06T03:12:16Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="44.022566510" lon="-123.124585777">
+        <ele>276.400000</ele>
+        <time>2016-04-06T03:12:17Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

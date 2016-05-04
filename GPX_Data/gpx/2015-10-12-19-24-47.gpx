@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2016-05-04T03:25:53.925Z</time>
+  <bounds minlat="44.043411801" minlon="-123.078851012" maxlat="44.043575918" maxlon="-123.078449100"/>
+  <trk>
+    <trkseg>
+      <trkpt lat="44.043575918" lon="-123.078492937">
+        <ele>81.600000</ele>
+        <time>2015-10-13T02:24:47Z</time>
+        <speed>2.933000</speed>
+      </trkpt>
+      <trkpt lat="44.043561501" lon="-123.078449100">
+        <ele>81.200000</ele>
+        <time>2015-10-13T02:24:51Z</time>
+        <speed>1.161000</speed>
+      </trkpt>
+      <trkpt lat="44.043456141" lon="-123.078495368">
+        <ele>81.400000</ele>
+        <time>2015-10-13T02:24:56Z</time>
+        <speed>2.798000</speed>
+      </trkpt>
+      <trkpt lat="44.043411801" lon="-123.078630149">
+        <ele>81.400000</ele>
+        <time>2015-10-13T02:24:59Z</time>
+        <speed>3.954000</speed>
+      </trkpt>
+      <trkpt lat="44.043412471" lon="-123.078681949">
+        <ele>81.400000</ele>
+        <time>2015-10-13T02:25:00Z</time>
+        <speed>3.941000</speed>
+      </trkpt>
+      <trkpt lat="44.043412304" lon="-123.078851012">
+        <ele>81.600000</ele>
+        <time>2015-10-13T02:25:03Z</time>
+        <speed>4.003000</speed>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2016-05-04T03:24:31.692Z</time>
+  <bounds minlat="45.638247917" minlon="-121.936961208" maxlat="45.638434750" maxlon="-121.936053365"/>
+  <trk>
+    <trkseg>
+      <trkpt lat="45.638434750" lon="-121.936053365">
+        <ele>56.200000</ele>
+        <time>2014-03-09T21:31:41Z</time>
+        <speed>2.663000</speed>
+      </trkpt>
+      <trkpt lat="45.638359229" lon="-121.936278167">
+        <ele>56.400000</ele>
+        <time>2014-03-09T21:31:46Z</time>
+        <speed>2.482000</speed>
+      </trkpt>
+      <trkpt lat="45.638359229" lon="-121.936278167">
+        <ele>56.400000</ele>
+        <time>2014-03-09T21:31:48Z</time>
+        <speed>2.482000</speed>
+      </trkpt>
+      <trkpt lat="45.638357888" lon="-121.936314545">
+        <ele>56.400000</ele>
+        <time>2014-03-09T21:31:49Z</time>
+        <speed>2.446000</speed>
+      </trkpt>
+      <trkpt lat="45.638359899" lon="-121.936350084">
+        <ele>56.400000</ele>
+        <time>2014-03-09T21:31:50Z</time>
+        <speed>2.339000</speed>
+      </trkpt>
+      <trkpt lat="45.638361157" lon="-121.936388389">
+        <ele>56.400000</ele>
+        <time>2014-03-09T21:31:51Z</time>
+        <speed>2.555000</speed>
+      </trkpt>
+      <trkpt lat="45.638361492" lon="-121.936425856">
+        <ele>56.400000</ele>
+        <time>2014-03-09T21:31:52Z</time>
+        <speed>2.463000</speed>
+      </trkpt>
+      <trkpt lat="45.638362414" lon="-121.936460725">
+        <ele>56.400000</ele>
+        <time>2014-03-09T21:31:53Z</time>
+        <speed>2.429000</speed>
+      </trkpt>
+      <trkpt lat="45.638363839" lon="-121.936496683">
+        <ele>56.400000</ele>
+        <time>2014-03-09T21:31:54Z</time>
+        <speed>2.583000</speed>
+      </trkpt>
+      <trkpt lat="45.638366354" lon="-121.936531804">
+        <ele>56.400000</ele>
+        <time>2014-03-09T21:31:55Z</time>
+        <speed>2.426000</speed>
+      </trkpt>
+      <trkpt lat="45.638367611" lon="-121.936567510">
+        <ele>56.400000</ele>
+        <time>2014-03-09T21:31:56Z</time>
+        <speed>2.704000</speed>
+      </trkpt>
+      <trkpt lat="45.638370377" lon="-121.936603217">
+        <ele>56.400000</ele>
+        <time>2014-03-09T21:31:57Z</time>
+        <speed>2.597000</speed>
+      </trkpt>
+      <trkpt lat="45.638373143" lon="-121.936638421">
+        <ele>56.200000</ele>
+        <time>2014-03-09T21:31:58Z</time>
+        <speed>2.669000</speed>
+      </trkpt>
+      <trkpt lat="45.638374484" lon="-121.936675553">
+        <ele>56.200000</ele>
+        <time>2014-03-09T21:31:59Z</time>
+        <speed>2.789000</speed>
+      </trkpt>
+      <trkpt lat="45.638370209" lon="-121.936711176">
+        <ele>56.200000</ele>
+        <time>2014-03-09T21:32:00Z</time>
+        <speed>2.599000</speed>
+      </trkpt>
+      <trkpt lat="45.638361324" lon="-121.936743698">
+        <ele>56.200000</ele>
+        <time>2014-03-09T21:32:01Z</time>
+        <speed>2.558000</speed>
+      </trkpt>
+      <trkpt lat="45.638349003" lon="-121.936777812">
+        <ele>56.200000</ele>
+        <time>2014-03-09T21:32:02Z</time>
+        <speed>2.817000</speed>
+      </trkpt>
+      <trkpt lat="45.638339615" lon="-121.936810167">
+        <ele>56.200000</ele>
+        <time>2014-03-09T21:32:03Z</time>
+        <speed>2.648000</speed>
+      </trkpt>
+      <trkpt lat="45.638329138" lon="-121.936839252">
+        <ele>56.200000</ele>
+        <time>2014-03-09T21:32:04Z</time>
+        <speed>2.510000</speed>
+      </trkpt>
+      <trkpt lat="45.638317906" lon="-121.936866409">
+        <ele>56.000000</ele>
+        <time>2014-03-09T21:32:05Z</time>
+        <speed>2.474000</speed>
+      </trkpt>
+      <trkpt lat="45.638303322" lon="-121.936892728">
+        <ele>56.000000</ele>
+        <time>2014-03-09T21:32:06Z</time>
+        <speed>2.510000</speed>
+      </trkpt>
+      <trkpt lat="45.638286642" lon="-121.936919383">
+        <ele>56.000000</ele>
+        <time>2014-03-09T21:32:07Z</time>
+        <speed>2.765000</speed>
+      </trkpt>
+      <trkpt lat="45.638267028" lon="-121.936940757">
+        <ele>55.800000</ele>
+        <time>2014-03-09T21:32:08Z</time>
+        <speed>2.569000</speed>
+      </trkpt>
+      <trkpt lat="45.638247917" lon="-121.936961208">
+        <ele>55.800000</ele>
+        <time>2014-03-09T21:32:09Z</time>
+        <speed>2.621000</speed>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
