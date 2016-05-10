@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+    <title>Upload new File</title>
+    <h1>Upload new File</h1>
+    <form action="" method=post enctype=multipart/form-data>
+      <p><input type=file name=file>
+         <input type=submit value=Upload>
+    </form>
+    <head>
+    <style>
+    	#map  {
+    		width: 80vw;
+    		height: 60vh;
+		padding: 20px;
+		margin: 20px;   
+	}
+    </style>
+    </head>
+	<h2>Hello World!!</h2>
+	<body>
+	    <div id="map">
+	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+	    <script>
+	      function initMap() {
+	        var mapDiv = document.getElementById('map');
+	        var map = new google.maps.Map(mapDiv, {
+	          center: {lat: 44.540, lng: -78.546},
+	          zoom: 8
+	        });
+		$.ajax({
+		    type: "GET",
+		    url: "000.gpx",
+		    dataType: "xml",
+		    success: function(xml) {
+			var points = [];
+			var bounds = new google.maps.LatLngBounds ();
+			$(xml).find("trkpt").each(function() {
+		  	    var lat = $(this).attr("lat");
+			    var lon = $(this).attr("lon");
+			    var p = new google.maps.LatLng(lat, lon);
+			    points.push(p);
+			    bounds.extend(p);
+			});
+
+			var poly = new google.maps.Polyline({
+			// use your own style here
+			    path: points,
+			    strokeColor: "#FF00AA",
+			    strokeOpacity: .7,
+			    strokeWeight: 4
+			});
+		
+			poly.setMap(map);
+		
+			// fit bounds to track
+			map.fitBounds(bounds);
+		    }
+		});
+	    }
+	    </script>
+	    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap" async defer></script>
+        </div>
+	<div style="height=100px">
+	</div> 
+	</body>
+
+</html>
+
