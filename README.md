@@ -1,4 +1,4 @@
-# Project2 GPX Viewer 
+# Project 2: GPX Viewer 
 
 Contributors:
 
