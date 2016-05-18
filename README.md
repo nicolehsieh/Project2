@@ -15,7 +15,8 @@ Project Proposal:
 Jenny: 
 - jhorn3@uoregon.edu
 
-Nicole: 
+Nicole: nicolehsieh125@gmail.com
+
 
 Julie: 
 //add your emails if you guys are comfortable having them here
