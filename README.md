@@ -1,16 +1,16 @@
 # Project 2: GPX Viewer 
 
-Contributors:
+###Contributors:
 
 - Jenny Horn
 - Nicole Hsieh
 - Julie Stringham
 
 
-Project Proposal: 
+###Project Proposal: 
 - https://github.com/nicolehsieh/Project2/wiki/Project-Proposal
 
-##### Contact Us:
+#### Contact Us:
 
 * Jenny: 
   * jhorn3@uoregon.edu
