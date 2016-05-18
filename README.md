@@ -1,4 +1,4 @@
-# Project2
+# Project2 GPX Viewer 
 
 Contributors:
 
@@ -15,7 +15,8 @@ Project Proposal:
 Jenny: 
 - jhorn3@uoregon.edu
 
-Nicole: nicolehsieh125@gmail.com
+Nicole: 
+- nicolehsieh125@gmail.com
 
 
 Julie: 
