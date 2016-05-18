@@ -30,7 +30,21 @@ def upload():
 	# 	print (destination)
 	# 	file.save(destination)
 
+
 	return render_template("leaf.html")
+
+
+	# write code to find file 
+@app.route('/getgpx/<filename>', methods=['GET'])
+def getgpx(filename):
+	f = open(filename)
+	result = ""
+	for line in f:
+		result += line
+
+	return result
+
+
 
 
 if __name__ == '__main__':
