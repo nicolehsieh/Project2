@@ -12,12 +12,11 @@ Project Proposal:
 
 ##### Contact Us:
 
-Jenny: 
-- jhorn3@uoregon.edu
+* Jenny: 
+  * jhorn3@uoregon.edu
 
-Nicole: 
-- nicolehsieh125@gmail.com
+* Nicole: 
+  * nicolehsieh125@gmail.com
 
-
-Julie: 
-//add your emails if you guys are comfortable having them here
+* Julie: 
+  * //add your emails if you guys are comfortable having them here
