@@ -30,7 +30,7 @@ def upload():
 	# 	print (destination)
 	# 	file.save(destination)
 
-	return render_template("peplin.html")
+	return render_template("leaf.html")
 
 
 if __name__ == '__main__':
