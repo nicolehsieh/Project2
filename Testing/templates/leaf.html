@@ -24,7 +24,7 @@
 
 
 			// var url = '2014-01-01-07-30-08.gpx'; // URL to your GPX file
-			var url = '/uploads/{{ filename }}'; // URL to your GPX file or the GPX itself
+			var url = '/uploads/'+'{{ name }}'; // URL to your GPX file or the GPX itself
 			new L.GPX(url, {
 				async: true,
 			}).on('loaded', function(e) {
