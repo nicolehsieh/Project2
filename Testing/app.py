@@ -68,8 +68,12 @@ def uploaded_file(filename):
 def display():
 	# retrieve file name from cookies session
 	filename = session['filename']
-	return render_template("leaf.html", filename)
 
+
+	return render_template("leaf.html", name=filename)
+
+# set the secret key.  keep this really secret:
+app.secret_key = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
 
 # # get gpx file
 # @app.route('/getgpx/<filename>', methods=['GET'])
