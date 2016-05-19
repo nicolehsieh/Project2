@@ -34,7 +34,10 @@ def upload():
 	return render_template("leaf.html")
 
 
-	# write code to find file 
+# This route is expecting a parameter containing the name
+# of a file. Then it will locate that file on the upload
+# directory and show it on the browser, so if the user uploads
+# an image, that image is going to be show after the upload
 @app.route('/getgpx/<filename>', methods=['GET'])
 def getgpx(filename):
 	f = open(filename)
@@ -44,7 +47,7 @@ def getgpx(filename):
 
 	return result
 
-
+# read file as python, and return as JSON, easier for manipulation, then 
 
 
 if __name__ == '__main__':
