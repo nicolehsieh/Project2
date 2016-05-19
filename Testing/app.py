@@ -1,5 +1,5 @@
 import os
-from flask import Flask, render_template, request, redirect, url_for, send_from_directory
+from flask import Flask, render_template, request, redirect, url_for, send_from_directory, session
 from werkzeug import secure_filename
 
 # Initialize the Flask application
@@ -43,6 +43,9 @@ def upload_file():
 
 			# Move the file form the temporal folder to the upload folder we setup
 			file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+			
+			# session store filename in cookies
+			session['filename'] = filename
 
 			# Redirect the user to the uploaded_file route, which 
 			# will basicaly show on the browser the uploaded file
@@ -63,7 +66,9 @@ def uploaded_file(filename):
 # display gpx path on a map
 @app.route('/display', methods = ['GET','POST'])
 def display():
-	return render_template("leaf.html")
+	# retrieve file name from cookies session
+	filename = session['filename']
+	return render_template("leaf.html", filename)
 
 
 # # get gpx file
