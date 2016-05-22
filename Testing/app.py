@@ -53,9 +53,6 @@ def upload_file():
 			# will basicaly show on the browser the uploaded file
 			return redirect(url_for('display', filename=filename))
 
-		
-
-
 # serves(handle) uploaded file
 # This route is expecting a parameter containing the name
 # of a file. Then it will locate that file on the upload
@@ -63,8 +60,7 @@ def upload_file():
 # an image, that image is going to be show after the upload
 @app.route('/uploads/<filename>')
 def uploaded_file(filename):
-	return send_from_directory(app.config['UPLOAD_FOLDER'], filename) 
-	# return redirect(url_for('display'), ) 
+	return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
 
 # display gpx path on a map
