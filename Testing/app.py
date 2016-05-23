@@ -5,7 +5,8 @@ from werkzeug import secure_filename
 # Initialize the Flask application
 app = Flask(__name__)
 
-# UPLOAD_FOLDER is where we will store the uploaded files and 
+# UPLOAD_FOLDER is where we will store the uploaded files
+# CHANGE with your own path for testing!!!!!!!
 UPLOAD_FOLDER = '/Users/nicolehsieh/Desktop/GitHub/Project2/Testing/static/uploads'
 
 # ALLOWED_EXTENSIONS is the set of allowed file extensions.
