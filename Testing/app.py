@@ -96,7 +96,7 @@ def load(filename, delta = None):
 	Returns:
         	A list of (lattitude, longitude) pairs.
 	"""
-	contents = open(fname, 'r', encoding="utf-8", errors="replace")
+	contents = open(filename, 'r', encoding="utf-8", errors="replace")
 	gpx = gpxpy.parse(contents)
 	if delta:
         	gpx.simplify(delta)
