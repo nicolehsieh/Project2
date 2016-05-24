@@ -31,6 +31,8 @@
 
 
 			// var url = '/getgpx/'+'2014-01-01-07-30-08.gpx'; // URL to your GPX file
+			// change to:  points = '{{ g.points }}';
+			//   which flask/jinja will change to points = [ (lat, lon), (lat, lon), ... ]
 			var url = '/uploads/'+'{{ name }}'; // URL to your GPX file or the GPX itself
 			new L.GPX(url, {
 				async: true,
