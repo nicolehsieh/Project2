@@ -80,7 +80,7 @@ def display():
 	return render_template("leaf.html", name=filename)
 
 # set the secret key. 
-app.secret_key = '\x81|fL\xec\xa2[\x12\xf0\x0f\xa8X'
+# app.secret_key = '\x81|fL\xec\xa2[\x12\xf0\x0f\xa8X'
 
 
 # from https://bitbucket.org/MichalYoung/enroute-saunter/src/be98484f0ae062ac8ed0b5f2829f4b78d16911dc/htbin/gpx_from_file.cgi?at=master&fileviewer=file-view-default
