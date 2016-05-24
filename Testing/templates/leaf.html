@@ -16,7 +16,7 @@
     	<!-- Leaflet -->
 		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
 		<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
-		 <script src="https://rawgithub.com/mpetazzoni/leaflet-gpx/master/gpx.js"></script>
+		 <!-- // <script src="https://rawgithub.com/mpetazzoni/leaflet-gpx/master/gpx.js"></script> -->
     </head>
     <body>
     	<div id="mapid" style="width: 1200px; height: 800px" action="{{ url_for('display') }}"></div>
@@ -31,9 +31,20 @@
 
 
 			// var url = '/getgpx/'+'2014-01-01-07-30-08.gpx'; // URL to your GPX file
-			// change to:  points = '{{ g.points }}';
+			
+			points = {{ g["points"]}};
 			//   which flask/jinja will change to points = [ (lat, lon), (lat, lon), ... ]
-			var url = '/uploads/'+'{{ name }}'; // URL to your GPX file or the GPX itself
+			//var url = '/uploads/'+'{{ name }}'; // URL to your GPX file or the GPX itself
+			
+			/* var line = new L.Polyline(points,{
+				color: 'blue',
+				weight: 3
+			});
+			map.addLayer(line); */
+			
+			var line = L.polyline(points).addTo(map);
+
+/*
 			new L.GPX(url, {
 				async: true,
 				marker_options: {
@@ -44,6 +55,7 @@
 			}).on('loaded', function(e) {
 			  map.fitBounds(e.target.getBounds());
 			}).addTo(map);
+*/
 
 			// adding request urls 
 
