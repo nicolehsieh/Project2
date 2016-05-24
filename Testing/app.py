@@ -23,7 +23,7 @@ def allowed_file(filename):
 		filename.rsplit('.', 1)[1] in ALLOWED_EXTENSIONS
 
 
-#NOTE : possible ambiguous routing in following two functions
+# NOTE : possible ambiguous routing in following two functions
 
 @app.route('/')
 def index():
