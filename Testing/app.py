@@ -2,6 +2,11 @@ import os
 from flask import Flask, render_template, request, redirect, url_for, send_from_directory, session
 from werkzeug import secure_filename
 
+import sys
+
+import gpxpy
+import gpxpy.gpx
+
 # Initialize the Flask application
 app = Flask(__name__)
 
@@ -23,7 +28,7 @@ def allowed_file(filename):
 		filename.rsplit('.', 1)[1] in ALLOWED_EXTENSIONS
 
 
-# NOTE : possible ambiguous routing in following two functions
+# note - possible ambiguous routing in following two functions
 
 @app.route('/')
 def index():
@@ -76,6 +81,32 @@ def display():
 
 # set the secret key. 
 app.secret_key = '\x81|fL\xec\xa2[\x12\xf0\x0f\xa8X'
+
+
+# from https://bitbucket.org/MichalYoung/enroute-saunter/src/be98484f0ae062ac8ed0b5f2829f4b78d16911dc/htbin/gpx_from_file.cgi?at=master&fileviewer=file-view-default
+def load(filename, delta = None):
+	"""
+	Return a list of (lat, lon) pairs retrieved from gpx file
+	
+	Args:
+		filename: path of gpx file
+		delta: If provided, simplify path to max deviation of delta meters.
+              	100 meters will generally simplify
+              	a RideWithGPS route radically.
+	Returns:
+        	A list of (lattitude, longitude) pairs.
+	"""
+	contents = open(fname, 'r', encoding="utf-8", errors="replace")
+	gpx = gpxpy.parse(contents)
+	if delta:
+        	gpx.simplify(delta)
+    	points = [ ]
+    	for track in gpx.tracks:
+        	for segment in track.segments:
+            		for point in segment.points:
+                		points.append( (point.latitude, point.longitude) )
+    	return points
+
 
 # # get gpx file
 # @app.route('/getgpx/<filename>', methods=['GET'])
