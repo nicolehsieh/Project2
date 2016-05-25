@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 # UPLOAD_FOLDER is where we will store the uploaded files
 # CHANGE with your own path for testing!!!!!!!
-UPLOAD_FOLDER = '/Users/nicolehsieh/Desktop/GitHub/Project2/Testing/static/uploads'
+UPLOAD_FOLDER = './static/uploads'
 
 # ALLOWED_EXTENSIONS is the set of allowed file extensions.
 ALLOWED_EXTENSIONS = set(['gpx'])
