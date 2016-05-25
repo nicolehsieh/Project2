@@ -65,7 +65,8 @@
 			// myMovingMarker.start();
 
 
-			// ANIMATED MARKER - WORKS, but animations has problem. starts at random places, doesn't move along line, etc. Test with different gpx files to see what I'm talking about.
+			// ANIMATED MARKER - WORKS, but animations has problem. starts at random places, doesn't move along line, etc. Test with different gpx files, you'll see what I'm talking about. 
+			// This address issue #6
 			var line = L.polyline(points), animatedMarker = L.animatedMarker(line.getLatLngs(), {
 			  distance: 300,  // meters
 			  interval: 2000, // milliseconds
