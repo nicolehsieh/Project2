@@ -36,7 +36,7 @@ def index():
 
 # upload_file() function upload file 
 # and redirects the user to the URL for the uploaded file
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/display', methods=['GET', 'POST'])
 def upload_file():
     if request.method == 'POST':
         # Get the name of the uploaded file
@@ -53,6 +53,7 @@ def upload_file():
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
             points = load("static/uploads/" + filename, delta=100)
             g.points= points
+
             
             # session store filename in cookies
             # session['filename'] = filename
@@ -73,14 +74,13 @@ def upload_file():
 def uploaded_file(filename):
     return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
-
-# display gpx path on a map
-@app.route('/display', methods = ['GET','POST'])
-def display():
-    # retrieve file name from cookies session
-    # filename = session['filename']
-    filename = request.args.get('filename')
-    return render_template("leaf.html")
+# # display gpx path on a map
+# @app.route('/display', methods = ['GET','POST'])
+# def display():
+#     # retrieve file name from cookies session
+#     # filename = session['filename']
+#     filename = request.args.get('filename')
+#     return render_template("leaf.html")
 
 # set the secret key. 
 # app.secret_key = '\x81|fL\xec\xa2[\x12\xf0\x0f\xa8X'
@@ -103,11 +103,12 @@ def load(filename, delta = None):
     gpx = gpxpy.parse(contents)
     if delta:
         gpx.simplify(delta)
-        points = [ ]
+        points =[ ]
+    
         for track in gpx.tracks:
             for segment in track.segments:
                     for point in segment.points:
-                        points.append( [point.latitude, point.longitude] )
+                        points.append( [point.latitude, point.longitude] )                        
         return points
 
 

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    	<title>Leaflet Example</title>
+    	<title>Display Map</title>
 
     	<meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,18 +11,26 @@
 
         <!-- Google Hosted jQuery -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-        <script type="text/javascript" src="//cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+        
 
     	<!-- Leaflet -->
 		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
 		<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+		<!-- GPX Plugin -->
 		 <!-- // <script src="https://rawgithub.com/mpetazzoni/leaflet-gpx/master/gpx.js"></script> -->
+    
     </head>
     <body>
-    	<div id="mapid" style="width: 1200px; height: 800px" action="{{ url_for('display') }}"></div>
 
+    	<div id="mapid" style="width: 1200px; height: 800px" action="{{ url_for('upload_file') }}"></div>
+    	
+		<script type=text/javascript src="{{ url_for('static', filename='js/AnimatedMarker.js') }}"></script>
+		<!-- //<script type=text/javascript src="{{ url_for('static', filename='js/MovingMarker.js') }}"></script> -->
+		<!-- //<script type=text/javascript src="{{ url_for('static', filename='js/L.Polyline.SnakeAnim.js') }}"></script> -->
 
     	<script type="text/javascript" >
+
+			// ORIGINAL WORKING MAP DISPLAY
 
     		var map = L.map('mapid');
 
@@ -32,8 +40,11 @@
 				}).addTo(map);
 			map.attributionControl.setPrefix(''); // Don't show the 'Powered by Leaflet' text.
 
+
+
 			// longitudes and latitudes points
 			var points = {{ g["points"]}};	
+			// console.log(points)
 
 			// some polyline options
 			var polylineOptions = {
@@ -41,6 +52,7 @@
 				weight: 6,
 				opacity: 0.9
 			};
+
 			var polyline = new L.Polyline(points, polylineOptions);
 			map.addLayer(polyline);
 
@@ -48,6 +60,32 @@
 			map.fitBounds(polyline.getBounds());
 
 
+			// MOVING MAKER - WORKS
+			// var myMovingMarker = L.Marker.movingMarker(points, [10000]).addTo(map);
+			// myMovingMarker.start();
+
+
+			// ANIMATED MARKER - WORKS, but animations has problem. starts at random places, doesn't move along line, etc. Test with different gpx files to see what I'm talking about.
+			var line = L.polyline(points), animatedMarker = L.animatedMarker(line.getLatLngs(), {
+			  distance: 300,  // meters
+			  interval: 2000, // milliseconds
+			});
+
+			map.addLayer(animatedMarker);
+			animatedMarker.start();
+
+
+			// SNAKEIN - Not working
+			// var line = L.polyline(points, {snakingSpeed: 200});
+			// line.addTo(map).snakeIn();
+			// var route = L.layerGroup([
+			//     L.marker(airport1),
+			//     L.polyline([airport1, airport2]),
+			//     L.marker(airport2)
+			// ], { snakingPause: 200 });
+			// route.addTo(map).snakeIn();
+
     	</script>
+    	<!-- // <script type=text/javascript src="{{ url_for('static', filename='js/displayMap.js') }}"></script> -->
     </body>
 </html>
