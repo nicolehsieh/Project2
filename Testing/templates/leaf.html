@@ -25,39 +25,28 @@
     	<script type="text/javascript" >
 
     		var map = L.map('mapid');
+
 			L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { 
-					attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>'
+					attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>',
+					maxZoom: 18
 				}).addTo(map);
+			map.attributionControl.setPrefix(''); // Don't show the 'Powered by Leaflet' text.
 
+			// longitudes and latitudes points
+			var points = {{ g["points"]}};	
 
-			// var url = '/getgpx/'+'2014-01-01-07-30-08.gpx'; // URL to your GPX file
-			
-			points = {{ g["points"]}};
-			//   which flask/jinja will change to points = [ (lat, lon), (lat, lon), ... ]
-			//var url = '/uploads/'+'{{ name }}'; // URL to your GPX file or the GPX itself
-			
-			/* var line = new L.Polyline(points,{
+			// some polyline options
+			var polylineOptions = {
 				color: 'blue',
-				weight: 3
-			});
-			map.addLayer(line); */
-			
-			var line = L.polyline(points).addTo(map);
+				weight: 6,
+				opacity: 0.9
+			};
+			var polyline = new L.Polyline(points, polylineOptions);
+			map.addLayer(polyline);
 
-/*
-			new L.GPX(url, {
-				async: true,
-				marker_options: {
-				    startIconUrl: "{{url_for('static', filename='images/pin-icon-start.png')}}",
-				    endIconUrl: "{{url_for('static', filename='images/pin-icon-end.png')}}",
-				    shadowUrl: "{{url_for('static', filename='images/pin-shadow.png')}}"
-				}
-			}).on('loaded', function(e) {
-			  map.fitBounds(e.target.getBounds());
-			}).addTo(map);
-*/
+			// zoom the map to the polyline
+			map.fitBounds(polyline.getBounds());
 
-			// adding request urls 
 
     	</script>
     </body>
