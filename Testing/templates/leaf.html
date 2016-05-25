@@ -24,8 +24,8 @@
 
     	<div id="mapid" style="width: 1200px; height: 800px" action="{{ url_for('upload_file') }}"></div>
     	
-		<script type=text/javascript src="{{ url_for('static', filename='js/AnimatedMarker.js') }}"></script>
-		<!-- //<script type=text/javascript src="{{ url_for('static', filename='js/MovingMarker.js') }}"></script> -->
+		<!-- <script type=text/javascript src="{{ url_for('static', filename='js/AnimatedMarker.js') }}"></script>-->
+		<script type=text/javascript src="{{ url_for('static', filename='js/MovingMarker.js') }}"></script> 
 		<!-- //<script type=text/javascript src="{{ url_for('static', filename='js/L.Polyline.SnakeAnim.js') }}"></script> -->
 
     	<script type="text/javascript" >
@@ -61,12 +61,13 @@
 
 
 			// MOVING MAKER - WORKS
-			// var myMovingMarker = L.Marker.movingMarker(points, [10000]).addTo(map);
-			// myMovingMarker.start();
+			var myMovingMarker = L.Marker.movingMarker(points, 10000).addTo(map);
+			myMovingMarker.start();
 
 
 			// ANIMATED MARKER - WORKS, but animations has problem. starts at random places, doesn't move along line, etc. Test with different gpx files, you'll see what I'm talking about. 
 			// This address issue #6
+			/*
 			var line = L.polyline(points), animatedMarker = L.animatedMarker(line.getLatLngs(), {
 			  distance: 300,  // meters
 			  interval: 2000, // milliseconds
@@ -74,7 +75,7 @@
 
 			map.addLayer(animatedMarker);
 			animatedMarker.start();
-
+			*/
 
 			// SNAKEIN - Not working
 			// var line = L.polyline(points, {snakingSpeed: 200});
