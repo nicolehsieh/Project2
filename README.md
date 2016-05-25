@@ -19,4 +19,4 @@
   * nicolehsieh125@gmail.com
 
 * Julie: 
-  * //add your emails if you guys are comfortable having them here
+  * jstringh@uoregon.edu
