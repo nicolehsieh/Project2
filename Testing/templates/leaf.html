@@ -23,6 +23,7 @@
     <body>
     	<h2>GPX Map</h2>
     	<button type="button" id="play" onclick = "playFunction()">Play</button>
+    	<button type="button" id="pause" onclick = "pauseFunction()">Pause</button>
     	<br>
     	<div id="mapid" style="width: 1200px; height: 800px" action="{{ url_for('upload_file') }}"></div>
     	
@@ -69,6 +70,11 @@
 			function playFunction(){
 				myMovingMarker.start();
 			}
+			
+			function pauseFunction(){
+				myMovingMarker.pause();
+			}
+			
 			
 
 
