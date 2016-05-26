@@ -133,7 +133,7 @@ def calcDurations(times):
         ## or somehow set anim_dur to total converted to milliseconds
         
     durations = [ ] 
-    for i in range(1, 10):
+    for i in range(1, len(times)):
         diff = times[i]-times[i-1] #use datetime timedelta
         d = diff.days
         s = diff.seconds
