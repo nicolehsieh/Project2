@@ -25,6 +25,7 @@
     	<button type="button" id="play" onclick = "playFunction()">Play</button>
     	<button type="button" id="pause" onclick = "pauseFunction()">Pause</button>
     	<button type="button" id="stop" onclick = "stopFunction()">Stop</button>
+    	
     	<form>
 			<div style="width: 300px">
 				<label>Animation Duration (seconds): </label>
@@ -32,6 +33,7 @@
 				<span id="range">10</span>
 			</div>
     	</form>
+    	
     	<br>
     	<div id="mapid" style="width: 1200px; height: 800px" action="{{ url_for('upload_file') }}"></div>
     	
