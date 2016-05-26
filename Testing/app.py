@@ -48,9 +48,11 @@ def upload_file():
         ######## THIS IS THE PART THAT NEEDS HELP 
         # ======================================================================
         # Get animation length (seconds)
-        #animlength = request.GET['anim_length']
+        # animlength = request.form['anim_length']
         # ======================================================================        
-        animlength = 10
+        
+        animlength = 10  # IF SLIDER FAILS, USE THIS LINE. OTHERWISE, COMMENT THIS LINE.
+        
         # Check if the file is one of the allowed types/extensions
         if file and allowed_file(file.filename):
             
