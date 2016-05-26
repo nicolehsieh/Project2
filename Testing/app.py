@@ -104,12 +104,34 @@ def load(filename, delta = None):
     if delta:
         gpx.simplify(delta)
         points =[ ]
-    
+        #times  =[ ]
+        
         for track in gpx.tracks:
             for segment in track.segments:
                     for point in segment.points:
                         points.append( [point.latitude, point.longitude] )                        
+                        #times.append(point.time) #Maybe times.append(arrow.get(point.time).datetime)
         return points
+### TODO: Write this function to make animation time-accurate
+
+def calcDurations(times):
+    '''
+    total = times[-1]-times[0]
+    anim_dur = 20000
+        ## or somehow set anim_dur to total converted to milliseconds
+        
+    durations = [ ] 
+    for i in range(10):
+        if i != 0:
+            diff = times[i]-times[i-1] #use datetime timedelta
+            realdiff = (diff converted to milliseconds)
+            dur = realdiff/anim_dur
+            durations.append(dur)
+    return durations
+    '''
+    return 0
+
+
 
 
 # # get gpx file
