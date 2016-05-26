@@ -112,6 +112,8 @@ def load(filename, delta = None):
                         points.append( [point.latitude, point.longitude] )                        
                         #times.append(point.time) #Maybe times.append(arrow.get(point.time).datetime)
         return points
+        
+        
 ### TODO: Write this function to make animation time-accurate
 
 def calcDurations(times):
@@ -121,12 +123,15 @@ def calcDurations(times):
         ## or somehow set anim_dur to total converted to milliseconds
         
     durations = [ ] 
-    for i in range(10):
-        if i != 0:
-            diff = times[i]-times[i-1] #use datetime timedelta
-            realdiff = (diff converted to milliseconds)
-            dur = realdiff/anim_dur
-            durations.append(dur)
+    for i in range(1, 10):
+        diff = times[i]-times[i-1] #use datetime timedelta
+        d = diff.days
+        s = diff.seconds
+        m = diff.microseconds
+            
+        mil = (d*24*60*60000)+(s*1000)+(m/1000)
+        dur = mil/anim_dur
+        durations.append(dur)
     return durations
     '''
     return 0
