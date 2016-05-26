@@ -7,7 +7,6 @@ import sys
 import gpxpy
 import gpxpy.gpx
 
-import datetime
 import arrow
 import datetime
 
