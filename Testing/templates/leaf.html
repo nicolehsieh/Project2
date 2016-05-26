@@ -24,6 +24,7 @@
     	<h2>GPX Map</h2>
     	<button type="button" id="play" onclick = "playFunction()">Play</button>
     	<button type="button" id="pause" onclick = "pauseFunction()">Pause</button>
+    	<button type="button" id="stop" onclick = "stopFunction()">Stop</button>
     	<br>
     	<div id="mapid" style="width: 1200px; height: 800px" action="{{ url_for('upload_file') }}"></div>
     	
@@ -67,14 +68,16 @@
 			// MOVING MAKER - WORKS
 			var myMovingMarker = L.Marker.movingMarker(points, durations).addTo(map);
 			
+			//Play, Pause, and Stop button functions
 			function playFunction(){
 				myMovingMarker.start();
 			}
-			
 			function pauseFunction(){
 				myMovingMarker.pause();
 			}
-			
+			function stopFunction(){
+				myMovingMarker.stop();
+			}
 			
 
 
