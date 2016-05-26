@@ -44,7 +44,13 @@ def upload_file():
     if request.method == 'POST':
         # Get the name of the uploaded file
         file = request.files['file']
-
+        
+        ######## THIS IS THE PART THAT NEEDS HELP 
+        # ======================================================================
+        # Get animation length (seconds)
+        #animlength = request.GET['anim_length']
+        # ======================================================================        
+        animlength = 10
         # Check if the file is one of the allowed types/extensions
         if file and allowed_file(file.filename):
             
@@ -61,7 +67,7 @@ def upload_file():
             g.points= arrays[0]
             
             # calculate the durations using the time array
-            durations = calcDurations(arrays[1])
+            durations = calcDurations(arrays[1], animlength)
             g.durations = durations
             
             # session store filename in cookies
@@ -124,7 +130,7 @@ def load(filename, delta = None):
         arrays.append(times)
         return arrays
         
-def calcDurations(times):
+def calcDurations(times, speed):
     '''
     Calculates time in milliseconds animation will take to get between each point
     Args:
@@ -136,8 +142,8 @@ def calcDurations(times):
     # calculate total elapsed time get timedelta, convert to floats, scale to animation
     timedelta = times[len(times)-1]-times[0] 
     totalElapsedTime = makeNumbers(timedelta)
-    desiredTotalLengthOfAnimation = 10
-    scaleAnimDur = desiredTotalLengthOfAnimation*1000
+    
+    scaleAnimDur = speed*1000
     anim_dur = totalElapsedTime/scaleAnimDur
     
     durations = [ ]  # array to store durations
