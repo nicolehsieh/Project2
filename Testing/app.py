@@ -7,6 +7,7 @@ import sys
 import gpxpy
 import gpxpy.gpx
 
+import datetime
 import arrow
 import datetime
 
@@ -128,8 +129,8 @@ def calcDurations(times):
     '''
     
     '''
-    total = times[-1]-times[0]
-    anim_dur = 20000
+    
+    anim_dur = 2000
         ## or somehow set anim_dur to total converted to milliseconds
         
     durations = [ ] 
