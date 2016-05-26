@@ -25,6 +25,13 @@
     	<button type="button" id="play" onclick = "playFunction()">Play</button>
     	<button type="button" id="pause" onclick = "pauseFunction()">Pause</button>
     	<button type="button" id="stop" onclick = "stopFunction()">Stop</button>
+    	<form>
+			<div style="width: 300px">
+				<label>Animation Duration (seconds): </label>
+				<input type="range" name="anim_length" min="5" max="60" value = "10" step="5" onchange="showValue(this.value)"/>
+				<span id="range">10</span>
+			</div>
+    	</form>
     	<br>
     	<div id="mapid" style="width: 1200px; height: 800px" action="{{ url_for('upload_file') }}"></div>
     	
@@ -44,10 +51,16 @@
 				}).addTo(map);
 			map.attributionControl.setPrefix(''); // Don't show the 'Powered by Leaflet' text.
 
-
+	//=======================================================================
+			//slider on change function
+			function showValue(newValue){
+				document.getElementById("range").innerHTML=newValue;
+				//maybe include ajax code here to send (post?) this value to the flask side
+			}
+	// ======================================================================
 
 			// longitudes and latitudes points
-			var points = {{ g["points"]}};
+			var points = {{g["points"]}};
 			var durations = {{g["durations"]}};
 			// console.log(points)
 
