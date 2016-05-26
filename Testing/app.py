@@ -54,10 +54,13 @@ def upload_file():
 
             # Move the file form the temporal folder to the upload folder we setup
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-            arrays = []
+            
+            # arrays holds the points array and the times array corresponding to the gpx file
+            arrays = []					
             arrays = load("static/uploads/" + filename, delta=100)
             g.points= arrays[0]
             
+            # calculate the durations using the time array
             durations = calcDurations(arrays[1])
             g.durations = durations
             
@@ -109,45 +112,44 @@ def load(filename, delta = None):
     gpx = gpxpy.parse(contents)
     if delta:
         gpx.simplify(delta)
-        points =[ ]
-        times  =[ ]
-        arrays =[ ]
+        points =[ ] 	# to hold points (latitude, longitude)
+        times  =[ ]	# to hold times 
+        arrays =[ ]	# to hold both of the above arrays
         for track in gpx.tracks:
             for segment in track.segments:
                     for point in segment.points:
                         points.append( [point.latitude, point.longitude] )                        
-                        times.append(arrow.get(point.time).datetime)
-        arrays.append(points)
+                        times.append(arrow.get(point.time).datetime)	# use arrow to interperet the time, then convert to datetime object
+        arrays.append(points) 
         arrays.append(times)
         return arrays
         
-        
-### TODO: Write this function to make animation time-accurate
-
 def calcDurations(times):
     '''
-    
+    Calculates time in milliseconds animation will take to get between each point
+    Args:
+    	times: array of datetime objects corresponding to each point in points array
+    Returns:
+    	array of durations (floats, in milliseconds)
     '''
-    timedelta = times[len(times)-1]-times[0]
-    totalElapsedTime = makeNumbers(timedelta)
     
+    # calculate total elapsed time get timedelta, convert to floats, scale to animation
+    timedelta = times[len(times)-1]-times[0] 
+    totalElapsedTime = makeNumbers(timedelta)
     desiredTotalLengthOfAnimation = 10
     scaleAnimDur = desiredTotalLengthOfAnimation*1000
-    
     anim_dur = totalElapsedTime/scaleAnimDur
-        ## or somehow set anim_dur to total converted to milliseconds
-    sum = 0
     
-    durations = [ ] 
+    durations = [ ]  # array to store durations
     for i in range(1, len(times)):
-        diff = times[i]-times[i-1] #use datetime timedelta
-        
+    	
+        # calculate timedelta for difference between each point
+        diff = times[i]-times[i-1]
+        # convert to float value in milliseconds
         mil = makeNumbers(diff)
-        
+        # scale to animation duration
         dur = mil/anim_dur
         durations.append(dur)
-        sum += mil
-    print(sum)
     return durations
 
 def makeNumbers(timedelta):
@@ -159,25 +161,12 @@ def makeNumbers(timedelta):
 	Returns:
 		a float of the timedelta converted to milliseconds
 	'''
-	d = timedelta.days
-	s = timedelta.seconds
-	m = timedelta.microseconds
-	mil = (d*24*60*60000)+(s*1000)+(m/1000)
+	d = timedelta.days 		# get int number of days
+	s = timedelta.seconds		# get int number of seconds
+	m = timedelta.microseconds	# get int number of microseconds
+	mil = (d*24*60*60000)+(s*1000)+(m/1000)		# add the days, seconds, and microseconds together and convert to milliseconds
 	
 	return mil
-
-
-# # get gpx file
-# @app.route('/getgpx/<filename>', methods=['GET'])
-# def getgpx(filename):
-#   f = open(filename)
-#   result = ""
-#   for line in f:
-#       result += line
-#   return result
-
-# read file as python, and return as JSON, easier for manipulation, then 
-
 
 if __name__ == '__main__':
     app.run(
