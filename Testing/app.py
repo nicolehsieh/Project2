@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 # UPLOAD_FOLDER is where we will store the uploaded files
 # CHANGE with your own path for testing!!!!!!!
-UPLOAD_FOLDER = '/Users/nicolehsieh/Desktop/GitHub/Project2/Testing/static/uploads'
+UPLOAD_FOLDER = './static/uploads'
 
 # ALLOWED_EXTENSIONS is the set of allowed file extensions.
 ALLOWED_EXTENSIONS = set(['gpx'])
@@ -104,12 +104,39 @@ def load(filename, delta = None):
     if delta:
         gpx.simplify(delta)
         points =[ ]
-    
+        #times  =[ ]
+        
         for track in gpx.tracks:
             for segment in track.segments:
                     for point in segment.points:
                         points.append( [point.latitude, point.longitude] )                        
+                        #times.append(point.time) #Maybe times.append(arrow.get(point.time).datetime)
         return points
+        
+        
+### TODO: Write this function to make animation time-accurate
+
+def calcDurations(times):
+    '''
+    total = times[-1]-times[0]
+    anim_dur = 20000
+        ## or somehow set anim_dur to total converted to milliseconds
+        
+    durations = [ ] 
+    for i in range(1, 10):
+        diff = times[i]-times[i-1] #use datetime timedelta
+        d = diff.days
+        s = diff.seconds
+        m = diff.microseconds
+            
+        mil = (d*24*60*60000)+(s*1000)+(m/1000)
+        dur = mil/anim_dur
+        durations.append(dur)
+    return durations
+    '''
+    return 0
+
+
 
 
 # # get gpx file
