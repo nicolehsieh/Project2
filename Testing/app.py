@@ -128,23 +128,43 @@ def calcDurations(times):
     '''
     
     '''
+    timedelta = times[len(times)-1]-times[0]
+    totalElapsedTime = makeNumbers(timedelta)
     
-    anim_dur = 2000
+    desiredTotalLengthOfAnimation = 10
+    scaleAnimDur = desiredTotalLengthOfAnimation*1000
+    
+    anim_dur = totalElapsedTime/scaleAnimDur
         ## or somehow set anim_dur to total converted to milliseconds
-        
+    sum = 0
+    
     durations = [ ] 
     for i in range(1, len(times)):
         diff = times[i]-times[i-1] #use datetime timedelta
-        d = diff.days
-        s = diff.seconds
-        m = diff.microseconds
-            
-        mil = (d*24*60*60000)+(s*1000)+(m/1000)
+        
+        mil = makeNumbers(diff)
+        
         dur = mil/anim_dur
         durations.append(dur)
+        sum += mil
+    print(sum)
     return durations
 
-
+def makeNumbers(timedelta):
+	'''
+	Converts datetime.timedelta object into float value for milliseconds
+	
+	Args:
+		time: a datetime.timedelta thing
+	Returns:
+		a float of the timedelta converted to milliseconds
+	'''
+	d = timedelta.days
+	s = timedelta.seconds
+	m = timedelta.microseconds
+	mil = (d*24*60*60000)+(s*1000)+(m/1000)
+	
+	return mil
 
 
 # # get gpx file
@@ -163,5 +183,5 @@ if __name__ == '__main__':
     app.run(
         debug=True, 
         host='0.0.0.0', 
-        port=5000
+        port=5002
     )
