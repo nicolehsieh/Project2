@@ -44,7 +44,8 @@
 
 
 			// longitudes and latitudes points
-			var points = {{ g["points"]}};	
+			var points = {{ g["points"]}};
+			var durations = {{g["durations"]}};
 			// console.log(points)
 
 			// some polyline options
@@ -62,7 +63,7 @@
 
 
 			// MOVING MAKER - WORKS
-			var myMovingMarker = L.Marker.movingMarker(points, 10000).addTo(map);
+			var myMovingMarker = L.Marker.movingMarker(points, durations).addTo(map);
 			myMovingMarker.start();
 
 
