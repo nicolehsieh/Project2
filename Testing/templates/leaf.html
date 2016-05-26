@@ -22,6 +22,7 @@
     </head>
     <body>
     	<h2>GPX Map</h2>
+    	<button type="button" id="play" onclick = "playFunction()">Play</button>
     	<br>
     	<div id="mapid" style="width: 1200px; height: 800px" action="{{ url_for('upload_file') }}"></div>
     	
@@ -64,7 +65,11 @@
 
 			// MOVING MAKER - WORKS
 			var myMovingMarker = L.Marker.movingMarker(points, durations).addTo(map);
-			myMovingMarker.start();
+			
+			function playFunction(){
+				myMovingMarker.start();
+			}
+			
 
 
 			// ANIMATED MARKER - WORKS, but animations has problem. starts at random places, doesn't move along line, etc. Test with different gpx files, you'll see what I'm talking about. 
