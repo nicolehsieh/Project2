@@ -8,6 +8,7 @@ import gpxpy
 import gpxpy.gpx
 
 import arrow
+import datetime
 
 # Initialize the Flask application
 app = Flask(__name__)
@@ -53,10 +54,11 @@ def upload_file():
 
             # Move the file form the temporal folder to the upload folder we setup
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-            points = load("static/uploads/" + filename, delta=100)
-            g.points= points
+            arrays = []
+            arrays = load("static/uploads/" + filename, delta=100)
+            g.points= arrays[0]
             
-            durations = calcDurations(points)
+            durations = calcDurations(arrays[1])
             g.durations = durations
             
             # session store filename in cookies
@@ -109,13 +111,15 @@ def load(filename, delta = None):
         gpx.simplify(delta)
         points =[ ]
         times  =[ ]
-        
+        arrays =[ ]
         for track in gpx.tracks:
             for segment in track.segments:
                     for point in segment.points:
                         points.append( [point.latitude, point.longitude] )                        
                         times.append(arrow.get(point.time).datetime)
-        return points
+        arrays.append(points)
+        arrays.append(times)
+        return arrays
         
         
 ### TODO: Write this function to make animation time-accurate
