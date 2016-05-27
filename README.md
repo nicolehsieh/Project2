@@ -1,6 +1,6 @@
 # Project 2: GPX Viewer 
 
-## README.md: The README file of your repository should be brief but should give me everything I need to determine what your project is, who its authors (you) are, and a basic outline of what the build process and the resulting product are.
+## README.md: The GPX Track Visualizer provides users with a simple way to visualize a GPX track in a spatial context, and  to animate the track with respect to time traveled on a web map. 
 
 
 ### Hosted on IX:
