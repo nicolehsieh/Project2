@@ -4,7 +4,6 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  padding-top: 70px;
   margin-bottom: 60px;
 }
 .footer {
@@ -65,4 +64,10 @@ body {
     background: white;
     cursor: inherit;
     display: block;
+}
+
+
+.centered{
+  margin-right: auto; 
+  margin-left: auto;
 }
