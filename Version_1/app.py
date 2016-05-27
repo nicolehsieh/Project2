@@ -14,7 +14,6 @@ import datetime
 app = Flask(__name__)
 
 # UPLOAD_FOLDER is where we will store the uploaded files
-# CHANGE with your own path for testing!!!!!!!
 UPLOAD_FOLDER = './static/uploads'
 
 # ALLOWED_EXTENSIONS is the set of allowed file extensions.
@@ -31,14 +30,12 @@ def allowed_file(filename):
         filename.rsplit('.', 1)[1] in ALLOWED_EXTENSIONS
 
 
-# note - possible ambiguous routing in following two functions
-
 @app.route('/')
 def index():
     return render_template('index.html')
 
-# upload_file() function upload file 
-# and redirects the user to the URL for the uploaded file
+
+# upload_file() function upload file and redirects the user to the URL for the uploaded file
 @app.route('/display', methods=['GET', 'POST'])
 def upload_file():
     if request.method == 'POST':
@@ -69,7 +66,7 @@ def upload_file():
             return render_template("leaf.html")
             
 
-# serves(handle) uploaded file
+
 # This route is expecting a parameter containing the name
 # of a file. Then it will locate that file on the upload
 # directory and show it on the browser, so if the user uploads
