@@ -20,11 +20,9 @@
 
 #### Contact Us:
 
-* Jenny: 
+* Jenny:
   * jhorn3@uoregon.edu
-
 * Nicole: 
   * nicolehsieh125@gmail.com
-
 * Julie: 
   * jstringh@uoregon.edu
