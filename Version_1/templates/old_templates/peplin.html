@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<title>Leaflet Example</title>
+
+    	<meta charset="UTF-8">
+
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<script src="https://raw.githubusercontent.com/peplin/gpxviewer/next/loadgpx.js
+
+"></script>
+    </head>
+    <body>
+    	<div id="mapid" style="width: 1200px; height: 800px"></div>
+
+
+    	<script type="text/javascript">
+
+    		var map = L.map('mapid');
+			L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { 
+					attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>'
+				}).addTo(map);
+
+
+			// var url = '2014-01-01-07-30-08.gpx'; // URL to your GPX file
+			var gpx = '/test.gpx'; // URL to your GPX file or the GPX itself
+			new L.GPX(gpx, {async: true}).on('loaded', function(e) {
+			  map.fitBounds(e.target.getBounds());
+			}).addTo(map);
+
+
+
+    	</script>
+    </body>
+</html>

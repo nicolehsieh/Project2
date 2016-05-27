@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<title>Display Map</title>
+
+    	<meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+     
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+        <!-- Google Hosted jQuery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+        
+    	<!-- Leaflet -->
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+		<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    	
+    	<!-- Moving Maker -->
+    	<script type=text/javascript src="{{ url_for('static', filename='js/MovingMarker.js') }}"></script> 
+    </head>
+    <body>
+
+
+    	<div class="container" >
+    		<div class="col-lg-12">
+    			<h1 align="center">GPX Map</h1>
+    			<br>
+    			<div class="text-center">
+    				<button type="button" class="btn btn-success btn-lg" id="play" onclick="playFunction()">Play</button>
+	    			<button type="button" class="btn btn-warning btn-lg" id="pause" onclick="pauseFunction()">Pause</button>
+	    			<button type="button" class="btn btn-danger btn-lg" id="stop" onclick="stopFunction()">Stop</button>
+	    		</div>
+
+	    		<br>
+    		</div>
+
+    	</div>
+
+    	<br><br>
+    	<div class="container" >
+    		<div id="mapid" style="width: 1200px; height: 800px" action="{{ url_for('upload_file') }}"></div>
+    	</div>
+
+    	
+    
+    	<!-- Map -->
+    	<script type="text/javascript" >
+    		var map = L.map('mapid');
+
+			L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { 
+					attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>',
+					maxZoom: 18
+				}).addTo(map);
+			map.attributionControl.setPrefix(''); // Don't show the 'Powered by Leaflet' text.
+
+	//=======================================================================
+			//slider on change function
+			function showValue(newValue){
+				document.getElementById("range").innerHTML=newValue;
+				//maybe include ajax code here to send (post?) this value to the flask side
+			}
+	// ======================================================================
+
+			// longitudes and latitudes points
+			var points = {{g["points"]}};
+			var durations = {{g["durations"]}};
+			// console.log(points)
+
+			// some polyline options
+			var polylineOptions = {
+				color: 'blue',
+				weight: 6,
+				opacity: 0.9
+			};
+
+			var polyline = new L.Polyline(points, polylineOptions);
+			map.addLayer(polyline);
+
+			// zoom the map to the polyline
+			map.fitBounds(polyline.getBounds());
+
+
+			// MOVING MAKER - WORKS
+			var myMovingMarker = L.Marker.movingMarker(points, durations).addTo(map);
+			
+			//Play, Pause, and Stop button functions
+			function playFunction(){
+				myMovingMarker.start();
+			}
+			function pauseFunction(){
+				myMovingMarker.pause();
+			}
+			function stopFunction(){
+				myMovingMarker.stop();
+			}
+
+    	</script>
+    	<!-- // <script type=text/javascript src="{{ url_for('static', filename='js/displayMap.js') }}"></script> -->
+    </body>
+
+    <footer class="footer"></footer>
+</html>
