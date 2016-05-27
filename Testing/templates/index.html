@@ -21,37 +21,10 @@
 	</head>
 	<body role="document">
 
-		<div class="container theme-showcase" role="main">
-		  <!-- Main jumbotron for a primary marketing message or call to action -->
-			<div class="jumbotron">
-				<h1>GPX Visualizer</h1>
-				<p> An online gpx data viewer: simply upload your file and click on Map it to view your routes.
-				</p>
-			</div>
-		</div>
-
-		<div class="container">
-			<div class="col-lg-8"> 
-				<form id="upload-form" action="{{ url_for('upload_file') }}" method ="POST" enctype = "multipart/form-data">
-					<div class="form-group">
-						<label class="control-label col-sm-3" for="subject">Upload a GPX file:</label>
-						<div class="col-sm-9">
-							<input type="file" class="file" name="file" required/>
-							<br>
-						</div>
-
-						<div class="col-sm-9 text-center" >
-							<button type="reset" class="btn btn-default" name="submit" value="reset">Reset </button>
-							<input type="submit" id="map-btn" class="btn btn-success" value="Map it"/> 
-
-						</div>
-					</div>
-				</form>
-			</div>
-		</div>
 
 		<!-- Static navbar -->
-	    <nav class="navbar navbar-default navbar-fixed-bottom">
+		<div class="container">
+	    <nav class="navbar navbar-default navbar-fixed-top">
 	        <div class="container">
 	            <div class="navbar-header">
 	                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -82,6 +55,37 @@
 	            </div><!--/.nav-collapse -->
 	        </div>
 	    </nav>
+	</div>
+	    <br>
+		</br>
+		<div class="container theme-showcase" role="main">
+		  <!-- Main jumbotron for a primary marketing message or call to action -->
+			<div class="jumbotron">
+				<h1>GPX Visualizer</h1>
+				<p> An online gpx data viewer: simply upload your file and click on Map it to view your routes.
+				</p>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="col-lg-8"> 
+				<form id="upload-form" action="{{ url_for('upload_file') }}" method ="POST" enctype = "multipart/form-data">
+					<div class="form-group">
+						<label class="control-label col-sm-3" for="subject">Upload a GPX file:</label>
+						<div class="col-sm-9">
+							<input type="file" class="file" accept=".gpx" name="file" required/>
+							<br>
+						</div>
+
+						<div class="col-sm-9 text-center" >
+							<button type="reset" class="btn btn-default" name="submit" value="reset">Reset </button>
+							<input type="submit" id="map-btn" class="btn btn-success" value="Map it"/> 
+
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
 
 		<!-- Google Hosted jQuery and Bootstrap JavaScript plugins  -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
