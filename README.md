@@ -2,6 +2,7 @@
 
 ## README.md: The README file of your repository should be brief but should give me everything I need to determine what your project is, who its authors (you) are, and a basic outline of what the build process and the resulting product are.
 
+https://www.cs.uoregon.edu/Classes/16S/cis422/projectGrading.php
 
 ### Hosted on IX:
 - Version 1.0: http://ix.cs.uoregon.edu:7171/ <br>
