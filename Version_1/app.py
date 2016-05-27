@@ -45,12 +45,7 @@ def upload_file():
         # Get the name of the uploaded file
         file = request.files['file']
         
-        ######## THIS IS THE PART THAT NEEDS HELP 
-        # ======================================================================
-        # Get animation length (seconds)
-        #animlength = request.GET['anim_length']
-        # ======================================================================        
-        # animlength = request.form['dateRange']
+
         animlength = 10
         # Check if the file is one of the allowed types/extensions
         if file and allowed_file(file.filename):
@@ -71,13 +66,6 @@ def upload_file():
             durations = calcDurations(arrays[1], animlength)
             g.durations = durations
             
-            # session store filename in cookies
-            # session['filename'] = filename
-            # session allows you to store information specific to a user from one request to the next. 
-            # This is implemented on top of cookies for you and signs the cookies cryptographically. 
-
-            # Redirect the user to the uploaded_file route, which 
-            # will basicaly show on the browser the uploaded file
             return render_template("leaf.html")
             
 
@@ -90,14 +78,9 @@ def upload_file():
 def uploaded_file(filename):
     return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
-# # display gpx path on a map
-# @app.route('/display', methods = ['GET','POST'])
-# def display():
-#     filename = request.args.get('filename')
-#     return render_template("leaf.html")
 
 
-# from https://bitbucket.org/MichalYoung/enroute-saunter/src/be98484f0ae062ac8ed0b5f2829f4b78d16911dc/htbin/gpx_from_file.cgi?at=master&fileviewer=file-view-default
+# From https://bitbucket.org/MichalYoung/enroute-saunter/src/be98484f0ae062ac8ed0b5f2829f4b78d16911dc/htbin/gpx_from_file.cgi?at=master&fileviewer=file-view-default
 def load(filename, delta = None):
     """
     Return a list of (lat, lon) pairs retrieved from gpx file
