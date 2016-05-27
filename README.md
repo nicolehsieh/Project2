@@ -3,6 +3,11 @@
 ## README.md: The README file of your repository should be brief but should give me everything I need to determine what your project is, who its authors (you) are, and a basic outline of what the build process and the resulting product are.
 
 
+Hosted on:
+- Version 1.0: http://ix.cs.uoregon.edu:6868/ <br>
+- Test: http://ix.cs.uoregon.edu:6869/ <br>
+
+
 ###Contributors:
 
 - Jenny Horn
