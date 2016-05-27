@@ -1,7 +1,23 @@
-body {
-  padding-top: 70px;
-  padding-bottom: 30px;
+html {
+  position: relative;
+  min-height: 100%;
 }
+body {
+  /* Margin bottom by footer height */
+  padding-top: 70px;
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+
+
 
 .theme-dropdown .dropdown-menu {
   position: static;
@@ -30,9 +46,6 @@ body {
     }
 }
 
-.vertical-line {
-    border-right: solid 0.5px #e6e6e6;
-}
 
 .btn-file {
     position: relative;

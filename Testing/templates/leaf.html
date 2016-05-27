@@ -16,26 +16,44 @@
     	<!-- Leaflet -->
 		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
 		<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
-		<!-- GPX Plugin -->
-		 <!-- // <script src="https://rawgithub.com/mpetazzoni/leaflet-gpx/master/gpx.js"></script> -->
+		
     
     </head>
     <body>
-    	<h2>GPX Map</h2>
-    	<button type="button" id="play" onclick = "playFunction()">Play</button>
-    	<button type="button" id="pause" onclick = "pauseFunction()">Pause</button>
-    	<button type="button" id="stop" onclick = "stopFunction()">Stop</button>
-    	
-    	<form>
-			<div style="width: 300px">
-				<label>Animation Duration (seconds): </label>
-				<input type="range" name="anim_length" min="5" max="60" value = "10" step="5" onchange="showValue(this.value)"/>
-				<span id="range">10</span>
-			</div>
-    	</form>
-    	
-    	<br>
-    	<div id="mapid" style="width: 1200px; height: 800px" action="{{ url_for('upload_file') }}"></div>
+    	<div class="container" >
+    		<div class="col-lg-12">
+    			<h1 align="center">GPX Map</h1>
+    			<br>
+    			<div class="text-center">
+    				<button type="button" class="btn btn-success btn-lg" id="play" onclick="playFunction()">Play</button>
+	    			<button type="button" class="btn btn-warning btn-lg" id="pause" onclick="pauseFunction()">Pause</button>
+	    			<button type="button" class="btn btn-danger btn-lg" id="stop" onclick="stopFunction()">Stop</button>
+	    		</div>
+
+	    		<br>
+	    		<br>
+
+    			<form class="form-horizontal" role="form" name="form" action="." method='POST'>
+
+    				<label class="control-label col-sm-2" for="slider">Animation Duration (sec):</label>
+
+		    		<div class="form-group col-sm-8 text-align: center;">
+						<input type="range" id="slider" name="anim_length" max="60" value="" onchange="showValue(this.value)"/>
+						<span for="slider" id="range" align="center"></span>
+					</div>
+					
+					<div class="col-sm-2">
+						<button type="submit" class="btn btn-primary btn-lg" name="submit" value="submit">Submit</button>
+					</div>
+    			</form>
+    		</div>
+
+    	</div>
+
+    	<br><br>
+    	<div class="container" >
+    		<div id="mapid" style="width: 900px; height: 500px" action="{{ url_for('upload_file') }}"></div>
+    	</div>
     	
 		<!-- <script type=text/javascript src="{{ url_for('static', filename='js/AnimatedMarker.js') }}"></script>-->
 		<script type=text/javascript src="{{ url_for('static', filename='js/MovingMarker.js') }}"></script> 
@@ -52,6 +70,13 @@
 					maxZoom: 18
 				}).addTo(map);
 			map.attributionControl.setPrefix(''); // Don't show the 'Powered by Leaflet' text.
+
+
+			var myIcon = L.icon({
+				iconUrl: 'green-bike.png'
+			});
+
+			
 
 	//=======================================================================
 			//slider on change function
@@ -81,7 +106,9 @@
 
 
 			// MOVING MAKER - WORKS
-			var myMovingMarker = L.Marker.movingMarker(points, durations).addTo(map);
+			var myMovingMarker = L.Marker.movingMarker(points, durations, {
+				icon: myIcon
+			}).addTo(map);
 			
 			//Play, Pause, and Stop button functions
 			function playFunction(){
@@ -119,6 +146,7 @@
 			// route.addTo(map).snakeIn();
 
     	</script>
-    	<!-- // <script type=text/javascript src="{{ url_for('static', filename='js/displayMap.js') }}"></script> -->
+    	
+
     </body>
 </html>
