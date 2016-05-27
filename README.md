@@ -1,5 +1,8 @@
 # Project 2: GPX Viewer 
 
+## README.md: The README file of your repository should be brief but should give me everything I need to determine what your project is, who its authors (you) are, and a basic outline of what the build process and the resulting product are.
+
+
 ###Contributors:
 
 - Jenny Horn
