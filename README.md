@@ -1,6 +1,6 @@
 # Project 2: GPX Viewer 
 
-## README.md: The GPX Viewer provides users with a simple way to visualize a GPX track in a spatial context, and  to animate the track with respect to time traveled on a web map. 
+## README.md: The GPX Viewer provides users with a simple way to visualize a GPX track in a spatial context, and  to animate the track with respect to time traveled on a web map. Please visit the IX site listed under Version 1.0 to use the latest application. 
 
 
 ### Hosted on IX:
