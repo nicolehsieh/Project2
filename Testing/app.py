@@ -72,13 +72,7 @@ def upload_file():
             durations = calcDurations(arrays[1], animlength)
             g.durations = durations
             
-            # session store filename in cookies
-            # session['filename'] = filename
-            # session allows you to store information specific to a user from one request to the next. 
-            # This is implemented on top of cookies for you and signs the cookies cryptographically. 
 
-            # Redirect the user to the uploaded_file route, which 
-            # will basicaly show on the browser the uploaded file
             return render_template("leaf.html")
             
 
@@ -91,16 +85,9 @@ def upload_file():
 def uploaded_file(filename):
     return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
-# # display gpx path on a map
-# @app.route('/display', methods = ['GET','POST'])
-# def display():
-#     # retrieve file name from cookies session
-#     # filename = session['filename']
-#     filename = request.args.get('filename')
-#     return render_template("leaf.html")
 
-# set the secret key. 
-# app.secret_key = '\x81|fL\xec\xa2[\x12\xf0\x0f\xa8X'
+
+
 
 
 # from https://bitbucket.org/MichalYoung/enroute-saunter/src/be98484f0ae062ac8ed0b5f2829f4b78d16911dc/htbin/gpx_from_file.cgi?at=master&fileviewer=file-view-default
@@ -180,5 +167,5 @@ if __name__ == '__main__':
     app.run(
         debug=True, 
         host='0.0.0.0', 
-        port=5002
+        port=5000
     )

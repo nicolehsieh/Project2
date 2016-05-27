@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<title>Display Map</title>
+
+    	<meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+     
+        <!-- Bootstrap -->
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"> -->
+        <!-- // <script src="http://code.jquery.com/jquery-1.11.3.js"></script> -->
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+ 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+
+        <!-- Google Hosted jQuery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+        
+    	<!-- Leaflet -->
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+		<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    	
+    	<!-- Moving Maker -->
+    	<script type=text/javascript src="{{ url_for('static', filename='js/MovingMarker.js') }}"></script> 
+    </head>
+    <body>
+    	<nav class="navbar navbar-default navbar-static-top">
+        	<div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">GPX Visualizer</a>
+            </div>
+            	<div id="navbar" class="navbar-collapse collapse">
+                	<ul class="nav navbar-nav">
+                    	<li class="dropdown">
+                        	<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Git<span class="caret"></span></a>
+	                        <ul class="dropdown-menu">
+	                            <li> <a href="https://github.com/nicolehsieh/Project2/tree/master/Version_1">Version 1</a>
+	                            </li>
+	                            <li><a href="#">Version 2</a>
+	                            </li>
+	                            <li role="separator" class="divider"></li>
+	                            <li class="dropdown-header">Documentations</li>
+	                            <li>
+	                                <a href="https://github.com/nicolehsieh/Project2/wiki/User's-Guide">User's Guide</a>
+	                            </li>
+	                            <li>
+                                	<a href="#">Software Desgin</a>
+                            	</li>
+                        	</ul>
+                    	</li>
+                	</ul>
+            	</div><!--/.nav-collapse -->
+        	</div>
+        </div>
+    	</nav>
+
+
+    	<div class="container" >
+    		<div class="col-lg-12">
+    			<h2>GPX Map</h2>
+    			<div class="text-center">
+    				<button type="button" class="btn btn-success btn-lg" id="play" onclick="playFunction()">Play</button>
+	    			<button type="button" class="btn btn-warning btn-lg" id="pause" onclick="pauseFunction()">Pause</button>
+	    			<button type="button" class="btn btn-danger btn-lg" id="stop" onclick="stopFunction()">Stop</button>
+	    		</div>
+    		</div>
+    	</div>
+
+    	<br><br>
+    	<div class="container" >
+    		<div class="col-lg-12">
+    			<div id="mapid" style="width: 900px; height: 500px" action="{{ url_for('upload_file') }}"></div>
+    		</div>
+    	</div>
+
+    	<!-- Map -->
+    	<script type="text/javascript" >
+    		var map = L.map('mapid');
+
+			L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { 
+					attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>',
+					maxZoom: 18
+				}).addTo(map);
+			map.attributionControl.setPrefix(''); // Don't show the 'Powered by Leaflet' text.
+
+	//=======================================================================
+			//slider on change function
+			function showValue(newValue){
+				document.getElementById("range").innerHTML=newValue;
+				//maybe include ajax code here to send (post?) this value to the flask side
+			}
+	// ======================================================================
+
+			// longitudes and latitudes points
+			var points = {{g["points"]}};
+			var durations = {{g["durations"]}};
+			// console.log(points)
+
+			// some polyline options
+			var polylineOptions = {
+				color: 'blue',
+				weight: 6,
+				opacity: 0.9
+			};
+
+			var polyline = new L.Polyline(points, polylineOptions);
+			map.addLayer(polyline);
+
+			// zoom the map to the polyline
+			map.fitBounds(polyline.getBounds());
+
+
+			// MOVING MAKER - WORKS
+			var myMovingMarker = L.Marker.movingMarker(points, durations).addTo(map);
+			
+			//Play, Pause, and Stop button functions
+			function playFunction(){
+				myMovingMarker.start();
+			}
+			function pauseFunction(){
+				myMovingMarker.pause();
+			}
+			function stopFunction(){
+				myMovingMarker.stop();
+			}
+
+    	</script>
+
+
+    	<footer class="footer">
+	    	<div class="container">
+	    		<br>
+	    		<p>© Spring 2016 CIS 422 
+	    			<a hreft="index.html">GPX Visualizer </a>
+	    		</p>
+	    		<br>
+	    	</div>
+	    </footer>
+    </body>
+
+    
+</html>
