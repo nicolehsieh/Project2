@@ -4,7 +4,7 @@
 
 
 ### Hosted on IX:
-- Version 1.0: http://ix.cs.uoregon.edu:6868/ <br>
+- Version 1.0: http://ix.cs.uoregon.edu:7171/ <br>
 - Test: http://ix.cs.uoregon.edu:6869/ <br>
 
 
